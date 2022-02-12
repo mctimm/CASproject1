@@ -1,0 +1,3 @@
+This has daily-ish case counts for every european country!
+
+https://www.ecdc.europa.eu/en/publications-data/data-daily-new-cases-covid-19-eueea-country
