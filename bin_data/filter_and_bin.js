@@ -55,19 +55,35 @@ dates2.forEach((element) => {
 
 country1 = country1.filter((x) => !not_included_dates1.includes(x.dateRep));
 country2 = country2.filter((x) => !not_included_dates2.includes(x.dateRep));
+let country1_binned = bin(country1);
+let country2_binned = bin(country2);
+function bin(arr) {
+  let binnedavg = [];
+  for (let index = 6; index < arr.length - 7; index++) {
+    binnedavg.push(
+      arr
+        .slice(index - 6, index)
+        .reduce((x, y) => parseInt(x) + parseInt(y.cases), 0)
+    );
+  }
+  let max = Math.max(...binnedavg);
+  binnedavg = binnedavg.map((x) => {
+    let y = Math.floor((x / max) * 100);
+    return y;
+  });
+  return binnedavg;
+}
+
+// country2 = country2.filter((x) => !not_included_dates2.includes(x.dateRep));
 // console.log(country2.length);
 // console.log(country1.length);
 
 let jiditString = "";
-for (let index = country1.length - 1; index >= 0; index--) {
-  jiditString += country1[index].binned + " " + country2[index].binned + "\n";
+for (let index = country1_binned.length - 1; index >= 0; index--) {
+  jiditString += country1_binned[index] + " " + country2_binned[index] + "\n";
 }
-console.log(country1[0]);
-console.log(country2[0]);
-// let jiditString = binned_data.reduce((x, y) => x + y.binned + "\n", "");
-console.log(jiditString);
 fs.writeFileSync(
-  `${country_code1} - ${country_code2} for_jidit.txt`,
+  `${country_code1} - ${country_code2} 7 day average - for_jidit.txt`,
   jiditString
 );
 // console.log(`${sum} + ${not_included_dates.length}/${dates1.length} `);
