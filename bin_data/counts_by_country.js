@@ -5,12 +5,15 @@
 const date_intersection = (country1, country2) => {
   let dates1 = country1.map((x) => x.dateRep);
   let dates2 = country2.map((x) => x.dateRep);
-  let not_included_dates1 = country1
-    .filter((x) => x.cases === null)
+
+  let nonos1 = country1
+    .filter((x) => x.cases === null || x.cases < 0)
     .map((x) => x.dateRep);
-  let not_included_dates2 = country2
-    .filter((x) => x.cases === null)
+  let nonos2 = country2
+    .filter((x) => x.cases === null || x.cases < 0)
     .map((x) => x.dateRep);
+  let not_included_dates1 = nonos1.concat(nonos2);
+  let not_included_dates2 = nonos1.concat(nonos2);
   dates1.forEach((element) => {
     if (dates2.includes(element)) {
     } else {
@@ -34,6 +37,18 @@ const date_intersection = (country1, country2) => {
     .sort((x, y) => {
       return new Date(x.dateRep) - new Date(y.dateRep);
     });
+  if (country1.length != country2.length) {
+    console.log(
+      "" +
+        country1[0].countryterritoryCode +
+        " - " +
+        country1.length +
+        " , " +
+        country2[0].countryterritoryCode +
+        " - " +
+        country2.length
+    );
+  }
   return {
     c1: country1,
     c2: country2,
@@ -85,7 +100,11 @@ const bin = (arr) => {
 };
 
 const stringify_data = (binned_data) => {
-  return binned_data.reduce((x, y) => x + "," + y, "");
+  return binned_data.join(",");
+};
+
+const sum_data = (binned_data) => {
+  return binned_data.reduce((x, y) => x + y, 0);
 };
 
 const makeAnonObj = (c1code, c1data, c2code, c2data) => {
@@ -115,11 +134,14 @@ const get_matching_data = (countries, country_codes) => {
   let data = [];
   for (let index = 0; index < country_codes.length; index++) {
     const ccode = country_codes[index];
-    for (let index2 = index + 1; index2 < country_codes.length; index2++) {
+    for (let index2 = 0; index2 < country_codes.length; index2++) {
+      // for (let index2 = 0; index2 < country_codes.length; index2++) {
       const ccode2 = country_codes[index2];
-      let obj = makeDataPoint(ccode, ccode2, countries);
-      printProgress(`${index}/${country_codes.length}`);
-      data.push(obj);
+      if (!(ccode === ccode2)) {
+        let obj = makeDataPoint(ccode, ccode2, countries);
+        printProgress(`${index}/${country_codes.length}`);
+        data.push(obj);
+      }
     }
   }
   return data;
@@ -129,11 +151,14 @@ const fs = require("fs");
 let rawdata = fs.readFileSync("countries.json");
 let countries = JSON.parse(rawdata).records;
 let country_codes = [...new Set(countries.map((x) => x.countryterritoryCode))];
+// let country_codes = [
+//   ...new Set(countries.map((x) => x.countriesAndTerritories)),
+// ];
 console.log(country_codes);
 // matching_days(countries, country_codes);
-let data = get_matching_data(countries, country_codes);
+// let data = get_matching_data(countries, country_codes);
 
-fs.writeFileSync(
-  `matching_data/OverallMatchingData.json`,
-  JSON.stringify(data)
-);
+// fs.writeFileSync(
+//   `matching_data/OverallMatchingData_thrd.json`,
+//   JSON.stringify(data)
+// );
