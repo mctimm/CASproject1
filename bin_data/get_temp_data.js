@@ -11,12 +11,13 @@ let data = rawdata
 console.log(datamap);
 
 rawdata = fs.readFileSync("countries.json");
-let countries = JSON.parse(rawdata).records;
-countries = [...new Set(countries.map((x) => x.countriesAndTerritories))];
+let countries2 = JSON.parse(rawdata).records;
+let countries = [...new Set(countries2.map((x) => x.countriesAndTerritories))];
 
 let stuff = countries.map((element) => {
   return {
-    country: element,
+    country: countries2.filter((x) => element == x.countriesAndTerritories)[0]
+      .countryterritoryCode,
     temp: datamap.get(element),
   };
 });
