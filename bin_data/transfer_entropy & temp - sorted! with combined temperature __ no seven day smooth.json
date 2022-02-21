@@ -1,0 +1,7172 @@
+[
+  {
+    "c1_temp": 19.2,
+    "Transfer Entropy": null,
+    "c1": "MLT",
+    "c2_temp": 19.2,
+    "c2": "MLT"
+  },
+  {
+    "Transfer Entropy": 0.5712648617353642,
+    "c1_temp": 19.2,
+    "Combined Temperature": 37.65,
+    "c2": "CYP",
+    "c1": "MLT",
+    "c2_temp": 18.45
+  },
+  {
+    "Transfer Entropy": 0.6871219470987795,
+    "c1_temp": 19.2,
+    "Combined Temperature": 34.6,
+    "c2": "GRC",
+    "c1": "MLT",
+    "c2_temp": 15.4
+  },
+  {
+    "Transfer Entropy": 0.4116642052995653,
+    "c1_temp": 19.2,
+    "Combined Temperature": 34.35,
+    "c2": "PRT",
+    "c1": "MLT",
+    "c2_temp": 15.15
+  },
+  {
+    "Transfer Entropy": 0.5151009587839581,
+    "c1_temp": 19.2,
+    "Combined Temperature": 32.65,
+    "c2": "ITA",
+    "c1": "MLT",
+    "c2_temp": 13.45
+  },
+  {
+    "Transfer Entropy": 0.5729359673290889,
+    "c1_temp": 19.2,
+    "Combined Temperature": 32.5,
+    "c2": "ESP",
+    "c1": "MLT",
+    "c2_temp": 13.3
+  },
+  {
+    "Transfer Entropy": 0.4232578688667688,
+    "c1_temp": 19.2,
+    "Combined Temperature": 30.1,
+    "c2": "HRV",
+    "c1": "MLT",
+    "c2_temp": 10.9
+  },
+  {
+    "Transfer Entropy": 0.697587590626971,
+    "c1_temp": 19.2,
+    "Combined Temperature": 29.9,
+    "c2": "FRA",
+    "c1": "MLT",
+    "c2_temp": 10.7
+  },
+  {
+    "Transfer Entropy": 0.3546523114249126,
+    "c1_temp": 19.2,
+    "Combined Temperature": 29.75,
+    "c2": "BGR",
+    "c1": "MLT",
+    "c2_temp": 10.55
+  },
+  {
+    "Transfer Entropy": 0.49181499753233293,
+    "c1_temp": 19.2,
+    "Combined Temperature": 28.95,
+    "c2": "HUN",
+    "c1": "MLT",
+    "c2_temp": 9.75
+  },
+  {
+    "Transfer Entropy": 0.6503947768114211,
+    "c1_temp": 19.2,
+    "Combined Temperature": 28.75,
+    "c2": "BEL",
+    "c1": "MLT",
+    "c2_temp": 9.55
+  },
+  {
+    "Transfer Entropy": 0.5208852780730441,
+    "c1_temp": 19.2,
+    "Combined Temperature": 28.5,
+    "c2": "IRL",
+    "c1": "MLT",
+    "c2_temp": 9.3
+  },
+  {
+    "Transfer Entropy": 0.285660996573225,
+    "c1_temp": 19.2,
+    "Combined Temperature": 28.45,
+    "c2": "NLD",
+    "c1": "MLT",
+    "c2_temp": 9.25
+  },
+  {
+    "Transfer Entropy": 0.692357882058385,
+    "c1_temp": 19.2,
+    "Combined Temperature": 28.1,
+    "c2": "SVN",
+    "c1": "MLT",
+    "c2_temp": 8.9
+  },
+  {
+    "Transfer Entropy": 0.503884212603896,
+    "c1_temp": 19.2,
+    "Combined Temperature": 28.0,
+    "c2": "ROU",
+    "c1": "MLT",
+    "c2_temp": 8.8
+  },
+  {
+    "Transfer Entropy": 0.7403488781908009,
+    "c1_temp": 19.2,
+    "Combined Temperature": 27.85,
+    "c2": "LUX",
+    "c1": "MLT",
+    "c2_temp": 8.65
+  },
+  {
+    "Transfer Entropy": 0.6480493827154103,
+    "c1_temp": 19.2,
+    "Combined Temperature": 27.6,
+    "c2": "DEU",
+    "c1": "MLT",
+    "c2_temp": 8.4
+  },
+  {
+    "Transfer Entropy": 0.15600695288671948,
+    "c1_temp": 19.2,
+    "Combined Temperature": 27.049999999999997,
+    "c2": "POL",
+    "c1": "MLT",
+    "c2_temp": 7.85
+  },
+  {
+    "Transfer Entropy": 0.2748744701496155,
+    "c1_temp": 19.2,
+    "Combined Temperature": 26.75,
+    "c2": "CZE",
+    "c1": "MLT",
+    "c2_temp": 7.55
+  },
+  {
+    "Transfer Entropy": 0.2788148920226342,
+    "c1_temp": 19.2,
+    "Combined Temperature": 26.7,
+    "c2": "DNK",
+    "c1": "MLT",
+    "c2_temp": 7.5
+  },
+  {
+    "Transfer Entropy": 0.28173853728934517,
+    "c1_temp": 19.2,
+    "Combined Temperature": 26.0,
+    "c2": "SVK",
+    "c1": "MLT",
+    "c2_temp": 6.8
+  },
+  {
+    "Transfer Entropy": 0.5352537546918069,
+    "c1_temp": 19.2,
+    "Combined Temperature": 25.549999999999997,
+    "c2": "AUT",
+    "c1": "MLT",
+    "c2_temp": 6.35
+  },
+  {
+    "Transfer Entropy": 0.5855923892392964,
+    "c1_temp": 19.2,
+    "Combined Temperature": 25.4,
+    "c2": "LTU",
+    "c1": "MLT",
+    "c2_temp": 6.2
+  },
+  {
+    "Transfer Entropy": 0.4933023424134442,
+    "c1_temp": 19.2,
+    "Combined Temperature": 24.85,
+    "c2": "LIE",
+    "c1": "MLT",
+    "c2_temp": 5.65
+  },
+  {
+    "Transfer Entropy": 0.6399513823688876,
+    "c1_temp": 19.2,
+    "Combined Temperature": 24.799999999999997,
+    "c2": "LVA",
+    "c1": "MLT",
+    "c2_temp": 5.6
+  },
+  {
+    "Transfer Entropy": 0.5294814144765964,
+    "c1_temp": 19.2,
+    "Combined Temperature": 24.299999999999997,
+    "c2": "EST",
+    "c1": "MLT",
+    "c2_temp": 5.1
+  },
+  {
+    "Transfer Entropy": 0.5341890740868612,
+    "c1_temp": 19.2,
+    "Combined Temperature": 21.3,
+    "c2": "SWE",
+    "c1": "MLT",
+    "c2_temp": 2.1
+  },
+  {
+    "Transfer Entropy": 0.3884396632245982,
+    "c1_temp": 19.2,
+    "Combined Temperature": 20.95,
+    "c2": "ISL",
+    "c1": "MLT",
+    "c2_temp": 1.75
+  },
+  {
+    "Transfer Entropy": 0.7160912010547184,
+    "c1_temp": 19.2,
+    "Combined Temperature": 20.9,
+    "c2": "FIN",
+    "c1": "MLT",
+    "c2_temp": 1.7
+  },
+  {
+    "Transfer Entropy": 0.3510615795699279,
+    "c1_temp": 19.2,
+    "Combined Temperature": 20.7,
+    "c2": "NOR",
+    "c1": "MLT",
+    "c2_temp": 1.5
+  },
+  {
+    "Transfer Entropy": 0.6248838294187733,
+    "c1_temp": 18.45,
+    "Combined Temperature": 37.65,
+    "c2": "MLT",
+    "c1": "CYP",
+    "c2_temp": 19.2
+  },
+  {
+    "c1_temp": 18.45,
+    "Transfer Entropy": null,
+    "c1": "CYP",
+    "c2_temp": 18.45,
+    "c2": "CYP"
+  },
+  {
+    "Transfer Entropy": 0.673286763714707,
+    "c1_temp": 18.45,
+    "Combined Temperature": 33.85,
+    "c2": "GRC",
+    "c1": "CYP",
+    "c2_temp": 15.4
+  },
+  {
+    "Transfer Entropy": 0.47423714091978314,
+    "c1_temp": 18.45,
+    "Combined Temperature": 33.6,
+    "c2": "PRT",
+    "c1": "CYP",
+    "c2_temp": 15.15
+  },
+  {
+    "Transfer Entropy": 0.5040137655325916,
+    "c1_temp": 18.45,
+    "Combined Temperature": 31.9,
+    "c2": "ITA",
+    "c1": "CYP",
+    "c2_temp": 13.45
+  },
+  {
+    "Transfer Entropy": 0.620927640229376,
+    "c1_temp": 18.45,
+    "Combined Temperature": 31.75,
+    "c2": "ESP",
+    "c1": "CYP",
+    "c2_temp": 13.3
+  },
+  {
+    "Transfer Entropy": 0.3594063117948122,
+    "c1_temp": 18.45,
+    "Combined Temperature": 29.35,
+    "c2": "HRV",
+    "c1": "CYP",
+    "c2_temp": 10.9
+  },
+  {
+    "Transfer Entropy": 0.6359689109671134,
+    "c1_temp": 18.45,
+    "Combined Temperature": 29.15,
+    "c2": "FRA",
+    "c1": "CYP",
+    "c2_temp": 10.7
+  },
+  {
+    "Transfer Entropy": 0.34333811529544506,
+    "c1_temp": 18.45,
+    "Combined Temperature": 29.0,
+    "c2": "BGR",
+    "c1": "CYP",
+    "c2_temp": 10.55
+  },
+  {
+    "Transfer Entropy": 0.4971939928598276,
+    "c1_temp": 18.45,
+    "Combined Temperature": 28.2,
+    "c2": "HUN",
+    "c1": "CYP",
+    "c2_temp": 9.75
+  },
+  {
+    "Transfer Entropy": 0.6106689849112887,
+    "c1_temp": 18.45,
+    "Combined Temperature": 28.0,
+    "c2": "BEL",
+    "c1": "CYP",
+    "c2_temp": 9.55
+  },
+  {
+    "Transfer Entropy": 0.44530087861216994,
+    "c1_temp": 18.45,
+    "Combined Temperature": 27.75,
+    "c2": "IRL",
+    "c1": "CYP",
+    "c2_temp": 9.3
+  },
+  {
+    "Transfer Entropy": 0.2578523656164469,
+    "c1_temp": 18.45,
+    "Combined Temperature": 27.7,
+    "c2": "NLD",
+    "c1": "CYP",
+    "c2_temp": 9.25
+  },
+  {
+    "Transfer Entropy": 0.6521828892825906,
+    "c1_temp": 18.45,
+    "Combined Temperature": 27.35,
+    "c2": "SVN",
+    "c1": "CYP",
+    "c2_temp": 8.9
+  },
+  {
+    "Transfer Entropy": 0.4116369592847252,
+    "c1_temp": 18.45,
+    "Combined Temperature": 27.25,
+    "c2": "ROU",
+    "c1": "CYP",
+    "c2_temp": 8.8
+  },
+  {
+    "Transfer Entropy": 0.7641286484193786,
+    "c1_temp": 18.45,
+    "Combined Temperature": 27.1,
+    "c2": "LUX",
+    "c1": "CYP",
+    "c2_temp": 8.65
+  },
+  {
+    "Transfer Entropy": 0.5664126529503122,
+    "c1_temp": 18.45,
+    "Combined Temperature": 26.85,
+    "c2": "DEU",
+    "c1": "CYP",
+    "c2_temp": 8.4
+  },
+  {
+    "Transfer Entropy": 0.18880575838099725,
+    "c1_temp": 18.45,
+    "Combined Temperature": 26.299999999999997,
+    "c2": "POL",
+    "c1": "CYP",
+    "c2_temp": 7.85
+  },
+  {
+    "Transfer Entropy": 0.30099966726693445,
+    "c1_temp": 18.45,
+    "Combined Temperature": 26.0,
+    "c2": "CZE",
+    "c1": "CYP",
+    "c2_temp": 7.55
+  },
+  {
+    "Transfer Entropy": 0.2804067348933185,
+    "c1_temp": 18.45,
+    "Combined Temperature": 25.95,
+    "c2": "DNK",
+    "c1": "CYP",
+    "c2_temp": 7.5
+  },
+  {
+    "Transfer Entropy": 0.3148027835893669,
+    "c1_temp": 18.45,
+    "Combined Temperature": 25.25,
+    "c2": "SVK",
+    "c1": "CYP",
+    "c2_temp": 6.8
+  },
+  {
+    "Transfer Entropy": 0.4698138291222255,
+    "c1_temp": 18.45,
+    "Combined Temperature": 24.799999999999997,
+    "c2": "AUT",
+    "c1": "CYP",
+    "c2_temp": 6.35
+  },
+  {
+    "Transfer Entropy": 0.5210079831723883,
+    "c1_temp": 18.45,
+    "Combined Temperature": 24.65,
+    "c2": "LTU",
+    "c1": "CYP",
+    "c2_temp": 6.2
+  },
+  {
+    "Transfer Entropy": 0.46929830575376,
+    "c1_temp": 18.45,
+    "Combined Temperature": 24.1,
+    "c2": "LIE",
+    "c1": "CYP",
+    "c2_temp": 5.65
+  },
+  {
+    "Transfer Entropy": 0.6184309996632257,
+    "c1_temp": 18.45,
+    "Combined Temperature": 24.049999999999997,
+    "c2": "LVA",
+    "c1": "CYP",
+    "c2_temp": 5.6
+  },
+  {
+    "Transfer Entropy": 0.5637014971522375,
+    "c1_temp": 18.45,
+    "Combined Temperature": 23.549999999999997,
+    "c2": "EST",
+    "c1": "CYP",
+    "c2_temp": 5.1
+  },
+  {
+    "Transfer Entropy": 0.5583329193781472,
+    "c1_temp": 18.45,
+    "Combined Temperature": 20.55,
+    "c2": "SWE",
+    "c1": "CYP",
+    "c2_temp": 2.1
+  },
+  {
+    "Transfer Entropy": 0.41952081058165724,
+    "c1_temp": 18.45,
+    "Combined Temperature": 20.2,
+    "c2": "ISL",
+    "c1": "CYP",
+    "c2_temp": 1.75
+  },
+  {
+    "Transfer Entropy": 0.6361455853996453,
+    "c1_temp": 18.45,
+    "Combined Temperature": 20.15,
+    "c2": "FIN",
+    "c1": "CYP",
+    "c2_temp": 1.7
+  },
+  {
+    "Transfer Entropy": 0.3339379220646318,
+    "c1_temp": 18.45,
+    "Combined Temperature": 19.95,
+    "c2": "NOR",
+    "c1": "CYP",
+    "c2_temp": 1.5
+  },
+  {
+    "Transfer Entropy": 0.6146425137110151,
+    "c1_temp": 15.4,
+    "Combined Temperature": 34.6,
+    "c2": "MLT",
+    "c1": "GRC",
+    "c2_temp": 19.2
+  },
+  {
+    "Transfer Entropy": 0.543647059894562,
+    "c1_temp": 15.4,
+    "Combined Temperature": 33.85,
+    "c2": "CYP",
+    "c1": "GRC",
+    "c2_temp": 18.45
+  },
+  {
+    "c1_temp": 15.4,
+    "Transfer Entropy": null,
+    "c1": "GRC",
+    "c2_temp": 15.4,
+    "c2": "GRC"
+  },
+  {
+    "Transfer Entropy": 0.4673173256240208,
+    "c1_temp": 15.4,
+    "Combined Temperature": 30.55,
+    "c2": "PRT",
+    "c1": "GRC",
+    "c2_temp": 15.15
+  },
+  {
+    "Transfer Entropy": 0.47907024044617574,
+    "c1_temp": 15.4,
+    "Combined Temperature": 28.85,
+    "c2": "ITA",
+    "c1": "GRC",
+    "c2_temp": 13.45
+  },
+  {
+    "Transfer Entropy": 0.6232998382079433,
+    "c1_temp": 15.4,
+    "Combined Temperature": 28.700000000000003,
+    "c2": "ESP",
+    "c1": "GRC",
+    "c2_temp": 13.3
+  },
+  {
+    "Transfer Entropy": 0.3140669629029407,
+    "c1_temp": 15.4,
+    "Combined Temperature": 26.3,
+    "c2": "HRV",
+    "c1": "GRC",
+    "c2_temp": 10.9
+  },
+  {
+    "Transfer Entropy": 0.582275524243553,
+    "c1_temp": 15.4,
+    "Combined Temperature": 26.1,
+    "c2": "FRA",
+    "c1": "GRC",
+    "c2_temp": 10.7
+  },
+  {
+    "Transfer Entropy": 0.3180342161525258,
+    "c1_temp": 15.4,
+    "Combined Temperature": 25.950000000000003,
+    "c2": "BGR",
+    "c1": "GRC",
+    "c2_temp": 10.55
+  },
+  {
+    "Transfer Entropy": 0.49083603052164504,
+    "c1_temp": 15.4,
+    "Combined Temperature": 25.15,
+    "c2": "HUN",
+    "c1": "GRC",
+    "c2_temp": 9.75
+  },
+  {
+    "Transfer Entropy": 0.5002710664745162,
+    "c1_temp": 15.4,
+    "Combined Temperature": 24.950000000000003,
+    "c2": "BEL",
+    "c1": "GRC",
+    "c2_temp": 9.55
+  },
+  {
+    "Transfer Entropy": 0.41565854140804975,
+    "c1_temp": 15.4,
+    "Combined Temperature": 24.700000000000003,
+    "c2": "IRL",
+    "c1": "GRC",
+    "c2_temp": 9.3
+  },
+  {
+    "Transfer Entropy": 0.226230574939005,
+    "c1_temp": 15.4,
+    "Combined Temperature": 24.65,
+    "c2": "NLD",
+    "c1": "GRC",
+    "c2_temp": 9.25
+  },
+  {
+    "Transfer Entropy": 0.6058280784537706,
+    "c1_temp": 15.4,
+    "Combined Temperature": 24.3,
+    "c2": "SVN",
+    "c1": "GRC",
+    "c2_temp": 8.9
+  },
+  {
+    "Transfer Entropy": 0.4247527521733293,
+    "c1_temp": 15.4,
+    "Combined Temperature": 24.200000000000003,
+    "c2": "ROU",
+    "c1": "GRC",
+    "c2_temp": 8.8
+  },
+  {
+    "Transfer Entropy": 0.7027677128133126,
+    "c1_temp": 15.4,
+    "Combined Temperature": 24.05,
+    "c2": "LUX",
+    "c1": "GRC",
+    "c2_temp": 8.65
+  },
+  {
+    "Transfer Entropy": 0.4966068252355466,
+    "c1_temp": 15.4,
+    "Combined Temperature": 23.8,
+    "c2": "DEU",
+    "c1": "GRC",
+    "c2_temp": 8.4
+  },
+  {
+    "Transfer Entropy": 0.18656908801137984,
+    "c1_temp": 15.4,
+    "Combined Temperature": 23.25,
+    "c2": "POL",
+    "c1": "GRC",
+    "c2_temp": 7.85
+  },
+  {
+    "Transfer Entropy": 0.2824796036092795,
+    "c1_temp": 15.4,
+    "Combined Temperature": 22.95,
+    "c2": "CZE",
+    "c1": "GRC",
+    "c2_temp": 7.55
+  },
+  {
+    "Transfer Entropy": 0.22193501588932973,
+    "c1_temp": 15.4,
+    "Combined Temperature": 22.9,
+    "c2": "DNK",
+    "c1": "GRC",
+    "c2_temp": 7.5
+  },
+  {
+    "Transfer Entropy": 0.31192125041829605,
+    "c1_temp": 15.4,
+    "Combined Temperature": 22.2,
+    "c2": "SVK",
+    "c1": "GRC",
+    "c2_temp": 6.8
+  },
+  {
+    "Transfer Entropy": 0.42437084611473175,
+    "c1_temp": 15.4,
+    "Combined Temperature": 21.75,
+    "c2": "AUT",
+    "c1": "GRC",
+    "c2_temp": 6.35
+  },
+  {
+    "Transfer Entropy": 0.4855289466863534,
+    "c1_temp": 15.4,
+    "Combined Temperature": 21.6,
+    "c2": "LTU",
+    "c1": "GRC",
+    "c2_temp": 6.2
+  },
+  {
+    "Transfer Entropy": 0.3810378823651439,
+    "c1_temp": 15.4,
+    "Combined Temperature": 21.05,
+    "c2": "LIE",
+    "c1": "GRC",
+    "c2_temp": 5.65
+  },
+  {
+    "Transfer Entropy": 0.5290897022549397,
+    "c1_temp": 15.4,
+    "Combined Temperature": 21.0,
+    "c2": "LVA",
+    "c1": "GRC",
+    "c2_temp": 5.6
+  },
+  {
+    "Transfer Entropy": 0.49555619820702895,
+    "c1_temp": 15.4,
+    "Combined Temperature": 20.5,
+    "c2": "EST",
+    "c1": "GRC",
+    "c2_temp": 5.1
+  },
+  {
+    "Transfer Entropy": 0.5423229181980399,
+    "c1_temp": 15.4,
+    "Combined Temperature": 17.5,
+    "c2": "SWE",
+    "c1": "GRC",
+    "c2_temp": 2.1
+  },
+  {
+    "Transfer Entropy": 0.38369170433892275,
+    "c1_temp": 15.4,
+    "Combined Temperature": 17.15,
+    "c2": "ISL",
+    "c1": "GRC",
+    "c2_temp": 1.75
+  },
+  {
+    "Transfer Entropy": 0.5438937450458855,
+    "c1_temp": 15.4,
+    "Combined Temperature": 17.1,
+    "c2": "FIN",
+    "c1": "GRC",
+    "c2_temp": 1.7
+  },
+  {
+    "Transfer Entropy": 0.2753434943825754,
+    "c1_temp": 15.4,
+    "Combined Temperature": 16.9,
+    "c2": "NOR",
+    "c1": "GRC",
+    "c2_temp": 1.5
+  },
+  {
+    "Transfer Entropy": 0.4575119157288278,
+    "c1_temp": 15.15,
+    "Combined Temperature": 34.35,
+    "c2": "MLT",
+    "c1": "PRT",
+    "c2_temp": 19.2
+  },
+  {
+    "Transfer Entropy": 0.5347634517955941,
+    "c1_temp": 15.15,
+    "Combined Temperature": 33.6,
+    "c2": "CYP",
+    "c1": "PRT",
+    "c2_temp": 18.45
+  },
+  {
+    "Transfer Entropy": 0.5304619399308346,
+    "c1_temp": 15.15,
+    "Combined Temperature": 30.55,
+    "c2": "GRC",
+    "c1": "PRT",
+    "c2_temp": 15.4
+  },
+  {
+    "c1_temp": 15.15,
+    "Transfer Entropy": null,
+    "c1": "PRT",
+    "c2_temp": 15.15,
+    "c2": "PRT"
+  },
+  {
+    "Transfer Entropy": 0.4260470298053093,
+    "c1_temp": 15.15,
+    "Combined Temperature": 28.6,
+    "c2": "ITA",
+    "c1": "PRT",
+    "c2_temp": 13.45
+  },
+  {
+    "Transfer Entropy": 0.47543435118655086,
+    "c1_temp": 15.15,
+    "Combined Temperature": 28.450000000000003,
+    "c2": "ESP",
+    "c1": "PRT",
+    "c2_temp": 13.3
+  },
+  {
+    "Transfer Entropy": 0.3236758044573671,
+    "c1_temp": 15.15,
+    "Combined Temperature": 26.05,
+    "c2": "HRV",
+    "c1": "PRT",
+    "c2_temp": 10.9
+  },
+  {
+    "Transfer Entropy": 0.5227836882067329,
+    "c1_temp": 15.15,
+    "Combined Temperature": 25.85,
+    "c2": "FRA",
+    "c1": "PRT",
+    "c2_temp": 10.7
+  },
+  {
+    "Transfer Entropy": 0.3088839315573874,
+    "c1_temp": 15.15,
+    "Combined Temperature": 25.700000000000003,
+    "c2": "BGR",
+    "c1": "PRT",
+    "c2_temp": 10.55
+  },
+  {
+    "Transfer Entropy": 0.45355611978864746,
+    "c1_temp": 15.15,
+    "Combined Temperature": 24.9,
+    "c2": "HUN",
+    "c1": "PRT",
+    "c2_temp": 9.75
+  },
+  {
+    "Transfer Entropy": 0.49413882919821045,
+    "c1_temp": 15.15,
+    "Combined Temperature": 24.700000000000003,
+    "c2": "BEL",
+    "c1": "PRT",
+    "c2_temp": 9.55
+  },
+  {
+    "Transfer Entropy": 0.4323979220164064,
+    "c1_temp": 15.15,
+    "Combined Temperature": 24.450000000000003,
+    "c2": "IRL",
+    "c1": "PRT",
+    "c2_temp": 9.3
+  },
+  {
+    "Transfer Entropy": 0.22987016822991943,
+    "c1_temp": 15.15,
+    "Combined Temperature": 24.4,
+    "c2": "NLD",
+    "c1": "PRT",
+    "c2_temp": 9.25
+  },
+  {
+    "Transfer Entropy": 0.5559265712532645,
+    "c1_temp": 15.15,
+    "Combined Temperature": 24.05,
+    "c2": "SVN",
+    "c1": "PRT",
+    "c2_temp": 8.9
+  },
+  {
+    "Transfer Entropy": 0.40930335918607935,
+    "c1_temp": 15.15,
+    "Combined Temperature": 23.950000000000003,
+    "c2": "ROU",
+    "c1": "PRT",
+    "c2_temp": 8.8
+  },
+  {
+    "Transfer Entropy": 0.5969946061715838,
+    "c1_temp": 15.15,
+    "Combined Temperature": 23.8,
+    "c2": "LUX",
+    "c1": "PRT",
+    "c2_temp": 8.65
+  },
+  {
+    "Transfer Entropy": 0.48060054773883276,
+    "c1_temp": 15.15,
+    "Combined Temperature": 23.55,
+    "c2": "DEU",
+    "c1": "PRT",
+    "c2_temp": 8.4
+  },
+  {
+    "Transfer Entropy": 0.12097365096640099,
+    "c1_temp": 15.15,
+    "Combined Temperature": 23.0,
+    "c2": "POL",
+    "c1": "PRT",
+    "c2_temp": 7.85
+  },
+  {
+    "Transfer Entropy": 0.22925137861920916,
+    "c1_temp": 15.15,
+    "Combined Temperature": 22.7,
+    "c2": "CZE",
+    "c1": "PRT",
+    "c2_temp": 7.55
+  },
+  {
+    "Transfer Entropy": 0.22514585302678153,
+    "c1_temp": 15.15,
+    "Combined Temperature": 22.65,
+    "c2": "DNK",
+    "c1": "PRT",
+    "c2_temp": 7.5
+  },
+  {
+    "Transfer Entropy": 0.2531039393452876,
+    "c1_temp": 15.15,
+    "Combined Temperature": 21.95,
+    "c2": "SVK",
+    "c1": "PRT",
+    "c2_temp": 6.8
+  },
+  {
+    "Transfer Entropy": 0.428037426654391,
+    "c1_temp": 15.15,
+    "Combined Temperature": 21.5,
+    "c2": "AUT",
+    "c1": "PRT",
+    "c2_temp": 6.35
+  },
+  {
+    "Transfer Entropy": 0.4515079294014127,
+    "c1_temp": 15.15,
+    "Combined Temperature": 21.35,
+    "c2": "LTU",
+    "c1": "PRT",
+    "c2_temp": 6.2
+  },
+  {
+    "Transfer Entropy": 0.348767422966163,
+    "c1_temp": 15.15,
+    "Combined Temperature": 20.8,
+    "c2": "LIE",
+    "c1": "PRT",
+    "c2_temp": 5.65
+  },
+  {
+    "Transfer Entropy": 0.5197743361872235,
+    "c1_temp": 15.15,
+    "Combined Temperature": 20.75,
+    "c2": "LVA",
+    "c1": "PRT",
+    "c2_temp": 5.6
+  },
+  {
+    "Transfer Entropy": 0.4897968117303554,
+    "c1_temp": 15.15,
+    "Combined Temperature": 20.25,
+    "c2": "EST",
+    "c1": "PRT",
+    "c2_temp": 5.1
+  },
+  {
+    "Transfer Entropy": 0.4176297439232948,
+    "c1_temp": 15.15,
+    "Combined Temperature": 17.25,
+    "c2": "SWE",
+    "c1": "PRT",
+    "c2_temp": 2.1
+  },
+  {
+    "Transfer Entropy": 0.3544837678438099,
+    "c1_temp": 15.15,
+    "Combined Temperature": 16.9,
+    "c2": "ISL",
+    "c1": "PRT",
+    "c2_temp": 1.75
+  },
+  {
+    "Transfer Entropy": 0.5197165602487839,
+    "c1_temp": 15.15,
+    "Combined Temperature": 16.85,
+    "c2": "FIN",
+    "c1": "PRT",
+    "c2_temp": 1.7
+  },
+  {
+    "Transfer Entropy": 0.27815354026967803,
+    "c1_temp": 15.15,
+    "Combined Temperature": 16.65,
+    "c2": "NOR",
+    "c1": "PRT",
+    "c2_temp": 1.5
+  },
+  {
+    "Transfer Entropy": 0.5963389383567217,
+    "c1_temp": 13.45,
+    "Combined Temperature": 32.65,
+    "c2": "MLT",
+    "c1": "ITA",
+    "c2_temp": 19.2
+  },
+  {
+    "Transfer Entropy": 0.609408726115582,
+    "c1_temp": 13.45,
+    "Combined Temperature": 31.9,
+    "c2": "CYP",
+    "c1": "ITA",
+    "c2_temp": 18.45
+  },
+  {
+    "Transfer Entropy": 0.6128051997275967,
+    "c1_temp": 13.45,
+    "Combined Temperature": 28.85,
+    "c2": "GRC",
+    "c1": "ITA",
+    "c2_temp": 15.4
+  },
+  {
+    "Transfer Entropy": 0.37278988859178286,
+    "c1_temp": 13.45,
+    "Combined Temperature": 28.6,
+    "c2": "PRT",
+    "c1": "ITA",
+    "c2_temp": 15.15
+  },
+  {
+    "c1_temp": 13.45,
+    "Transfer Entropy": null,
+    "c1": "ITA",
+    "c2_temp": 13.45,
+    "c2": "ITA"
+  },
+  {
+    "Transfer Entropy": 0.5811787987519637,
+    "c1_temp": 13.45,
+    "Combined Temperature": 26.75,
+    "c2": "ESP",
+    "c1": "ITA",
+    "c2_temp": 13.3
+  },
+  {
+    "Transfer Entropy": 0.2987150780147279,
+    "c1_temp": 13.45,
+    "Combined Temperature": 24.35,
+    "c2": "HRV",
+    "c1": "ITA",
+    "c2_temp": 10.9
+  },
+  {
+    "Transfer Entropy": 0.5730985528487458,
+    "c1_temp": 13.45,
+    "Combined Temperature": 24.15,
+    "c2": "FRA",
+    "c1": "ITA",
+    "c2_temp": 10.7
+  },
+  {
+    "Transfer Entropy": 0.28602305208932133,
+    "c1_temp": 13.45,
+    "Combined Temperature": 24.0,
+    "c2": "BGR",
+    "c1": "ITA",
+    "c2_temp": 10.55
+  },
+  {
+    "Transfer Entropy": 0.4621375638650516,
+    "c1_temp": 13.45,
+    "Combined Temperature": 23.2,
+    "c2": "HUN",
+    "c1": "ITA",
+    "c2_temp": 9.75
+  },
+  {
+    "Transfer Entropy": 0.5632237335355325,
+    "c1_temp": 13.45,
+    "Combined Temperature": 23.0,
+    "c2": "BEL",
+    "c1": "ITA",
+    "c2_temp": 9.55
+  },
+  {
+    "Transfer Entropy": 0.4487387228943719,
+    "c1_temp": 13.45,
+    "Combined Temperature": 22.75,
+    "c2": "IRL",
+    "c1": "ITA",
+    "c2_temp": 9.3
+  },
+  {
+    "Transfer Entropy": 0.23500756733297445,
+    "c1_temp": 13.45,
+    "Combined Temperature": 22.7,
+    "c2": "NLD",
+    "c1": "ITA",
+    "c2_temp": 9.25
+  },
+  {
+    "Transfer Entropy": 0.6449808193556944,
+    "c1_temp": 13.45,
+    "Combined Temperature": 22.35,
+    "c2": "SVN",
+    "c1": "ITA",
+    "c2_temp": 8.9
+  },
+  {
+    "Transfer Entropy": 0.41142256032123614,
+    "c1_temp": 13.45,
+    "Combined Temperature": 22.25,
+    "c2": "ROU",
+    "c1": "ITA",
+    "c2_temp": 8.8
+  },
+  {
+    "Transfer Entropy": 0.6316872214928513,
+    "c1_temp": 13.45,
+    "Combined Temperature": 22.1,
+    "c2": "LUX",
+    "c1": "ITA",
+    "c2_temp": 8.65
+  },
+  {
+    "Transfer Entropy": 0.6009971695268899,
+    "c1_temp": 13.45,
+    "Combined Temperature": 21.85,
+    "c2": "DEU",
+    "c1": "ITA",
+    "c2_temp": 8.4
+  },
+  {
+    "Transfer Entropy": 0.14118404905423676,
+    "c1_temp": 13.45,
+    "Combined Temperature": 21.299999999999997,
+    "c2": "POL",
+    "c1": "ITA",
+    "c2_temp": 7.85
+  },
+  {
+    "Transfer Entropy": 0.2812854860176358,
+    "c1_temp": 13.45,
+    "Combined Temperature": 21.0,
+    "c2": "CZE",
+    "c1": "ITA",
+    "c2_temp": 7.55
+  },
+  {
+    "Transfer Entropy": 0.2542377008524236,
+    "c1_temp": 13.45,
+    "Combined Temperature": 20.95,
+    "c2": "DNK",
+    "c1": "ITA",
+    "c2_temp": 7.5
+  },
+  {
+    "Transfer Entropy": 0.3088575145038357,
+    "c1_temp": 13.45,
+    "Combined Temperature": 20.25,
+    "c2": "SVK",
+    "c1": "ITA",
+    "c2_temp": 6.8
+  },
+  {
+    "Transfer Entropy": 0.45931111498143407,
+    "c1_temp": 13.45,
+    "Combined Temperature": 19.799999999999997,
+    "c2": "AUT",
+    "c1": "ITA",
+    "c2_temp": 6.35
+  },
+  {
+    "Transfer Entropy": 0.5037561799621577,
+    "c1_temp": 13.45,
+    "Combined Temperature": 19.65,
+    "c2": "LTU",
+    "c1": "ITA",
+    "c2_temp": 6.2
+  },
+  {
+    "Transfer Entropy": 0.3958602489110381,
+    "c1_temp": 13.45,
+    "Combined Temperature": 19.1,
+    "c2": "LIE",
+    "c1": "ITA",
+    "c2_temp": 5.65
+  },
+  {
+    "Transfer Entropy": 0.6031004148450775,
+    "c1_temp": 13.45,
+    "Combined Temperature": 19.049999999999997,
+    "c2": "LVA",
+    "c1": "ITA",
+    "c2_temp": 5.6
+  },
+  {
+    "Transfer Entropy": 0.5581957909525298,
+    "c1_temp": 13.45,
+    "Combined Temperature": 18.549999999999997,
+    "c2": "EST",
+    "c1": "ITA",
+    "c2_temp": 5.1
+  },
+  {
+    "Transfer Entropy": 0.45171659319913754,
+    "c1_temp": 13.45,
+    "Combined Temperature": 15.549999999999999,
+    "c2": "SWE",
+    "c1": "ITA",
+    "c2_temp": 2.1
+  },
+  {
+    "Transfer Entropy": 0.37200263014539403,
+    "c1_temp": 13.45,
+    "Combined Temperature": 15.2,
+    "c2": "ISL",
+    "c1": "ITA",
+    "c2_temp": 1.75
+  },
+  {
+    "Transfer Entropy": 0.6064765773129881,
+    "c1_temp": 13.45,
+    "Combined Temperature": 15.149999999999999,
+    "c2": "FIN",
+    "c1": "ITA",
+    "c2_temp": 1.7
+  },
+  {
+    "Transfer Entropy": 0.32585057173493537,
+    "c1_temp": 13.45,
+    "Combined Temperature": 14.95,
+    "c2": "NOR",
+    "c1": "ITA",
+    "c2_temp": 1.5
+  },
+  {
+    "Transfer Entropy": 0.6356700950188858,
+    "c1_temp": 13.3,
+    "Combined Temperature": 32.5,
+    "c2": "MLT",
+    "c1": "ESP",
+    "c2_temp": 19.2
+  },
+  {
+    "Transfer Entropy": 0.5638430819420222,
+    "c1_temp": 13.3,
+    "Combined Temperature": 31.75,
+    "c2": "CYP",
+    "c1": "ESP",
+    "c2_temp": 18.45
+  },
+  {
+    "Transfer Entropy": 0.6613165346073847,
+    "c1_temp": 13.3,
+    "Combined Temperature": 28.700000000000003,
+    "c2": "GRC",
+    "c1": "ESP",
+    "c2_temp": 15.4
+  },
+  {
+    "Transfer Entropy": 0.4239910945808576,
+    "c1_temp": 13.3,
+    "Combined Temperature": 28.450000000000003,
+    "c2": "PRT",
+    "c1": "ESP",
+    "c2_temp": 15.15
+  },
+  {
+    "Transfer Entropy": 0.511654872670099,
+    "c1_temp": 13.3,
+    "Combined Temperature": 26.75,
+    "c2": "ITA",
+    "c1": "ESP",
+    "c2_temp": 13.45
+  },
+  {
+    "c1_temp": 13.3,
+    "Transfer Entropy": null,
+    "c1": "ESP",
+    "c2_temp": 13.3,
+    "c2": "ESP"
+  },
+  {
+    "Transfer Entropy": 0.4318464160514212,
+    "c1_temp": 13.3,
+    "Combined Temperature": 24.200000000000003,
+    "c2": "HRV",
+    "c1": "ESP",
+    "c2_temp": 10.9
+  },
+  {
+    "Transfer Entropy": 0.5910444057041593,
+    "c1_temp": 13.3,
+    "Combined Temperature": 24.0,
+    "c2": "FRA",
+    "c1": "ESP",
+    "c2_temp": 10.7
+  },
+  {
+    "Transfer Entropy": 0.3909982387338069,
+    "c1_temp": 13.3,
+    "Combined Temperature": 23.85,
+    "c2": "BGR",
+    "c1": "ESP",
+    "c2_temp": 10.55
+  },
+  {
+    "Transfer Entropy": 0.5206993404030732,
+    "c1_temp": 13.3,
+    "Combined Temperature": 23.05,
+    "c2": "HUN",
+    "c1": "ESP",
+    "c2_temp": 9.75
+  },
+  {
+    "Transfer Entropy": 0.5954588509156763,
+    "c1_temp": 13.3,
+    "Combined Temperature": 22.85,
+    "c2": "BEL",
+    "c1": "ESP",
+    "c2_temp": 9.55
+  },
+  {
+    "Transfer Entropy": 0.49617297733646415,
+    "c1_temp": 13.3,
+    "Combined Temperature": 22.6,
+    "c2": "IRL",
+    "c1": "ESP",
+    "c2_temp": 9.3
+  },
+  {
+    "Transfer Entropy": 0.2709458872648699,
+    "c1_temp": 13.3,
+    "Combined Temperature": 22.55,
+    "c2": "NLD",
+    "c1": "ESP",
+    "c2_temp": 9.25
+  },
+  {
+    "Transfer Entropy": 0.6395007830212026,
+    "c1_temp": 13.3,
+    "Combined Temperature": 22.200000000000003,
+    "c2": "SVN",
+    "c1": "ESP",
+    "c2_temp": 8.9
+  },
+  {
+    "Transfer Entropy": 0.5297084727666148,
+    "c1_temp": 13.3,
+    "Combined Temperature": 22.1,
+    "c2": "ROU",
+    "c1": "ESP",
+    "c2_temp": 8.8
+  },
+  {
+    "Transfer Entropy": 0.8458478797358008,
+    "c1_temp": 13.3,
+    "Combined Temperature": 21.950000000000003,
+    "c2": "LUX",
+    "c1": "ESP",
+    "c2_temp": 8.65
+  },
+  {
+    "Transfer Entropy": 0.5943075876891032,
+    "c1_temp": 13.3,
+    "Combined Temperature": 21.700000000000003,
+    "c2": "DEU",
+    "c1": "ESP",
+    "c2_temp": 8.4
+  },
+  {
+    "Transfer Entropy": 0.19565349858084768,
+    "c1_temp": 13.3,
+    "Combined Temperature": 21.15,
+    "c2": "POL",
+    "c1": "ESP",
+    "c2_temp": 7.85
+  },
+  {
+    "Transfer Entropy": 0.29935150416148515,
+    "c1_temp": 13.3,
+    "Combined Temperature": 20.85,
+    "c2": "CZE",
+    "c1": "ESP",
+    "c2_temp": 7.55
+  },
+  {
+    "Transfer Entropy": 0.25769522662509864,
+    "c1_temp": 13.3,
+    "Combined Temperature": 20.8,
+    "c2": "DNK",
+    "c1": "ESP",
+    "c2_temp": 7.5
+  },
+  {
+    "Transfer Entropy": 0.29785223732324045,
+    "c1_temp": 13.3,
+    "Combined Temperature": 20.1,
+    "c2": "SVK",
+    "c1": "ESP",
+    "c2_temp": 6.8
+  },
+  {
+    "Transfer Entropy": 0.5154425322420881,
+    "c1_temp": 13.3,
+    "Combined Temperature": 19.65,
+    "c2": "AUT",
+    "c1": "ESP",
+    "c2_temp": 6.35
+  },
+  {
+    "Transfer Entropy": 0.5159048373491952,
+    "c1_temp": 13.3,
+    "Combined Temperature": 19.5,
+    "c2": "LTU",
+    "c1": "ESP",
+    "c2_temp": 6.2
+  },
+  {
+    "Transfer Entropy": 0.4292046678757623,
+    "c1_temp": 13.3,
+    "Combined Temperature": 18.950000000000003,
+    "c2": "LIE",
+    "c1": "ESP",
+    "c2_temp": 5.65
+  },
+  {
+    "Transfer Entropy": 0.5797155586244694,
+    "c1_temp": 13.3,
+    "Combined Temperature": 18.9,
+    "c2": "LVA",
+    "c1": "ESP",
+    "c2_temp": 5.6
+  },
+  {
+    "Transfer Entropy": 0.551530667091421,
+    "c1_temp": 13.3,
+    "Combined Temperature": 18.4,
+    "c2": "EST",
+    "c1": "ESP",
+    "c2_temp": 5.1
+  },
+  {
+    "Transfer Entropy": 0.5187539109822322,
+    "c1_temp": 13.3,
+    "Combined Temperature": 15.4,
+    "c2": "SWE",
+    "c1": "ESP",
+    "c2_temp": 2.1
+  },
+  {
+    "Transfer Entropy": 0.4595530821681589,
+    "c1_temp": 13.3,
+    "Combined Temperature": 15.05,
+    "c2": "ISL",
+    "c1": "ESP",
+    "c2_temp": 1.75
+  },
+  {
+    "Transfer Entropy": 0.612834129243363,
+    "c1_temp": 13.3,
+    "Combined Temperature": 15.0,
+    "c2": "FIN",
+    "c1": "ESP",
+    "c2_temp": 1.7
+  },
+  {
+    "Transfer Entropy": 0.28873395437059857,
+    "c1_temp": 13.3,
+    "Combined Temperature": 14.8,
+    "c2": "NOR",
+    "c1": "ESP",
+    "c2_temp": 1.5
+  },
+  {
+    "Transfer Entropy": 0.7798388334127406,
+    "c1_temp": 10.9,
+    "Combined Temperature": 30.1,
+    "c2": "MLT",
+    "c1": "HRV",
+    "c2_temp": 19.2
+  },
+  {
+    "Transfer Entropy": 0.7091713548339805,
+    "c1_temp": 10.9,
+    "Combined Temperature": 29.35,
+    "c2": "CYP",
+    "c1": "HRV",
+    "c2_temp": 18.45
+  },
+  {
+    "Transfer Entropy": 0.7136617854291126,
+    "c1_temp": 10.9,
+    "Combined Temperature": 26.3,
+    "c2": "GRC",
+    "c1": "HRV",
+    "c2_temp": 15.4
+  },
+  {
+    "Transfer Entropy": 0.5279672093945188,
+    "c1_temp": 10.9,
+    "Combined Temperature": 26.05,
+    "c2": "PRT",
+    "c1": "HRV",
+    "c2_temp": 15.15
+  },
+  {
+    "Transfer Entropy": 0.5742701906548952,
+    "c1_temp": 10.9,
+    "Combined Temperature": 24.35,
+    "c2": "ITA",
+    "c1": "HRV",
+    "c2_temp": 13.45
+  },
+  {
+    "Transfer Entropy": 0.7854121216433575,
+    "c1_temp": 10.9,
+    "Combined Temperature": 24.200000000000003,
+    "c2": "ESP",
+    "c1": "HRV",
+    "c2_temp": 13.3
+  },
+  {
+    "c1_temp": 10.9,
+    "Transfer Entropy": null,
+    "c1": "HRV",
+    "c2_temp": 10.9,
+    "c2": "HRV"
+  },
+  {
+    "Transfer Entropy": 0.7140699122240611,
+    "c1_temp": 10.9,
+    "Combined Temperature": 21.6,
+    "c2": "FRA",
+    "c1": "HRV",
+    "c2_temp": 10.7
+  },
+  {
+    "Transfer Entropy": 0.34706062518739916,
+    "c1_temp": 10.9,
+    "Combined Temperature": 21.450000000000003,
+    "c2": "BGR",
+    "c1": "HRV",
+    "c2_temp": 10.55
+  },
+  {
+    "Transfer Entropy": 0.5981362297361145,
+    "c1_temp": 10.9,
+    "Combined Temperature": 20.65,
+    "c2": "HUN",
+    "c1": "HRV",
+    "c2_temp": 9.75
+  },
+  {
+    "Transfer Entropy": 0.6958629633516105,
+    "c1_temp": 10.9,
+    "Combined Temperature": 20.450000000000003,
+    "c2": "BEL",
+    "c1": "HRV",
+    "c2_temp": 9.55
+  },
+  {
+    "Transfer Entropy": 0.5561708413706872,
+    "c1_temp": 10.9,
+    "Combined Temperature": 20.200000000000003,
+    "c2": "IRL",
+    "c1": "HRV",
+    "c2_temp": 9.3
+  },
+  {
+    "Transfer Entropy": 0.3013115601300369,
+    "c1_temp": 10.9,
+    "Combined Temperature": 20.15,
+    "c2": "NLD",
+    "c1": "HRV",
+    "c2_temp": 9.25
+  },
+  {
+    "Transfer Entropy": 0.7373926776061266,
+    "c1_temp": 10.9,
+    "Combined Temperature": 19.8,
+    "c2": "SVN",
+    "c1": "HRV",
+    "c2_temp": 8.9
+  },
+  {
+    "Transfer Entropy": 0.514347181056027,
+    "c1_temp": 10.9,
+    "Combined Temperature": 19.700000000000003,
+    "c2": "ROU",
+    "c1": "HRV",
+    "c2_temp": 8.8
+  },
+  {
+    "Transfer Entropy": 0.7880670527389053,
+    "c1_temp": 10.9,
+    "Combined Temperature": 19.55,
+    "c2": "LUX",
+    "c1": "HRV",
+    "c2_temp": 8.65
+  },
+  {
+    "Transfer Entropy": 0.5985235617888155,
+    "c1_temp": 10.9,
+    "Combined Temperature": 19.3,
+    "c2": "DEU",
+    "c1": "HRV",
+    "c2_temp": 8.4
+  },
+  {
+    "Transfer Entropy": 0.21800542814962673,
+    "c1_temp": 10.9,
+    "Combined Temperature": 18.75,
+    "c2": "POL",
+    "c1": "HRV",
+    "c2_temp": 7.85
+  },
+  {
+    "Transfer Entropy": 0.36196220418039526,
+    "c1_temp": 10.9,
+    "Combined Temperature": 18.45,
+    "c2": "CZE",
+    "c1": "HRV",
+    "c2_temp": 7.55
+  },
+  {
+    "Transfer Entropy": 0.3168778166242398,
+    "c1_temp": 10.9,
+    "Combined Temperature": 18.4,
+    "c2": "DNK",
+    "c1": "HRV",
+    "c2_temp": 7.5
+  },
+  {
+    "Transfer Entropy": 0.3209526575751305,
+    "c1_temp": 10.9,
+    "Combined Temperature": 17.7,
+    "c2": "SVK",
+    "c1": "HRV",
+    "c2_temp": 6.8
+  },
+  {
+    "Transfer Entropy": 0.5890193114365797,
+    "c1_temp": 10.9,
+    "Combined Temperature": 17.25,
+    "c2": "AUT",
+    "c1": "HRV",
+    "c2_temp": 6.35
+  },
+  {
+    "Transfer Entropy": 0.5267128978239709,
+    "c1_temp": 10.9,
+    "Combined Temperature": 17.1,
+    "c2": "LTU",
+    "c1": "HRV",
+    "c2_temp": 6.2
+  },
+  {
+    "Transfer Entropy": 0.48452670680874843,
+    "c1_temp": 10.9,
+    "Combined Temperature": 16.55,
+    "c2": "LIE",
+    "c1": "HRV",
+    "c2_temp": 5.65
+  },
+  {
+    "Transfer Entropy": 0.6810173875566097,
+    "c1_temp": 10.9,
+    "Combined Temperature": 16.5,
+    "c2": "LVA",
+    "c1": "HRV",
+    "c2_temp": 5.6
+  },
+  {
+    "Transfer Entropy": 0.6122351877023107,
+    "c1_temp": 10.9,
+    "Combined Temperature": 16.0,
+    "c2": "EST",
+    "c1": "HRV",
+    "c2_temp": 5.1
+  },
+  {
+    "Transfer Entropy": 0.6213660409646257,
+    "c1_temp": 10.9,
+    "Combined Temperature": 13.0,
+    "c2": "SWE",
+    "c1": "HRV",
+    "c2_temp": 2.1
+  },
+  {
+    "Transfer Entropy": 0.42257607406405945,
+    "c1_temp": 10.9,
+    "Combined Temperature": 12.65,
+    "c2": "ISL",
+    "c1": "HRV",
+    "c2_temp": 1.75
+  },
+  {
+    "Transfer Entropy": 0.7262481199656909,
+    "c1_temp": 10.9,
+    "Combined Temperature": 12.6,
+    "c2": "FIN",
+    "c1": "HRV",
+    "c2_temp": 1.7
+  },
+  {
+    "Transfer Entropy": 0.43519190805583174,
+    "c1_temp": 10.9,
+    "Combined Temperature": 12.4,
+    "c2": "NOR",
+    "c1": "HRV",
+    "c2_temp": 1.5
+  },
+  {
+    "Transfer Entropy": 0.5601127006804114,
+    "c1_temp": 10.7,
+    "Combined Temperature": 29.9,
+    "c2": "MLT",
+    "c1": "FRA",
+    "c2_temp": 19.2
+  },
+  {
+    "Transfer Entropy": 0.5216038951480728,
+    "c1_temp": 10.7,
+    "Combined Temperature": 29.15,
+    "c2": "CYP",
+    "c1": "FRA",
+    "c2_temp": 18.45
+  },
+  {
+    "Transfer Entropy": 0.5357187037712684,
+    "c1_temp": 10.7,
+    "Combined Temperature": 26.1,
+    "c2": "GRC",
+    "c1": "FRA",
+    "c2_temp": 15.4
+  },
+  {
+    "Transfer Entropy": 0.36315386131895633,
+    "c1_temp": 10.7,
+    "Combined Temperature": 25.85,
+    "c2": "PRT",
+    "c1": "FRA",
+    "c2_temp": 15.15
+  },
+  {
+    "Transfer Entropy": 0.43798038631879527,
+    "c1_temp": 10.7,
+    "Combined Temperature": 24.15,
+    "c2": "ITA",
+    "c1": "FRA",
+    "c2_temp": 13.45
+  },
+  {
+    "Transfer Entropy": 0.5172195164090492,
+    "c1_temp": 10.7,
+    "Combined Temperature": 24.0,
+    "c2": "ESP",
+    "c1": "FRA",
+    "c2_temp": 13.3
+  },
+  {
+    "Transfer Entropy": 0.31589462996517087,
+    "c1_temp": 10.7,
+    "Combined Temperature": 21.6,
+    "c2": "HRV",
+    "c1": "FRA",
+    "c2_temp": 10.9
+  },
+  {
+    "c1_temp": 10.7,
+    "Transfer Entropy": null,
+    "c1": "FRA",
+    "c2_temp": 10.7,
+    "c2": "FRA"
+  },
+  {
+    "Transfer Entropy": 0.32889309718224585,
+    "c1_temp": 10.7,
+    "Combined Temperature": 21.25,
+    "c2": "BGR",
+    "c1": "FRA",
+    "c2_temp": 10.55
+  },
+  {
+    "Transfer Entropy": 0.49093855652885554,
+    "c1_temp": 10.7,
+    "Combined Temperature": 20.45,
+    "c2": "HUN",
+    "c1": "FRA",
+    "c2_temp": 9.75
+  },
+  {
+    "Transfer Entropy": 0.5218095296868371,
+    "c1_temp": 10.7,
+    "Combined Temperature": 20.25,
+    "c2": "BEL",
+    "c1": "FRA",
+    "c2_temp": 9.55
+  },
+  {
+    "Transfer Entropy": 0.4141043121390526,
+    "c1_temp": 10.7,
+    "Combined Temperature": 20.0,
+    "c2": "IRL",
+    "c1": "FRA",
+    "c2_temp": 9.3
+  },
+  {
+    "Transfer Entropy": 0.19208433427813096,
+    "c1_temp": 10.7,
+    "Combined Temperature": 19.95,
+    "c2": "NLD",
+    "c1": "FRA",
+    "c2_temp": 9.25
+  },
+  {
+    "Transfer Entropy": 0.6400234641080618,
+    "c1_temp": 10.7,
+    "Combined Temperature": 19.6,
+    "c2": "SVN",
+    "c1": "FRA",
+    "c2_temp": 8.9
+  },
+  {
+    "Transfer Entropy": 0.42476774900821274,
+    "c1_temp": 10.7,
+    "Combined Temperature": 19.5,
+    "c2": "ROU",
+    "c1": "FRA",
+    "c2_temp": 8.8
+  },
+  {
+    "Transfer Entropy": 0.6348527850883613,
+    "c1_temp": 10.7,
+    "Combined Temperature": 19.35,
+    "c2": "LUX",
+    "c1": "FRA",
+    "c2_temp": 8.65
+  },
+  {
+    "Transfer Entropy": 0.49788759230872753,
+    "c1_temp": 10.7,
+    "Combined Temperature": 19.1,
+    "c2": "DEU",
+    "c1": "FRA",
+    "c2_temp": 8.4
+  },
+  {
+    "Transfer Entropy": 0.18823280052634894,
+    "c1_temp": 10.7,
+    "Combined Temperature": 18.549999999999997,
+    "c2": "POL",
+    "c1": "FRA",
+    "c2_temp": 7.85
+  },
+  {
+    "Transfer Entropy": 0.27771945854642316,
+    "c1_temp": 10.7,
+    "Combined Temperature": 18.25,
+    "c2": "CZE",
+    "c1": "FRA",
+    "c2_temp": 7.55
+  },
+  {
+    "Transfer Entropy": 0.21304576375894502,
+    "c1_temp": 10.7,
+    "Combined Temperature": 18.2,
+    "c2": "DNK",
+    "c1": "FRA",
+    "c2_temp": 7.5
+  },
+  {
+    "Transfer Entropy": 0.29277216407404777,
+    "c1_temp": 10.7,
+    "Combined Temperature": 17.5,
+    "c2": "SVK",
+    "c1": "FRA",
+    "c2_temp": 6.8
+  },
+  {
+    "Transfer Entropy": 0.4586224964583579,
+    "c1_temp": 10.7,
+    "Combined Temperature": 17.049999999999997,
+    "c2": "AUT",
+    "c1": "FRA",
+    "c2_temp": 6.35
+  },
+  {
+    "Transfer Entropy": 0.5016684047101132,
+    "c1_temp": 10.7,
+    "Combined Temperature": 16.9,
+    "c2": "LTU",
+    "c1": "FRA",
+    "c2_temp": 6.2
+  },
+  {
+    "Transfer Entropy": 0.36857019325963064,
+    "c1_temp": 10.7,
+    "Combined Temperature": 16.35,
+    "c2": "LIE",
+    "c1": "FRA",
+    "c2_temp": 5.65
+  },
+  {
+    "Transfer Entropy": 0.5896625731690838,
+    "c1_temp": 10.7,
+    "Combined Temperature": 16.299999999999997,
+    "c2": "LVA",
+    "c1": "FRA",
+    "c2_temp": 5.6
+  },
+  {
+    "Transfer Entropy": 0.5047675309487103,
+    "c1_temp": 10.7,
+    "Combined Temperature": 15.799999999999999,
+    "c2": "EST",
+    "c1": "FRA",
+    "c2_temp": 5.1
+  },
+  {
+    "Transfer Entropy": 0.4735299117304934,
+    "c1_temp": 10.7,
+    "Combined Temperature": 12.799999999999999,
+    "c2": "SWE",
+    "c1": "FRA",
+    "c2_temp": 2.1
+  },
+  {
+    "Transfer Entropy": 0.3715458071799937,
+    "c1_temp": 10.7,
+    "Combined Temperature": 12.45,
+    "c2": "ISL",
+    "c1": "FRA",
+    "c2_temp": 1.75
+  },
+  {
+    "Transfer Entropy": 0.4806408440896419,
+    "c1_temp": 10.7,
+    "Combined Temperature": 12.399999999999999,
+    "c2": "FIN",
+    "c1": "FRA",
+    "c2_temp": 1.7
+  },
+  {
+    "Transfer Entropy": 0.29286115987664624,
+    "c1_temp": 10.7,
+    "Combined Temperature": 12.2,
+    "c2": "NOR",
+    "c1": "FRA",
+    "c2_temp": 1.5
+  },
+  {
+    "Transfer Entropy": 0.7931798614255136,
+    "c1_temp": 10.55,
+    "Combined Temperature": 29.75,
+    "c2": "MLT",
+    "c1": "BGR",
+    "c2_temp": 19.2
+  },
+  {
+    "Transfer Entropy": 0.7018779484035925,
+    "c1_temp": 10.55,
+    "Combined Temperature": 29.0,
+    "c2": "CYP",
+    "c1": "BGR",
+    "c2_temp": 18.45
+  },
+  {
+    "Transfer Entropy": 0.7385483270813195,
+    "c1_temp": 10.55,
+    "Combined Temperature": 25.950000000000003,
+    "c2": "GRC",
+    "c1": "BGR",
+    "c2_temp": 15.4
+  },
+  {
+    "Transfer Entropy": 0.5515157536665303,
+    "c1_temp": 10.55,
+    "Combined Temperature": 25.700000000000003,
+    "c2": "PRT",
+    "c1": "BGR",
+    "c2_temp": 15.15
+  },
+  {
+    "Transfer Entropy": 0.599388276600463,
+    "c1_temp": 10.55,
+    "Combined Temperature": 24.0,
+    "c2": "ITA",
+    "c1": "BGR",
+    "c2_temp": 13.45
+  },
+  {
+    "Transfer Entropy": 0.7760224498317516,
+    "c1_temp": 10.55,
+    "Combined Temperature": 23.85,
+    "c2": "ESP",
+    "c1": "BGR",
+    "c2_temp": 13.3
+  },
+  {
+    "Transfer Entropy": 0.3318055076455473,
+    "c1_temp": 10.55,
+    "Combined Temperature": 21.450000000000003,
+    "c2": "HRV",
+    "c1": "BGR",
+    "c2_temp": 10.9
+  },
+  {
+    "Transfer Entropy": 0.796313993521863,
+    "c1_temp": 10.55,
+    "Combined Temperature": 21.25,
+    "c2": "FRA",
+    "c1": "BGR",
+    "c2_temp": 10.7
+  },
+  {
+    "c1_temp": 10.55,
+    "Transfer Entropy": null,
+    "c1": "BGR",
+    "c2_temp": 10.55,
+    "c2": "BGR"
+  },
+  {
+    "Transfer Entropy": 0.5755541964457845,
+    "c1_temp": 10.55,
+    "Combined Temperature": 20.3,
+    "c2": "HUN",
+    "c1": "BGR",
+    "c2_temp": 9.75
+  },
+  {
+    "Transfer Entropy": 0.6554176356089422,
+    "c1_temp": 10.55,
+    "Combined Temperature": 20.1,
+    "c2": "BEL",
+    "c1": "BGR",
+    "c2_temp": 9.55
+  },
+  {
+    "Transfer Entropy": 0.5834345996959289,
+    "c1_temp": 10.55,
+    "Combined Temperature": 19.85,
+    "c2": "IRL",
+    "c1": "BGR",
+    "c2_temp": 9.3
+  },
+  {
+    "Transfer Entropy": 0.31127720565936634,
+    "c1_temp": 10.55,
+    "Combined Temperature": 19.8,
+    "c2": "NLD",
+    "c1": "BGR",
+    "c2_temp": 9.25
+  },
+  {
+    "Transfer Entropy": 0.7420971927535344,
+    "c1_temp": 10.55,
+    "Combined Temperature": 19.450000000000003,
+    "c2": "SVN",
+    "c1": "BGR",
+    "c2_temp": 8.9
+  },
+  {
+    "Transfer Entropy": 0.5281610796104739,
+    "c1_temp": 10.55,
+    "Combined Temperature": 19.35,
+    "c2": "ROU",
+    "c1": "BGR",
+    "c2_temp": 8.8
+  },
+  {
+    "Transfer Entropy": 0.7853960265649135,
+    "c1_temp": 10.55,
+    "Combined Temperature": 19.200000000000003,
+    "c2": "LUX",
+    "c1": "BGR",
+    "c2_temp": 8.65
+  },
+  {
+    "Transfer Entropy": 0.6082838732447707,
+    "c1_temp": 10.55,
+    "Combined Temperature": 18.950000000000003,
+    "c2": "DEU",
+    "c1": "BGR",
+    "c2_temp": 8.4
+  },
+  {
+    "Transfer Entropy": 0.19237877448331347,
+    "c1_temp": 10.55,
+    "Combined Temperature": 18.4,
+    "c2": "POL",
+    "c1": "BGR",
+    "c2_temp": 7.85
+  },
+  {
+    "Transfer Entropy": 0.342051729925146,
+    "c1_temp": 10.55,
+    "Combined Temperature": 18.1,
+    "c2": "CZE",
+    "c1": "BGR",
+    "c2_temp": 7.55
+  },
+  {
+    "Transfer Entropy": 0.3644431791828868,
+    "c1_temp": 10.55,
+    "Combined Temperature": 18.05,
+    "c2": "DNK",
+    "c1": "BGR",
+    "c2_temp": 7.5
+  },
+  {
+    "Transfer Entropy": 0.32282667607423066,
+    "c1_temp": 10.55,
+    "Combined Temperature": 17.35,
+    "c2": "SVK",
+    "c1": "BGR",
+    "c2_temp": 6.8
+  },
+  {
+    "Transfer Entropy": 0.5352023611355518,
+    "c1_temp": 10.55,
+    "Combined Temperature": 16.9,
+    "c2": "AUT",
+    "c1": "BGR",
+    "c2_temp": 6.35
+  },
+  {
+    "Transfer Entropy": 0.5458910684234135,
+    "c1_temp": 10.55,
+    "Combined Temperature": 16.75,
+    "c2": "LTU",
+    "c1": "BGR",
+    "c2_temp": 6.2
+  },
+  {
+    "Transfer Entropy": 0.587785454135987,
+    "c1_temp": 10.55,
+    "Combined Temperature": 16.200000000000003,
+    "c2": "LIE",
+    "c1": "BGR",
+    "c2_temp": 5.65
+  },
+  {
+    "Transfer Entropy": 0.6887909314068223,
+    "c1_temp": 10.55,
+    "Combined Temperature": 16.15,
+    "c2": "LVA",
+    "c1": "BGR",
+    "c2_temp": 5.6
+  },
+  {
+    "Transfer Entropy": 0.5879785955752728,
+    "c1_temp": 10.55,
+    "Combined Temperature": 15.65,
+    "c2": "EST",
+    "c1": "BGR",
+    "c2_temp": 5.1
+  },
+  {
+    "Transfer Entropy": 0.6849465265880386,
+    "c1_temp": 10.55,
+    "Combined Temperature": 12.65,
+    "c2": "SWE",
+    "c1": "BGR",
+    "c2_temp": 2.1
+  },
+  {
+    "Transfer Entropy": 0.46917300659353184,
+    "c1_temp": 10.55,
+    "Combined Temperature": 12.3,
+    "c2": "ISL",
+    "c1": "BGR",
+    "c2_temp": 1.75
+  },
+  {
+    "Transfer Entropy": 0.7539598147404417,
+    "c1_temp": 10.55,
+    "Combined Temperature": 12.25,
+    "c2": "FIN",
+    "c1": "BGR",
+    "c2_temp": 1.7
+  },
+  {
+    "Transfer Entropy": 0.479659028172927,
+    "c1_temp": 10.55,
+    "Combined Temperature": 12.05,
+    "c2": "NOR",
+    "c1": "BGR",
+    "c2_temp": 1.5
+  },
+  {
+    "Transfer Entropy": 0.5983991899558008,
+    "c1_temp": 9.75,
+    "Combined Temperature": 28.95,
+    "c2": "MLT",
+    "c1": "HUN",
+    "c2_temp": 19.2
+  },
+  {
+    "Transfer Entropy": 0.5392094353762047,
+    "c1_temp": 9.75,
+    "Combined Temperature": 28.2,
+    "c2": "CYP",
+    "c1": "HUN",
+    "c2_temp": 18.45
+  },
+  {
+    "Transfer Entropy": 0.5587419261483951,
+    "c1_temp": 9.75,
+    "Combined Temperature": 25.15,
+    "c2": "GRC",
+    "c1": "HUN",
+    "c2_temp": 15.4
+  },
+  {
+    "Transfer Entropy": 0.36823693870842344,
+    "c1_temp": 9.75,
+    "Combined Temperature": 24.9,
+    "c2": "PRT",
+    "c1": "HUN",
+    "c2_temp": 15.15
+  },
+  {
+    "Transfer Entropy": 0.4582613118245246,
+    "c1_temp": 9.75,
+    "Combined Temperature": 23.2,
+    "c2": "ITA",
+    "c1": "HUN",
+    "c2_temp": 13.45
+  },
+  {
+    "Transfer Entropy": 0.5340699038935143,
+    "c1_temp": 9.75,
+    "Combined Temperature": 23.05,
+    "c2": "ESP",
+    "c1": "HUN",
+    "c2_temp": 13.3
+  },
+  {
+    "Transfer Entropy": 0.2728410789712989,
+    "c1_temp": 9.75,
+    "Combined Temperature": 20.65,
+    "c2": "HRV",
+    "c1": "HUN",
+    "c2_temp": 10.9
+  },
+  {
+    "Transfer Entropy": 0.574134085300746,
+    "c1_temp": 9.75,
+    "Combined Temperature": 20.45,
+    "c2": "FRA",
+    "c1": "HUN",
+    "c2_temp": 10.7
+  },
+  {
+    "Transfer Entropy": 0.2808842198364041,
+    "c1_temp": 9.75,
+    "Combined Temperature": 20.3,
+    "c2": "BGR",
+    "c1": "HUN",
+    "c2_temp": 10.55
+  },
+  {
+    "c1_temp": 9.75,
+    "Transfer Entropy": null,
+    "c1": "HUN",
+    "c2_temp": 9.75,
+    "c2": "HUN"
+  },
+  {
+    "Transfer Entropy": 0.49466986040234695,
+    "c1_temp": 9.75,
+    "Combined Temperature": 19.3,
+    "c2": "BEL",
+    "c1": "HUN",
+    "c2_temp": 9.55
+  },
+  {
+    "Transfer Entropy": 0.3970676859478449,
+    "c1_temp": 9.75,
+    "Combined Temperature": 19.05,
+    "c2": "IRL",
+    "c1": "HUN",
+    "c2_temp": 9.3
+  },
+  {
+    "Transfer Entropy": 0.24037000230086447,
+    "c1_temp": 9.75,
+    "Combined Temperature": 19.0,
+    "c2": "NLD",
+    "c1": "HUN",
+    "c2_temp": 9.25
+  },
+  {
+    "Transfer Entropy": 0.6396566427093462,
+    "c1_temp": 9.75,
+    "Combined Temperature": 18.65,
+    "c2": "SVN",
+    "c1": "HUN",
+    "c2_temp": 8.9
+  },
+  {
+    "Transfer Entropy": 0.42428076034394074,
+    "c1_temp": 9.75,
+    "Combined Temperature": 18.55,
+    "c2": "ROU",
+    "c1": "HUN",
+    "c2_temp": 8.8
+  },
+  {
+    "Transfer Entropy": 0.5546691250904684,
+    "c1_temp": 9.75,
+    "Combined Temperature": 18.4,
+    "c2": "LUX",
+    "c1": "HUN",
+    "c2_temp": 8.65
+  },
+  {
+    "Transfer Entropy": 0.5259791909737559,
+    "c1_temp": 9.75,
+    "Combined Temperature": 18.15,
+    "c2": "DEU",
+    "c1": "HUN",
+    "c2_temp": 8.4
+  },
+  {
+    "Transfer Entropy": 0.13132013121653668,
+    "c1_temp": 9.75,
+    "Combined Temperature": 17.6,
+    "c2": "POL",
+    "c1": "HUN",
+    "c2_temp": 7.85
+  },
+  {
+    "Transfer Entropy": 0.2722721964237323,
+    "c1_temp": 9.75,
+    "Combined Temperature": 17.3,
+    "c2": "CZE",
+    "c1": "HUN",
+    "c2_temp": 7.55
+  },
+  {
+    "Transfer Entropy": 0.2690353497930329,
+    "c1_temp": 9.75,
+    "Combined Temperature": 17.25,
+    "c2": "DNK",
+    "c1": "HUN",
+    "c2_temp": 7.5
+  },
+  {
+    "Transfer Entropy": 0.29181551325955346,
+    "c1_temp": 9.75,
+    "Combined Temperature": 16.55,
+    "c2": "SVK",
+    "c1": "HUN",
+    "c2_temp": 6.8
+  },
+  {
+    "Transfer Entropy": 0.4468148852935899,
+    "c1_temp": 9.75,
+    "Combined Temperature": 16.1,
+    "c2": "AUT",
+    "c1": "HUN",
+    "c2_temp": 6.35
+  },
+  {
+    "Transfer Entropy": 0.4802217050688029,
+    "c1_temp": 9.75,
+    "Combined Temperature": 15.95,
+    "c2": "LTU",
+    "c1": "HUN",
+    "c2_temp": 6.2
+  },
+  {
+    "Transfer Entropy": 0.4268402472545777,
+    "c1_temp": 9.75,
+    "Combined Temperature": 15.4,
+    "c2": "LIE",
+    "c1": "HUN",
+    "c2_temp": 5.65
+  },
+  {
+    "Transfer Entropy": 0.5889755937732791,
+    "c1_temp": 9.75,
+    "Combined Temperature": 15.35,
+    "c2": "LVA",
+    "c1": "HUN",
+    "c2_temp": 5.6
+  },
+  {
+    "Transfer Entropy": 0.4946694662267529,
+    "c1_temp": 9.75,
+    "Combined Temperature": 14.85,
+    "c2": "EST",
+    "c1": "HUN",
+    "c2_temp": 5.1
+  },
+  {
+    "Transfer Entropy": 0.4561212355443252,
+    "c1_temp": 9.75,
+    "Combined Temperature": 11.85,
+    "c2": "SWE",
+    "c1": "HUN",
+    "c2_temp": 2.1
+  },
+  {
+    "Transfer Entropy": 0.2546686668404718,
+    "c1_temp": 9.75,
+    "Combined Temperature": 11.5,
+    "c2": "ISL",
+    "c1": "HUN",
+    "c2_temp": 1.75
+  },
+  {
+    "Transfer Entropy": 0.5843418119499384,
+    "c1_temp": 9.75,
+    "Combined Temperature": 11.45,
+    "c2": "FIN",
+    "c1": "HUN",
+    "c2_temp": 1.7
+  },
+  {
+    "Transfer Entropy": 0.3380139160676391,
+    "c1_temp": 9.75,
+    "Combined Temperature": 11.25,
+    "c2": "NOR",
+    "c1": "HUN",
+    "c2_temp": 1.5
+  },
+  {
+    "Transfer Entropy": 0.6539027886137225,
+    "c1_temp": 9.55,
+    "Combined Temperature": 28.75,
+    "c2": "MLT",
+    "c1": "BEL",
+    "c2_temp": 19.2
+  },
+  {
+    "Transfer Entropy": 0.5681168328043977,
+    "c1_temp": 9.55,
+    "Combined Temperature": 28.0,
+    "c2": "CYP",
+    "c1": "BEL",
+    "c2_temp": 18.45
+  },
+  {
+    "Transfer Entropy": 0.4986236410093647,
+    "c1_temp": 9.55,
+    "Combined Temperature": 24.950000000000003,
+    "c2": "GRC",
+    "c1": "BEL",
+    "c2_temp": 15.4
+  },
+  {
+    "Transfer Entropy": 0.41973618717251027,
+    "c1_temp": 9.55,
+    "Combined Temperature": 24.700000000000003,
+    "c2": "PRT",
+    "c1": "BEL",
+    "c2_temp": 15.15
+  },
+  {
+    "Transfer Entropy": 0.46358891191960866,
+    "c1_temp": 9.55,
+    "Combined Temperature": 23.0,
+    "c2": "ITA",
+    "c1": "BEL",
+    "c2_temp": 13.45
+  },
+  {
+    "Transfer Entropy": 0.5371629540086129,
+    "c1_temp": 9.55,
+    "Combined Temperature": 22.85,
+    "c2": "ESP",
+    "c1": "BEL",
+    "c2_temp": 13.3
+  },
+  {
+    "Transfer Entropy": 0.2546649184238122,
+    "c1_temp": 9.55,
+    "Combined Temperature": 20.450000000000003,
+    "c2": "HRV",
+    "c1": "BEL",
+    "c2_temp": 10.9
+  },
+  {
+    "Transfer Entropy": 0.4959037388460961,
+    "c1_temp": 9.55,
+    "Combined Temperature": 20.25,
+    "c2": "FRA",
+    "c1": "BEL",
+    "c2_temp": 10.7
+  },
+  {
+    "Transfer Entropy": 0.26609357416948326,
+    "c1_temp": 9.55,
+    "Combined Temperature": 20.1,
+    "c2": "BGR",
+    "c1": "BEL",
+    "c2_temp": 10.55
+  },
+  {
+    "Transfer Entropy": 0.4859256066515509,
+    "c1_temp": 9.55,
+    "Combined Temperature": 19.3,
+    "c2": "HUN",
+    "c1": "BEL",
+    "c2_temp": 9.75
+  },
+  {
+    "c1_temp": 9.55,
+    "Transfer Entropy": null,
+    "c1": "BEL",
+    "c2_temp": 9.55,
+    "c2": "BEL"
+  },
+  {
+    "Transfer Entropy": 0.40837231148576575,
+    "c1_temp": 9.55,
+    "Combined Temperature": 18.85,
+    "c2": "IRL",
+    "c1": "BEL",
+    "c2_temp": 9.3
+  },
+  {
+    "Transfer Entropy": 0.23791094407580116,
+    "c1_temp": 9.55,
+    "Combined Temperature": 18.8,
+    "c2": "NLD",
+    "c1": "BEL",
+    "c2_temp": 9.25
+  },
+  {
+    "Transfer Entropy": 0.5301399874654869,
+    "c1_temp": 9.55,
+    "Combined Temperature": 18.450000000000003,
+    "c2": "SVN",
+    "c1": "BEL",
+    "c2_temp": 8.9
+  },
+  {
+    "Transfer Entropy": 0.4534554588128978,
+    "c1_temp": 9.55,
+    "Combined Temperature": 18.35,
+    "c2": "ROU",
+    "c1": "BEL",
+    "c2_temp": 8.8
+  },
+  {
+    "Transfer Entropy": 0.5559130832778177,
+    "c1_temp": 9.55,
+    "Combined Temperature": 18.200000000000003,
+    "c2": "LUX",
+    "c1": "BEL",
+    "c2_temp": 8.65
+  },
+  {
+    "Transfer Entropy": 0.46091645442969004,
+    "c1_temp": 9.55,
+    "Combined Temperature": 17.950000000000003,
+    "c2": "DEU",
+    "c1": "BEL",
+    "c2_temp": 8.4
+  },
+  {
+    "Transfer Entropy": 0.13633002872679204,
+    "c1_temp": 9.55,
+    "Combined Temperature": 17.4,
+    "c2": "POL",
+    "c1": "BEL",
+    "c2_temp": 7.85
+  },
+  {
+    "Transfer Entropy": 0.2543356594354832,
+    "c1_temp": 9.55,
+    "Combined Temperature": 17.1,
+    "c2": "CZE",
+    "c1": "BEL",
+    "c2_temp": 7.55
+  },
+  {
+    "Transfer Entropy": 0.23068016176527784,
+    "c1_temp": 9.55,
+    "Combined Temperature": 17.05,
+    "c2": "DNK",
+    "c1": "BEL",
+    "c2_temp": 7.5
+  },
+  {
+    "Transfer Entropy": 0.28488475564208654,
+    "c1_temp": 9.55,
+    "Combined Temperature": 16.35,
+    "c2": "SVK",
+    "c1": "BEL",
+    "c2_temp": 6.8
+  },
+  {
+    "Transfer Entropy": 0.40114874520654553,
+    "c1_temp": 9.55,
+    "Combined Temperature": 15.9,
+    "c2": "AUT",
+    "c1": "BEL",
+    "c2_temp": 6.35
+  },
+  {
+    "Transfer Entropy": 0.4533981122978079,
+    "c1_temp": 9.55,
+    "Combined Temperature": 15.75,
+    "c2": "LTU",
+    "c1": "BEL",
+    "c2_temp": 6.2
+  },
+  {
+    "Transfer Entropy": 0.4144730682487728,
+    "c1_temp": 9.55,
+    "Combined Temperature": 15.200000000000001,
+    "c2": "LIE",
+    "c1": "BEL",
+    "c2_temp": 5.65
+  },
+  {
+    "Transfer Entropy": 0.5506362437239254,
+    "c1_temp": 9.55,
+    "Combined Temperature": 15.15,
+    "c2": "LVA",
+    "c1": "BEL",
+    "c2_temp": 5.6
+  },
+  {
+    "Transfer Entropy": 0.47638582204409824,
+    "c1_temp": 9.55,
+    "Combined Temperature": 14.65,
+    "c2": "EST",
+    "c1": "BEL",
+    "c2_temp": 5.1
+  },
+  {
+    "Transfer Entropy": 0.4804681139115892,
+    "c1_temp": 9.55,
+    "Combined Temperature": 11.65,
+    "c2": "SWE",
+    "c1": "BEL",
+    "c2_temp": 2.1
+  },
+  {
+    "Transfer Entropy": 0.364731346856435,
+    "c1_temp": 9.55,
+    "Combined Temperature": 11.3,
+    "c2": "ISL",
+    "c1": "BEL",
+    "c2_temp": 1.75
+  },
+  {
+    "Transfer Entropy": 0.5148934269871596,
+    "c1_temp": 9.55,
+    "Combined Temperature": 11.25,
+    "c2": "FIN",
+    "c1": "BEL",
+    "c2_temp": 1.7
+  },
+  {
+    "Transfer Entropy": 0.28927999240292207,
+    "c1_temp": 9.55,
+    "Combined Temperature": 11.05,
+    "c2": "NOR",
+    "c1": "BEL",
+    "c2_temp": 1.5
+  },
+  {
+    "Transfer Entropy": 0.6254787892283362,
+    "c1_temp": 9.3,
+    "Combined Temperature": 28.5,
+    "c2": "MLT",
+    "c1": "IRL",
+    "c2_temp": 19.2
+  },
+  {
+    "Transfer Entropy": 0.5272157798637828,
+    "c1_temp": 9.3,
+    "Combined Temperature": 27.75,
+    "c2": "CYP",
+    "c1": "IRL",
+    "c2_temp": 18.45
+  },
+  {
+    "Transfer Entropy": 0.5385073032463952,
+    "c1_temp": 9.3,
+    "Combined Temperature": 24.700000000000003,
+    "c2": "GRC",
+    "c1": "IRL",
+    "c2_temp": 15.4
+  },
+  {
+    "Transfer Entropy": 0.46117810540167553,
+    "c1_temp": 9.3,
+    "Combined Temperature": 24.450000000000003,
+    "c2": "PRT",
+    "c1": "IRL",
+    "c2_temp": 15.15
+  },
+  {
+    "Transfer Entropy": 0.5034995335662129,
+    "c1_temp": 9.3,
+    "Combined Temperature": 22.75,
+    "c2": "ITA",
+    "c1": "IRL",
+    "c2_temp": 13.45
+  },
+  {
+    "Transfer Entropy": 0.5265883889664186,
+    "c1_temp": 9.3,
+    "Combined Temperature": 22.6,
+    "c2": "ESP",
+    "c1": "IRL",
+    "c2_temp": 13.3
+  },
+  {
+    "Transfer Entropy": 0.33131573133918363,
+    "c1_temp": 9.3,
+    "Combined Temperature": 20.200000000000003,
+    "c2": "HRV",
+    "c1": "IRL",
+    "c2_temp": 10.9
+  },
+  {
+    "Transfer Entropy": 0.6007387644672059,
+    "c1_temp": 9.3,
+    "Combined Temperature": 20.0,
+    "c2": "FRA",
+    "c1": "IRL",
+    "c2_temp": 10.7
+  },
+  {
+    "Transfer Entropy": 0.3256118537071078,
+    "c1_temp": 9.3,
+    "Combined Temperature": 19.85,
+    "c2": "BGR",
+    "c1": "IRL",
+    "c2_temp": 10.55
+  },
+  {
+    "Transfer Entropy": 0.5447280333893012,
+    "c1_temp": 9.3,
+    "Combined Temperature": 19.05,
+    "c2": "HUN",
+    "c1": "IRL",
+    "c2_temp": 9.75
+  },
+  {
+    "Transfer Entropy": 0.46702037888041237,
+    "c1_temp": 9.3,
+    "Combined Temperature": 18.85,
+    "c2": "BEL",
+    "c1": "IRL",
+    "c2_temp": 9.55
+  },
+  {
+    "c1_temp": 9.3,
+    "Transfer Entropy": null,
+    "c1": "IRL",
+    "c2_temp": 9.3,
+    "c2": "IRL"
+  },
+  {
+    "Transfer Entropy": 0.2199003837458045,
+    "c1_temp": 9.3,
+    "Combined Temperature": 18.55,
+    "c2": "NLD",
+    "c1": "IRL",
+    "c2_temp": 9.25
+  },
+  {
+    "Transfer Entropy": 0.6123941410158785,
+    "c1_temp": 9.3,
+    "Combined Temperature": 18.200000000000003,
+    "c2": "SVN",
+    "c1": "IRL",
+    "c2_temp": 8.9
+  },
+  {
+    "Transfer Entropy": 0.45626103447656524,
+    "c1_temp": 9.3,
+    "Combined Temperature": 18.1,
+    "c2": "ROU",
+    "c1": "IRL",
+    "c2_temp": 8.8
+  },
+  {
+    "Transfer Entropy": 0.6831965126086498,
+    "c1_temp": 9.3,
+    "Combined Temperature": 17.950000000000003,
+    "c2": "LUX",
+    "c1": "IRL",
+    "c2_temp": 8.65
+  },
+  {
+    "Transfer Entropy": 0.5641271237488904,
+    "c1_temp": 9.3,
+    "Combined Temperature": 17.700000000000003,
+    "c2": "DEU",
+    "c1": "IRL",
+    "c2_temp": 8.4
+  },
+  {
+    "Transfer Entropy": 0.19177980448185547,
+    "c1_temp": 9.3,
+    "Combined Temperature": 17.15,
+    "c2": "POL",
+    "c1": "IRL",
+    "c2_temp": 7.85
+  },
+  {
+    "Transfer Entropy": 0.25938724766127763,
+    "c1_temp": 9.3,
+    "Combined Temperature": 16.85,
+    "c2": "CZE",
+    "c1": "IRL",
+    "c2_temp": 7.55
+  },
+  {
+    "Transfer Entropy": 0.235144966054439,
+    "c1_temp": 9.3,
+    "Combined Temperature": 16.8,
+    "c2": "DNK",
+    "c1": "IRL",
+    "c2_temp": 7.5
+  },
+  {
+    "Transfer Entropy": 0.23427930334766933,
+    "c1_temp": 9.3,
+    "Combined Temperature": 16.1,
+    "c2": "SVK",
+    "c1": "IRL",
+    "c2_temp": 6.8
+  },
+  {
+    "Transfer Entropy": 0.4488910175959922,
+    "c1_temp": 9.3,
+    "Combined Temperature": 15.65,
+    "c2": "AUT",
+    "c1": "IRL",
+    "c2_temp": 6.35
+  },
+  {
+    "Transfer Entropy": 0.4507010324093544,
+    "c1_temp": 9.3,
+    "Combined Temperature": 15.5,
+    "c2": "LTU",
+    "c1": "IRL",
+    "c2_temp": 6.2
+  },
+  {
+    "Transfer Entropy": 0.4222404416428515,
+    "c1_temp": 9.3,
+    "Combined Temperature": 14.950000000000001,
+    "c2": "LIE",
+    "c1": "IRL",
+    "c2_temp": 5.65
+  },
+  {
+    "Transfer Entropy": 0.536949343579497,
+    "c1_temp": 9.3,
+    "Combined Temperature": 14.9,
+    "c2": "LVA",
+    "c1": "IRL",
+    "c2_temp": 5.6
+  },
+  {
+    "Transfer Entropy": 0.48760635422929877,
+    "c1_temp": 9.3,
+    "Combined Temperature": 14.4,
+    "c2": "EST",
+    "c1": "IRL",
+    "c2_temp": 5.1
+  },
+  {
+    "Transfer Entropy": 0.5422943298358816,
+    "c1_temp": 9.3,
+    "Combined Temperature": 11.4,
+    "c2": "SWE",
+    "c1": "IRL",
+    "c2_temp": 2.1
+  },
+  {
+    "Transfer Entropy": 0.420785554636932,
+    "c1_temp": 9.3,
+    "Combined Temperature": 11.05,
+    "c2": "ISL",
+    "c1": "IRL",
+    "c2_temp": 1.75
+  },
+  {
+    "Transfer Entropy": 0.5770963302586877,
+    "c1_temp": 9.3,
+    "Combined Temperature": 11.0,
+    "c2": "FIN",
+    "c1": "IRL",
+    "c2_temp": 1.7
+  },
+  {
+    "Transfer Entropy": 0.279663921640699,
+    "c1_temp": 9.3,
+    "Combined Temperature": 10.8,
+    "c2": "NOR",
+    "c1": "IRL",
+    "c2_temp": 1.5
+  },
+  {
+    "Transfer Entropy": 0.3729251244478246,
+    "c1_temp": 9.25,
+    "Combined Temperature": 28.45,
+    "c2": "MLT",
+    "c1": "NLD",
+    "c2_temp": 19.2
+  },
+  {
+    "Transfer Entropy": 0.3657860317075189,
+    "c1_temp": 9.25,
+    "Combined Temperature": 27.7,
+    "c2": "CYP",
+    "c1": "NLD",
+    "c2_temp": 18.45
+  },
+  {
+    "Transfer Entropy": 0.31102353677052097,
+    "c1_temp": 9.25,
+    "Combined Temperature": 24.65,
+    "c2": "GRC",
+    "c1": "NLD",
+    "c2_temp": 15.4
+  },
+  {
+    "Transfer Entropy": 0.2659461196055863,
+    "c1_temp": 9.25,
+    "Combined Temperature": 24.4,
+    "c2": "PRT",
+    "c1": "NLD",
+    "c2_temp": 15.15
+  },
+  {
+    "Transfer Entropy": 0.26669263672990906,
+    "c1_temp": 9.25,
+    "Combined Temperature": 22.7,
+    "c2": "ITA",
+    "c1": "NLD",
+    "c2_temp": 13.45
+  },
+  {
+    "Transfer Entropy": 0.2918407117997246,
+    "c1_temp": 9.25,
+    "Combined Temperature": 22.55,
+    "c2": "ESP",
+    "c1": "NLD",
+    "c2_temp": 13.3
+  },
+  {
+    "Transfer Entropy": 0.15095267970089302,
+    "c1_temp": 9.25,
+    "Combined Temperature": 20.15,
+    "c2": "HRV",
+    "c1": "NLD",
+    "c2_temp": 10.9
+  },
+  {
+    "Transfer Entropy": 0.31326140065632724,
+    "c1_temp": 9.25,
+    "Combined Temperature": 19.95,
+    "c2": "FRA",
+    "c1": "NLD",
+    "c2_temp": 10.7
+  },
+  {
+    "Transfer Entropy": 0.21582716615397302,
+    "c1_temp": 9.25,
+    "Combined Temperature": 19.8,
+    "c2": "BGR",
+    "c1": "NLD",
+    "c2_temp": 10.55
+  },
+  {
+    "Transfer Entropy": 0.3018852899924287,
+    "c1_temp": 9.25,
+    "Combined Temperature": 19.0,
+    "c2": "HUN",
+    "c1": "NLD",
+    "c2_temp": 9.75
+  },
+  {
+    "Transfer Entropy": 0.2489544946167421,
+    "c1_temp": 9.25,
+    "Combined Temperature": 18.8,
+    "c2": "BEL",
+    "c1": "NLD",
+    "c2_temp": 9.55
+  },
+  {
+    "Transfer Entropy": 0.19926825954670138,
+    "c1_temp": 9.25,
+    "Combined Temperature": 18.55,
+    "c2": "IRL",
+    "c1": "NLD",
+    "c2_temp": 9.3
+  },
+  {
+    "c1_temp": 9.25,
+    "Transfer Entropy": null,
+    "c1": "NLD",
+    "c2_temp": 9.25,
+    "c2": "NLD"
+  },
+  {
+    "Transfer Entropy": 0.3579160956086622,
+    "c1_temp": 9.25,
+    "Combined Temperature": 18.15,
+    "c2": "SVN",
+    "c1": "NLD",
+    "c2_temp": 8.9
+  },
+  {
+    "Transfer Entropy": 0.30865577212834333,
+    "c1_temp": 9.25,
+    "Combined Temperature": 18.05,
+    "c2": "ROU",
+    "c1": "NLD",
+    "c2_temp": 8.8
+  },
+  {
+    "Transfer Entropy": 0.3497316609782529,
+    "c1_temp": 9.25,
+    "Combined Temperature": 17.9,
+    "c2": "LUX",
+    "c1": "NLD",
+    "c2_temp": 8.65
+  },
+  {
+    "Transfer Entropy": 0.23994613575652624,
+    "c1_temp": 9.25,
+    "Combined Temperature": 17.65,
+    "c2": "DEU",
+    "c1": "NLD",
+    "c2_temp": 8.4
+  },
+  {
+    "Transfer Entropy": 0.07442357665520101,
+    "c1_temp": 9.25,
+    "Combined Temperature": 17.1,
+    "c2": "POL",
+    "c1": "NLD",
+    "c2_temp": 7.85
+  },
+  {
+    "Transfer Entropy": 0.16893836818964175,
+    "c1_temp": 9.25,
+    "Combined Temperature": 16.8,
+    "c2": "CZE",
+    "c1": "NLD",
+    "c2_temp": 7.55
+  },
+  {
+    "Transfer Entropy": 0.08084227689151938,
+    "c1_temp": 9.25,
+    "Combined Temperature": 16.75,
+    "c2": "DNK",
+    "c1": "NLD",
+    "c2_temp": 7.5
+  },
+  {
+    "Transfer Entropy": 0.19411960392866376,
+    "c1_temp": 9.25,
+    "Combined Temperature": 16.05,
+    "c2": "SVK",
+    "c1": "NLD",
+    "c2_temp": 6.8
+  },
+  {
+    "Transfer Entropy": 0.21966632872587072,
+    "c1_temp": 9.25,
+    "Combined Temperature": 15.6,
+    "c2": "AUT",
+    "c1": "NLD",
+    "c2_temp": 6.35
+  },
+  {
+    "Transfer Entropy": 0.3156646780532562,
+    "c1_temp": 9.25,
+    "Combined Temperature": 15.45,
+    "c2": "LTU",
+    "c1": "NLD",
+    "c2_temp": 6.2
+  },
+  {
+    "Transfer Entropy": 0.17965328196073657,
+    "c1_temp": 9.25,
+    "Combined Temperature": 14.9,
+    "c2": "LIE",
+    "c1": "NLD",
+    "c2_temp": 5.65
+  },
+  {
+    "Transfer Entropy": 0.34616606350781703,
+    "c1_temp": 9.25,
+    "Combined Temperature": 14.85,
+    "c2": "LVA",
+    "c1": "NLD",
+    "c2_temp": 5.6
+  },
+  {
+    "Transfer Entropy": 0.35126515887725,
+    "c1_temp": 9.25,
+    "Combined Temperature": 14.35,
+    "c2": "EST",
+    "c1": "NLD",
+    "c2_temp": 5.1
+  },
+  {
+    "Transfer Entropy": 0.27207823864717523,
+    "c1_temp": 9.25,
+    "Combined Temperature": 11.35,
+    "c2": "SWE",
+    "c1": "NLD",
+    "c2_temp": 2.1
+  },
+  {
+    "Transfer Entropy": 0.23383681382333268,
+    "c1_temp": 9.25,
+    "Combined Temperature": 11.0,
+    "c2": "ISL",
+    "c1": "NLD",
+    "c2_temp": 1.75
+  },
+  {
+    "Transfer Entropy": 0.27650927050846585,
+    "c1_temp": 9.25,
+    "Combined Temperature": 10.95,
+    "c2": "FIN",
+    "c1": "NLD",
+    "c2_temp": 1.7
+  },
+  {
+    "Transfer Entropy": 0.13169860285154408,
+    "c1_temp": 9.25,
+    "Combined Temperature": 10.75,
+    "c2": "NOR",
+    "c1": "NLD",
+    "c2_temp": 1.5
+  },
+  {
+    "Transfer Entropy": 0.59570845520699,
+    "c1_temp": 8.9,
+    "Combined Temperature": 28.1,
+    "c2": "MLT",
+    "c1": "SVN",
+    "c2_temp": 19.2
+  },
+  {
+    "Transfer Entropy": 0.5707082190791049,
+    "c1_temp": 8.9,
+    "Combined Temperature": 27.35,
+    "c2": "CYP",
+    "c1": "SVN",
+    "c2_temp": 18.45
+  },
+  {
+    "Transfer Entropy": 0.5599604821616555,
+    "c1_temp": 8.9,
+    "Combined Temperature": 24.3,
+    "c2": "GRC",
+    "c1": "SVN",
+    "c2_temp": 15.4
+  },
+  {
+    "Transfer Entropy": 0.4128795597292009,
+    "c1_temp": 8.9,
+    "Combined Temperature": 24.05,
+    "c2": "PRT",
+    "c1": "SVN",
+    "c2_temp": 15.15
+  },
+  {
+    "Transfer Entropy": 0.45671843900792874,
+    "c1_temp": 8.9,
+    "Combined Temperature": 22.35,
+    "c2": "ITA",
+    "c1": "SVN",
+    "c2_temp": 13.45
+  },
+  {
+    "Transfer Entropy": 0.5418596359974446,
+    "c1_temp": 8.9,
+    "Combined Temperature": 22.200000000000003,
+    "c2": "ESP",
+    "c1": "SVN",
+    "c2_temp": 13.3
+  },
+  {
+    "Transfer Entropy": 0.23265500327226682,
+    "c1_temp": 8.9,
+    "Combined Temperature": 19.8,
+    "c2": "HRV",
+    "c1": "SVN",
+    "c2_temp": 10.9
+  },
+  {
+    "Transfer Entropy": 0.591674680650697,
+    "c1_temp": 8.9,
+    "Combined Temperature": 19.6,
+    "c2": "FRA",
+    "c1": "SVN",
+    "c2_temp": 10.7
+  },
+  {
+    "Transfer Entropy": 0.28354648862119336,
+    "c1_temp": 8.9,
+    "Combined Temperature": 19.450000000000003,
+    "c2": "BGR",
+    "c1": "SVN",
+    "c2_temp": 10.55
+  },
+  {
+    "Transfer Entropy": 0.5554229128311954,
+    "c1_temp": 8.9,
+    "Combined Temperature": 18.65,
+    "c2": "HUN",
+    "c1": "SVN",
+    "c2_temp": 9.75
+  },
+  {
+    "Transfer Entropy": 0.43265591734261244,
+    "c1_temp": 8.9,
+    "Combined Temperature": 18.450000000000003,
+    "c2": "BEL",
+    "c1": "SVN",
+    "c2_temp": 9.55
+  },
+  {
+    "Transfer Entropy": 0.392595018122488,
+    "c1_temp": 8.9,
+    "Combined Temperature": 18.200000000000003,
+    "c2": "IRL",
+    "c1": "SVN",
+    "c2_temp": 9.3
+  },
+  {
+    "Transfer Entropy": 0.21061930140793048,
+    "c1_temp": 8.9,
+    "Combined Temperature": 18.15,
+    "c2": "NLD",
+    "c1": "SVN",
+    "c2_temp": 9.25
+  },
+  {
+    "c1_temp": 8.9,
+    "Transfer Entropy": null,
+    "c1": "SVN",
+    "c2_temp": 8.9,
+    "c2": "SVN"
+  },
+  {
+    "Transfer Entropy": 0.3860626403746237,
+    "c1_temp": 8.9,
+    "Combined Temperature": 17.700000000000003,
+    "c2": "ROU",
+    "c1": "SVN",
+    "c2_temp": 8.8
+  },
+  {
+    "Transfer Entropy": 0.5614866440518093,
+    "c1_temp": 8.9,
+    "Combined Temperature": 17.55,
+    "c2": "LUX",
+    "c1": "SVN",
+    "c2_temp": 8.65
+  },
+  {
+    "Transfer Entropy": 0.4407238307947242,
+    "c1_temp": 8.9,
+    "Combined Temperature": 17.3,
+    "c2": "DEU",
+    "c1": "SVN",
+    "c2_temp": 8.4
+  },
+  {
+    "Transfer Entropy": 0.19831205861096196,
+    "c1_temp": 8.9,
+    "Combined Temperature": 16.75,
+    "c2": "POL",
+    "c1": "SVN",
+    "c2_temp": 7.85
+  },
+  {
+    "Transfer Entropy": 0.28713528433164687,
+    "c1_temp": 8.9,
+    "Combined Temperature": 16.45,
+    "c2": "CZE",
+    "c1": "SVN",
+    "c2_temp": 7.55
+  },
+  {
+    "Transfer Entropy": 0.21556729550367354,
+    "c1_temp": 8.9,
+    "Combined Temperature": 16.4,
+    "c2": "DNK",
+    "c1": "SVN",
+    "c2_temp": 7.5
+  },
+  {
+    "Transfer Entropy": 0.2610138089324732,
+    "c1_temp": 8.9,
+    "Combined Temperature": 15.7,
+    "c2": "SVK",
+    "c1": "SVN",
+    "c2_temp": 6.8
+  },
+  {
+    "Transfer Entropy": 0.3746505014588466,
+    "c1_temp": 8.9,
+    "Combined Temperature": 15.25,
+    "c2": "AUT",
+    "c1": "SVN",
+    "c2_temp": 6.35
+  },
+  {
+    "Transfer Entropy": 0.4275566906944296,
+    "c1_temp": 8.9,
+    "Combined Temperature": 15.100000000000001,
+    "c2": "LTU",
+    "c1": "SVN",
+    "c2_temp": 6.2
+  },
+  {
+    "Transfer Entropy": 0.3901507249505168,
+    "c1_temp": 8.9,
+    "Combined Temperature": 14.55,
+    "c2": "LIE",
+    "c1": "SVN",
+    "c2_temp": 5.65
+  },
+  {
+    "Transfer Entropy": 0.5531552540881218,
+    "c1_temp": 8.9,
+    "Combined Temperature": 14.5,
+    "c2": "LVA",
+    "c1": "SVN",
+    "c2_temp": 5.6
+  },
+  {
+    "Transfer Entropy": 0.44925012327355973,
+    "c1_temp": 8.9,
+    "Combined Temperature": 14.0,
+    "c2": "EST",
+    "c1": "SVN",
+    "c2_temp": 5.1
+  },
+  {
+    "Transfer Entropy": 0.5207191327893365,
+    "c1_temp": 8.9,
+    "Combined Temperature": 11.0,
+    "c2": "SWE",
+    "c1": "SVN",
+    "c2_temp": 2.1
+  },
+  {
+    "Transfer Entropy": 0.33257415852842637,
+    "c1_temp": 8.9,
+    "Combined Temperature": 10.65,
+    "c2": "ISL",
+    "c1": "SVN",
+    "c2_temp": 1.75
+  },
+  {
+    "Transfer Entropy": 0.4897352539201272,
+    "c1_temp": 8.9,
+    "Combined Temperature": 10.6,
+    "c2": "FIN",
+    "c1": "SVN",
+    "c2_temp": 1.7
+  },
+  {
+    "Transfer Entropy": 0.3071036741923862,
+    "c1_temp": 8.9,
+    "Combined Temperature": 10.4,
+    "c2": "NOR",
+    "c1": "SVN",
+    "c2_temp": 1.5
+  },
+  {
+    "Transfer Entropy": 0.7348096760889039,
+    "c1_temp": 8.8,
+    "Combined Temperature": 28.0,
+    "c2": "MLT",
+    "c1": "ROU",
+    "c2_temp": 19.2
+  },
+  {
+    "Transfer Entropy": 0.7030352665685351,
+    "c1_temp": 8.8,
+    "Combined Temperature": 27.25,
+    "c2": "CYP",
+    "c1": "ROU",
+    "c2_temp": 18.45
+  },
+  {
+    "Transfer Entropy": 0.6753539079223695,
+    "c1_temp": 8.8,
+    "Combined Temperature": 24.200000000000003,
+    "c2": "GRC",
+    "c1": "ROU",
+    "c2_temp": 15.4
+  },
+  {
+    "Transfer Entropy": 0.5587512339975679,
+    "c1_temp": 8.8,
+    "Combined Temperature": 23.950000000000003,
+    "c2": "PRT",
+    "c1": "ROU",
+    "c2_temp": 15.15
+  },
+  {
+    "Transfer Entropy": 0.5272707983861039,
+    "c1_temp": 8.8,
+    "Combined Temperature": 22.25,
+    "c2": "ITA",
+    "c1": "ROU",
+    "c2_temp": 13.45
+  },
+  {
+    "Transfer Entropy": 0.766607023005303,
+    "c1_temp": 8.8,
+    "Combined Temperature": 22.1,
+    "c2": "ESP",
+    "c1": "ROU",
+    "c2_temp": 13.3
+  },
+  {
+    "Transfer Entropy": 0.3667550768660831,
+    "c1_temp": 8.8,
+    "Combined Temperature": 19.700000000000003,
+    "c2": "HRV",
+    "c1": "ROU",
+    "c2_temp": 10.9
+  },
+  {
+    "Transfer Entropy": 0.7525026761518359,
+    "c1_temp": 8.8,
+    "Combined Temperature": 19.5,
+    "c2": "FRA",
+    "c1": "ROU",
+    "c2_temp": 10.7
+  },
+  {
+    "Transfer Entropy": 0.3940970224940215,
+    "c1_temp": 8.8,
+    "Combined Temperature": 19.35,
+    "c2": "BGR",
+    "c1": "ROU",
+    "c2_temp": 10.55
+  },
+  {
+    "Transfer Entropy": 0.6189137157188476,
+    "c1_temp": 8.8,
+    "Combined Temperature": 18.55,
+    "c2": "HUN",
+    "c1": "ROU",
+    "c2_temp": 9.75
+  },
+  {
+    "Transfer Entropy": 0.6565342978177012,
+    "c1_temp": 8.8,
+    "Combined Temperature": 18.35,
+    "c2": "BEL",
+    "c1": "ROU",
+    "c2_temp": 9.55
+  },
+  {
+    "Transfer Entropy": 0.561773276785524,
+    "c1_temp": 8.8,
+    "Combined Temperature": 18.1,
+    "c2": "IRL",
+    "c1": "ROU",
+    "c2_temp": 9.3
+  },
+  {
+    "Transfer Entropy": 0.27102086702402767,
+    "c1_temp": 8.8,
+    "Combined Temperature": 18.05,
+    "c2": "NLD",
+    "c1": "ROU",
+    "c2_temp": 9.25
+  },
+  {
+    "Transfer Entropy": 0.7246323912352186,
+    "c1_temp": 8.8,
+    "Combined Temperature": 17.700000000000003,
+    "c2": "SVN",
+    "c1": "ROU",
+    "c2_temp": 8.9
+  },
+  {
+    "c1_temp": 8.8,
+    "Transfer Entropy": null,
+    "c1": "ROU",
+    "c2_temp": 8.8,
+    "c2": "ROU"
+  },
+  {
+    "Transfer Entropy": 0.7909248600582707,
+    "c1_temp": 8.8,
+    "Combined Temperature": 17.450000000000003,
+    "c2": "LUX",
+    "c1": "ROU",
+    "c2_temp": 8.65
+  },
+  {
+    "Transfer Entropy": 0.6484961071166868,
+    "c1_temp": 8.8,
+    "Combined Temperature": 17.200000000000003,
+    "c2": "DEU",
+    "c1": "ROU",
+    "c2_temp": 8.4
+  },
+  {
+    "Transfer Entropy": 0.2701657345689307,
+    "c1_temp": 8.8,
+    "Combined Temperature": 16.65,
+    "c2": "POL",
+    "c1": "ROU",
+    "c2_temp": 7.85
+  },
+  {
+    "Transfer Entropy": 0.35686699580120956,
+    "c1_temp": 8.8,
+    "Combined Temperature": 16.35,
+    "c2": "CZE",
+    "c1": "ROU",
+    "c2_temp": 7.55
+  },
+  {
+    "Transfer Entropy": 0.33173544118742043,
+    "c1_temp": 8.8,
+    "Combined Temperature": 16.3,
+    "c2": "DNK",
+    "c1": "ROU",
+    "c2_temp": 7.5
+  },
+  {
+    "Transfer Entropy": 0.2977075320531967,
+    "c1_temp": 8.8,
+    "Combined Temperature": 15.600000000000001,
+    "c2": "SVK",
+    "c1": "ROU",
+    "c2_temp": 6.8
+  },
+  {
+    "Transfer Entropy": 0.5556888825658249,
+    "c1_temp": 8.8,
+    "Combined Temperature": 15.15,
+    "c2": "AUT",
+    "c1": "ROU",
+    "c2_temp": 6.35
+  },
+  {
+    "Transfer Entropy": 0.5158324775649411,
+    "c1_temp": 8.8,
+    "Combined Temperature": 15.0,
+    "c2": "LTU",
+    "c1": "ROU",
+    "c2_temp": 6.2
+  },
+  {
+    "Transfer Entropy": 0.5369108248560589,
+    "c1_temp": 8.8,
+    "Combined Temperature": 14.450000000000001,
+    "c2": "LIE",
+    "c1": "ROU",
+    "c2_temp": 5.65
+  },
+  {
+    "Transfer Entropy": 0.6508266675453087,
+    "c1_temp": 8.8,
+    "Combined Temperature": 14.4,
+    "c2": "LVA",
+    "c1": "ROU",
+    "c2_temp": 5.6
+  },
+  {
+    "Transfer Entropy": 0.5692363190542751,
+    "c1_temp": 8.8,
+    "Combined Temperature": 13.9,
+    "c2": "EST",
+    "c1": "ROU",
+    "c2_temp": 5.1
+  },
+  {
+    "Transfer Entropy": 0.6171053176387159,
+    "c1_temp": 8.8,
+    "Combined Temperature": 10.9,
+    "c2": "SWE",
+    "c1": "ROU",
+    "c2_temp": 2.1
+  },
+  {
+    "Transfer Entropy": 0.3985933902473006,
+    "c1_temp": 8.8,
+    "Combined Temperature": 10.55,
+    "c2": "ISL",
+    "c1": "ROU",
+    "c2_temp": 1.75
+  },
+  {
+    "Transfer Entropy": 0.7482993564189606,
+    "c1_temp": 8.8,
+    "Combined Temperature": 10.5,
+    "c2": "FIN",
+    "c1": "ROU",
+    "c2_temp": 1.7
+  },
+  {
+    "Transfer Entropy": 0.4339592092661249,
+    "c1_temp": 8.8,
+    "Combined Temperature": 10.3,
+    "c2": "NOR",
+    "c1": "ROU",
+    "c2_temp": 1.5
+  },
+  {
+    "Transfer Entropy": 0.6878117378307631,
+    "c1_temp": 8.65,
+    "Combined Temperature": 27.85,
+    "c2": "MLT",
+    "c1": "LUX",
+    "c2_temp": 19.2
+  },
+  {
+    "Transfer Entropy": 0.6170855890088863,
+    "c1_temp": 8.65,
+    "Combined Temperature": 27.1,
+    "c2": "CYP",
+    "c1": "LUX",
+    "c2_temp": 18.45
+  },
+  {
+    "Transfer Entropy": 0.6285195130054702,
+    "c1_temp": 8.65,
+    "Combined Temperature": 24.05,
+    "c2": "GRC",
+    "c1": "LUX",
+    "c2_temp": 15.4
+  },
+  {
+    "Transfer Entropy": 0.4272779106951558,
+    "c1_temp": 8.65,
+    "Combined Temperature": 23.8,
+    "c2": "PRT",
+    "c1": "LUX",
+    "c2_temp": 15.15
+  },
+  {
+    "Transfer Entropy": 0.49577582739886633,
+    "c1_temp": 8.65,
+    "Combined Temperature": 22.1,
+    "c2": "ITA",
+    "c1": "LUX",
+    "c2_temp": 13.45
+  },
+  {
+    "Transfer Entropy": 0.6223420480719838,
+    "c1_temp": 8.65,
+    "Combined Temperature": 21.950000000000003,
+    "c2": "ESP",
+    "c1": "LUX",
+    "c2_temp": 13.3
+  },
+  {
+    "Transfer Entropy": 0.3035117351514916,
+    "c1_temp": 8.65,
+    "Combined Temperature": 19.55,
+    "c2": "HRV",
+    "c1": "LUX",
+    "c2_temp": 10.9
+  },
+  {
+    "Transfer Entropy": 0.6120950645277223,
+    "c1_temp": 8.65,
+    "Combined Temperature": 19.35,
+    "c2": "FRA",
+    "c1": "LUX",
+    "c2_temp": 10.7
+  },
+  {
+    "Transfer Entropy": 0.3134493118220165,
+    "c1_temp": 8.65,
+    "Combined Temperature": 19.200000000000003,
+    "c2": "BGR",
+    "c1": "LUX",
+    "c2_temp": 10.55
+  },
+  {
+    "Transfer Entropy": 0.5148515455089872,
+    "c1_temp": 8.65,
+    "Combined Temperature": 18.4,
+    "c2": "HUN",
+    "c1": "LUX",
+    "c2_temp": 9.75
+  },
+  {
+    "Transfer Entropy": 0.5420375280939388,
+    "c1_temp": 8.65,
+    "Combined Temperature": 18.200000000000003,
+    "c2": "BEL",
+    "c1": "LUX",
+    "c2_temp": 9.55
+  },
+  {
+    "Transfer Entropy": 0.5019100672784141,
+    "c1_temp": 8.65,
+    "Combined Temperature": 17.950000000000003,
+    "c2": "IRL",
+    "c1": "LUX",
+    "c2_temp": 9.3
+  },
+  {
+    "Transfer Entropy": 0.23973039253494985,
+    "c1_temp": 8.65,
+    "Combined Temperature": 17.9,
+    "c2": "NLD",
+    "c1": "LUX",
+    "c2_temp": 9.25
+  },
+  {
+    "Transfer Entropy": 0.5983437208104981,
+    "c1_temp": 8.65,
+    "Combined Temperature": 17.55,
+    "c2": "SVN",
+    "c1": "LUX",
+    "c2_temp": 8.9
+  },
+  {
+    "Transfer Entropy": 0.48917622514890485,
+    "c1_temp": 8.65,
+    "Combined Temperature": 17.450000000000003,
+    "c2": "ROU",
+    "c1": "LUX",
+    "c2_temp": 8.8
+  },
+  {
+    "c1_temp": 8.65,
+    "Transfer Entropy": null,
+    "c1": "LUX",
+    "c2_temp": 8.65,
+    "c2": "LUX"
+  },
+  {
+    "Transfer Entropy": 0.6002236354314996,
+    "c1_temp": 8.65,
+    "Combined Temperature": 17.05,
+    "c2": "DEU",
+    "c1": "LUX",
+    "c2_temp": 8.4
+  },
+  {
+    "Transfer Entropy": 0.1847358756031216,
+    "c1_temp": 8.65,
+    "Combined Temperature": 16.5,
+    "c2": "POL",
+    "c1": "LUX",
+    "c2_temp": 7.85
+  },
+  {
+    "Transfer Entropy": 0.2904247640738322,
+    "c1_temp": 8.65,
+    "Combined Temperature": 16.2,
+    "c2": "CZE",
+    "c1": "LUX",
+    "c2_temp": 7.55
+  },
+  {
+    "Transfer Entropy": 0.2797240553668206,
+    "c1_temp": 8.65,
+    "Combined Temperature": 16.15,
+    "c2": "DNK",
+    "c1": "LUX",
+    "c2_temp": 7.5
+  },
+  {
+    "Transfer Entropy": 0.29629868949218835,
+    "c1_temp": 8.65,
+    "Combined Temperature": 15.45,
+    "c2": "SVK",
+    "c1": "LUX",
+    "c2_temp": 6.8
+  },
+  {
+    "Transfer Entropy": 0.4682192627267566,
+    "c1_temp": 8.65,
+    "Combined Temperature": 15.0,
+    "c2": "AUT",
+    "c1": "LUX",
+    "c2_temp": 6.35
+  },
+  {
+    "Transfer Entropy": 0.5359161355025783,
+    "c1_temp": 8.65,
+    "Combined Temperature": 14.850000000000001,
+    "c2": "LTU",
+    "c1": "LUX",
+    "c2_temp": 6.2
+  },
+  {
+    "Transfer Entropy": 0.39594010081575043,
+    "c1_temp": 8.65,
+    "Combined Temperature": 14.3,
+    "c2": "LIE",
+    "c1": "LUX",
+    "c2_temp": 5.65
+  },
+  {
+    "Transfer Entropy": 0.6327906339443218,
+    "c1_temp": 8.65,
+    "Combined Temperature": 14.25,
+    "c2": "LVA",
+    "c1": "LUX",
+    "c2_temp": 5.6
+  },
+  {
+    "Transfer Entropy": 0.5297545328969291,
+    "c1_temp": 8.65,
+    "Combined Temperature": 13.75,
+    "c2": "EST",
+    "c1": "LUX",
+    "c2_temp": 5.1
+  },
+  {
+    "Transfer Entropy": 0.4916981974802021,
+    "c1_temp": 8.65,
+    "Combined Temperature": 10.75,
+    "c2": "SWE",
+    "c1": "LUX",
+    "c2_temp": 2.1
+  },
+  {
+    "Transfer Entropy": 0.37800419490045056,
+    "c1_temp": 8.65,
+    "Combined Temperature": 10.4,
+    "c2": "ISL",
+    "c1": "LUX",
+    "c2_temp": 1.75
+  },
+  {
+    "Transfer Entropy": 0.620627377611343,
+    "c1_temp": 8.65,
+    "Combined Temperature": 10.35,
+    "c2": "FIN",
+    "c1": "LUX",
+    "c2_temp": 1.7
+  },
+  {
+    "Transfer Entropy": 0.32850940866762535,
+    "c1_temp": 8.65,
+    "Combined Temperature": 10.15,
+    "c2": "NOR",
+    "c1": "LUX",
+    "c2_temp": 1.5
+  },
+  {
+    "Transfer Entropy": 0.6714088356260626,
+    "c1_temp": 8.4,
+    "Combined Temperature": 27.6,
+    "c2": "MLT",
+    "c1": "DEU",
+    "c2_temp": 19.2
+  },
+  {
+    "Transfer Entropy": 0.5909146611758759,
+    "c1_temp": 8.4,
+    "Combined Temperature": 26.85,
+    "c2": "CYP",
+    "c1": "DEU",
+    "c2_temp": 18.45
+  },
+  {
+    "Transfer Entropy": 0.5967792772060958,
+    "c1_temp": 8.4,
+    "Combined Temperature": 23.8,
+    "c2": "GRC",
+    "c1": "DEU",
+    "c2_temp": 15.4
+  },
+  {
+    "Transfer Entropy": 0.4413265514516469,
+    "c1_temp": 8.4,
+    "Combined Temperature": 23.55,
+    "c2": "PRT",
+    "c1": "DEU",
+    "c2_temp": 15.15
+  },
+  {
+    "Transfer Entropy": 0.4843931589389312,
+    "c1_temp": 8.4,
+    "Combined Temperature": 21.85,
+    "c2": "ITA",
+    "c1": "DEU",
+    "c2_temp": 13.45
+  },
+  {
+    "Transfer Entropy": 0.575314621173526,
+    "c1_temp": 8.4,
+    "Combined Temperature": 21.700000000000003,
+    "c2": "ESP",
+    "c1": "DEU",
+    "c2_temp": 13.3
+  },
+  {
+    "Transfer Entropy": 0.2619369045519717,
+    "c1_temp": 8.4,
+    "Combined Temperature": 19.3,
+    "c2": "HRV",
+    "c1": "DEU",
+    "c2_temp": 10.9
+  },
+  {
+    "Transfer Entropy": 0.5776795395172454,
+    "c1_temp": 8.4,
+    "Combined Temperature": 19.1,
+    "c2": "FRA",
+    "c1": "DEU",
+    "c2_temp": 10.7
+  },
+  {
+    "Transfer Entropy": 0.2854069894026887,
+    "c1_temp": 8.4,
+    "Combined Temperature": 18.950000000000003,
+    "c2": "BGR",
+    "c1": "DEU",
+    "c2_temp": 10.55
+  },
+  {
+    "Transfer Entropy": 0.5142396196669788,
+    "c1_temp": 8.4,
+    "Combined Temperature": 18.15,
+    "c2": "HUN",
+    "c1": "DEU",
+    "c2_temp": 9.75
+  },
+  {
+    "Transfer Entropy": 0.5160652217255797,
+    "c1_temp": 8.4,
+    "Combined Temperature": 17.950000000000003,
+    "c2": "BEL",
+    "c1": "DEU",
+    "c2_temp": 9.55
+  },
+  {
+    "Transfer Entropy": 0.4232511617669146,
+    "c1_temp": 8.4,
+    "Combined Temperature": 17.700000000000003,
+    "c2": "IRL",
+    "c1": "DEU",
+    "c2_temp": 9.3
+  },
+  {
+    "Transfer Entropy": 0.215640920047263,
+    "c1_temp": 8.4,
+    "Combined Temperature": 17.65,
+    "c2": "NLD",
+    "c1": "DEU",
+    "c2_temp": 9.25
+  },
+  {
+    "Transfer Entropy": 0.596638639739168,
+    "c1_temp": 8.4,
+    "Combined Temperature": 17.3,
+    "c2": "SVN",
+    "c1": "DEU",
+    "c2_temp": 8.9
+  },
+  {
+    "Transfer Entropy": 0.4702859615751841,
+    "c1_temp": 8.4,
+    "Combined Temperature": 17.200000000000003,
+    "c2": "ROU",
+    "c1": "DEU",
+    "c2_temp": 8.8
+  },
+  {
+    "Transfer Entropy": 0.6734266389119545,
+    "c1_temp": 8.4,
+    "Combined Temperature": 17.05,
+    "c2": "LUX",
+    "c1": "DEU",
+    "c2_temp": 8.65
+  },
+  {
+    "c1_temp": 8.4,
+    "Transfer Entropy": null,
+    "c1": "DEU",
+    "c2_temp": 8.4,
+    "c2": "DEU"
+  },
+  {
+    "Transfer Entropy": 0.16224036741618209,
+    "c1_temp": 8.4,
+    "Combined Temperature": 16.25,
+    "c2": "POL",
+    "c1": "DEU",
+    "c2_temp": 7.85
+  },
+  {
+    "Transfer Entropy": 0.2754314750575713,
+    "c1_temp": 8.4,
+    "Combined Temperature": 15.95,
+    "c2": "CZE",
+    "c1": "DEU",
+    "c2_temp": 7.55
+  },
+  {
+    "Transfer Entropy": 0.23209132620949335,
+    "c1_temp": 8.4,
+    "Combined Temperature": 15.9,
+    "c2": "DNK",
+    "c1": "DEU",
+    "c2_temp": 7.5
+  },
+  {
+    "Transfer Entropy": 0.29371863739205584,
+    "c1_temp": 8.4,
+    "Combined Temperature": 15.2,
+    "c2": "SVK",
+    "c1": "DEU",
+    "c2_temp": 6.8
+  },
+  {
+    "Transfer Entropy": 0.3980283497959715,
+    "c1_temp": 8.4,
+    "Combined Temperature": 14.75,
+    "c2": "AUT",
+    "c1": "DEU",
+    "c2_temp": 6.35
+  },
+  {
+    "Transfer Entropy": 0.470581132948513,
+    "c1_temp": 8.4,
+    "Combined Temperature": 14.600000000000001,
+    "c2": "LTU",
+    "c1": "DEU",
+    "c2_temp": 6.2
+  },
+  {
+    "Transfer Entropy": 0.3965295181741575,
+    "c1_temp": 8.4,
+    "Combined Temperature": 14.05,
+    "c2": "LIE",
+    "c1": "DEU",
+    "c2_temp": 5.65
+  },
+  {
+    "Transfer Entropy": 0.5697735153794781,
+    "c1_temp": 8.4,
+    "Combined Temperature": 14.0,
+    "c2": "LVA",
+    "c1": "DEU",
+    "c2_temp": 5.6
+  },
+  {
+    "Transfer Entropy": 0.5348219732235626,
+    "c1_temp": 8.4,
+    "Combined Temperature": 13.5,
+    "c2": "EST",
+    "c1": "DEU",
+    "c2_temp": 5.1
+  },
+  {
+    "Transfer Entropy": 0.5815373687220139,
+    "c1_temp": 8.4,
+    "Combined Temperature": 10.5,
+    "c2": "SWE",
+    "c1": "DEU",
+    "c2_temp": 2.1
+  },
+  {
+    "Transfer Entropy": 0.3619808495897018,
+    "c1_temp": 8.4,
+    "Combined Temperature": 10.15,
+    "c2": "ISL",
+    "c1": "DEU",
+    "c2_temp": 1.75
+  },
+  {
+    "Transfer Entropy": 0.615080700752141,
+    "c1_temp": 8.4,
+    "Combined Temperature": 10.1,
+    "c2": "FIN",
+    "c1": "DEU",
+    "c2_temp": 1.7
+  },
+  {
+    "Transfer Entropy": 0.31114859955742225,
+    "c1_temp": 8.4,
+    "Combined Temperature": 9.9,
+    "c2": "NOR",
+    "c1": "DEU",
+    "c2_temp": 1.5
+  },
+  {
+    "Transfer Entropy": 0.680258386719463,
+    "c1_temp": 7.85,
+    "Combined Temperature": 27.049999999999997,
+    "c2": "MLT",
+    "c1": "POL",
+    "c2_temp": 19.2
+  },
+  {
+    "Transfer Entropy": 0.6706958241901101,
+    "c1_temp": 7.85,
+    "Combined Temperature": 26.299999999999997,
+    "c2": "CYP",
+    "c1": "POL",
+    "c2_temp": 18.45
+  },
+  {
+    "Transfer Entropy": 0.711420925469982,
+    "c1_temp": 7.85,
+    "Combined Temperature": 23.25,
+    "c2": "GRC",
+    "c1": "POL",
+    "c2_temp": 15.4
+  },
+  {
+    "Transfer Entropy": 0.47066791842561934,
+    "c1_temp": 7.85,
+    "Combined Temperature": 23.0,
+    "c2": "PRT",
+    "c1": "POL",
+    "c2_temp": 15.15
+  },
+  {
+    "Transfer Entropy": 0.5033550589661203,
+    "c1_temp": 7.85,
+    "Combined Temperature": 21.299999999999997,
+    "c2": "ITA",
+    "c1": "POL",
+    "c2_temp": 13.45
+  },
+  {
+    "Transfer Entropy": 0.664408767939578,
+    "c1_temp": 7.85,
+    "Combined Temperature": 21.15,
+    "c2": "ESP",
+    "c1": "POL",
+    "c2_temp": 13.3
+  },
+  {
+    "Transfer Entropy": 0.2930703928970001,
+    "c1_temp": 7.85,
+    "Combined Temperature": 18.75,
+    "c2": "HRV",
+    "c1": "POL",
+    "c2_temp": 10.9
+  },
+  {
+    "Transfer Entropy": 0.725257044157804,
+    "c1_temp": 7.85,
+    "Combined Temperature": 18.549999999999997,
+    "c2": "FRA",
+    "c1": "POL",
+    "c2_temp": 10.7
+  },
+  {
+    "Transfer Entropy": 0.344373779263327,
+    "c1_temp": 7.85,
+    "Combined Temperature": 18.4,
+    "c2": "BGR",
+    "c1": "POL",
+    "c2_temp": 10.55
+  },
+  {
+    "Transfer Entropy": 0.5653221718691993,
+    "c1_temp": 7.85,
+    "Combined Temperature": 17.6,
+    "c2": "HUN",
+    "c1": "POL",
+    "c2_temp": 9.75
+  },
+  {
+    "Transfer Entropy": 0.6312696557122557,
+    "c1_temp": 7.85,
+    "Combined Temperature": 17.4,
+    "c2": "BEL",
+    "c1": "POL",
+    "c2_temp": 9.55
+  },
+  {
+    "Transfer Entropy": 0.48755923639708343,
+    "c1_temp": 7.85,
+    "Combined Temperature": 17.15,
+    "c2": "IRL",
+    "c1": "POL",
+    "c2_temp": 9.3
+  },
+  {
+    "Transfer Entropy": 0.304358658540152,
+    "c1_temp": 7.85,
+    "Combined Temperature": 17.1,
+    "c2": "NLD",
+    "c1": "POL",
+    "c2_temp": 9.25
+  },
+  {
+    "Transfer Entropy": 0.750884311600483,
+    "c1_temp": 7.85,
+    "Combined Temperature": 16.75,
+    "c2": "SVN",
+    "c1": "POL",
+    "c2_temp": 8.9
+  },
+  {
+    "Transfer Entropy": 0.5087178438956045,
+    "c1_temp": 7.85,
+    "Combined Temperature": 16.65,
+    "c2": "ROU",
+    "c1": "POL",
+    "c2_temp": 8.8
+  },
+  {
+    "Transfer Entropy": 0.6977347711307483,
+    "c1_temp": 7.85,
+    "Combined Temperature": 16.5,
+    "c2": "LUX",
+    "c1": "POL",
+    "c2_temp": 8.65
+  },
+  {
+    "Transfer Entropy": 0.5938926817998849,
+    "c1_temp": 7.85,
+    "Combined Temperature": 16.25,
+    "c2": "DEU",
+    "c1": "POL",
+    "c2_temp": 8.4
+  },
+  {
+    "c1_temp": 7.85,
+    "Transfer Entropy": null,
+    "c1": "POL",
+    "c2_temp": 7.85,
+    "c2": "POL"
+  },
+  {
+    "Transfer Entropy": 0.308237269295414,
+    "c1_temp": 7.85,
+    "Combined Temperature": 15.399999999999999,
+    "c2": "CZE",
+    "c1": "POL",
+    "c2_temp": 7.55
+  },
+  {
+    "Transfer Entropy": 0.3191192711460203,
+    "c1_temp": 7.85,
+    "Combined Temperature": 15.35,
+    "c2": "DNK",
+    "c1": "POL",
+    "c2_temp": 7.5
+  },
+  {
+    "Transfer Entropy": 0.3260694330999914,
+    "c1_temp": 7.85,
+    "Combined Temperature": 14.649999999999999,
+    "c2": "SVK",
+    "c1": "POL",
+    "c2_temp": 6.8
+  },
+  {
+    "Transfer Entropy": 0.5737078400284015,
+    "c1_temp": 7.85,
+    "Combined Temperature": 14.2,
+    "c2": "AUT",
+    "c1": "POL",
+    "c2_temp": 6.35
+  },
+  {
+    "Transfer Entropy": 0.5483050056933129,
+    "c1_temp": 7.85,
+    "Combined Temperature": 14.05,
+    "c2": "LTU",
+    "c1": "POL",
+    "c2_temp": 6.2
+  },
+  {
+    "Transfer Entropy": 0.5110391425006223,
+    "c1_temp": 7.85,
+    "Combined Temperature": 13.5,
+    "c2": "LIE",
+    "c1": "POL",
+    "c2_temp": 5.65
+  },
+  {
+    "Transfer Entropy": 0.6885027646652517,
+    "c1_temp": 7.85,
+    "Combined Temperature": 13.45,
+    "c2": "LVA",
+    "c1": "POL",
+    "c2_temp": 5.6
+  },
+  {
+    "Transfer Entropy": 0.5674049211693294,
+    "c1_temp": 7.85,
+    "Combined Temperature": 12.95,
+    "c2": "EST",
+    "c1": "POL",
+    "c2_temp": 5.1
+  },
+  {
+    "Transfer Entropy": 0.5638550514366389,
+    "c1_temp": 7.85,
+    "Combined Temperature": 9.95,
+    "c2": "SWE",
+    "c1": "POL",
+    "c2_temp": 2.1
+  },
+  {
+    "Transfer Entropy": 0.39406753046459797,
+    "c1_temp": 7.85,
+    "Combined Temperature": 9.6,
+    "c2": "ISL",
+    "c1": "POL",
+    "c2_temp": 1.75
+  },
+  {
+    "Transfer Entropy": 0.7653968858147763,
+    "c1_temp": 7.85,
+    "Combined Temperature": 9.549999999999999,
+    "c2": "FIN",
+    "c1": "POL",
+    "c2_temp": 1.7
+  },
+  {
+    "Transfer Entropy": 0.4725431332838199,
+    "c1_temp": 7.85,
+    "Combined Temperature": 9.35,
+    "c2": "NOR",
+    "c1": "POL",
+    "c2_temp": 1.5
+  },
+  {
+    "Transfer Entropy": 0.6194517775985174,
+    "c1_temp": 7.55,
+    "Combined Temperature": 26.75,
+    "c2": "MLT",
+    "c1": "CZE",
+    "c2_temp": 19.2
+  },
+  {
+    "Transfer Entropy": 0.6177029082698354,
+    "c1_temp": 7.55,
+    "Combined Temperature": 26.0,
+    "c2": "CYP",
+    "c1": "CZE",
+    "c2_temp": 18.45
+  },
+  {
+    "Transfer Entropy": 0.6580763972111678,
+    "c1_temp": 7.55,
+    "Combined Temperature": 22.95,
+    "c2": "GRC",
+    "c1": "CZE",
+    "c2_temp": 15.4
+  },
+  {
+    "Transfer Entropy": 0.4527291826680772,
+    "c1_temp": 7.55,
+    "Combined Temperature": 22.7,
+    "c2": "PRT",
+    "c1": "CZE",
+    "c2_temp": 15.15
+  },
+  {
+    "Transfer Entropy": 0.502160080504371,
+    "c1_temp": 7.55,
+    "Combined Temperature": 21.0,
+    "c2": "ITA",
+    "c1": "CZE",
+    "c2_temp": 13.45
+  },
+  {
+    "Transfer Entropy": 0.5844923193287004,
+    "c1_temp": 7.55,
+    "Combined Temperature": 20.85,
+    "c2": "ESP",
+    "c1": "CZE",
+    "c2_temp": 13.3
+  },
+  {
+    "Transfer Entropy": 0.3227872769625452,
+    "c1_temp": 7.55,
+    "Combined Temperature": 18.45,
+    "c2": "HRV",
+    "c1": "CZE",
+    "c2_temp": 10.9
+  },
+  {
+    "Transfer Entropy": 0.6194707561298967,
+    "c1_temp": 7.55,
+    "Combined Temperature": 18.25,
+    "c2": "FRA",
+    "c1": "CZE",
+    "c2_temp": 10.7
+  },
+  {
+    "Transfer Entropy": 0.3054036881885434,
+    "c1_temp": 7.55,
+    "Combined Temperature": 18.1,
+    "c2": "BGR",
+    "c1": "CZE",
+    "c2_temp": 10.55
+  },
+  {
+    "Transfer Entropy": 0.5557054364407714,
+    "c1_temp": 7.55,
+    "Combined Temperature": 17.3,
+    "c2": "HUN",
+    "c1": "CZE",
+    "c2_temp": 9.75
+  },
+  {
+    "Transfer Entropy": 0.5383063595975278,
+    "c1_temp": 7.55,
+    "Combined Temperature": 17.1,
+    "c2": "BEL",
+    "c1": "CZE",
+    "c2_temp": 9.55
+  },
+  {
+    "Transfer Entropy": 0.4562691686609792,
+    "c1_temp": 7.55,
+    "Combined Temperature": 16.85,
+    "c2": "IRL",
+    "c1": "CZE",
+    "c2_temp": 9.3
+  },
+  {
+    "Transfer Entropy": 0.3084269898247305,
+    "c1_temp": 7.55,
+    "Combined Temperature": 16.8,
+    "c2": "NLD",
+    "c1": "CZE",
+    "c2_temp": 9.25
+  },
+  {
+    "Transfer Entropy": 0.6582239283354596,
+    "c1_temp": 7.55,
+    "Combined Temperature": 16.45,
+    "c2": "SVN",
+    "c1": "CZE",
+    "c2_temp": 8.9
+  },
+  {
+    "Transfer Entropy": 0.48641151775818864,
+    "c1_temp": 7.55,
+    "Combined Temperature": 16.35,
+    "c2": "ROU",
+    "c1": "CZE",
+    "c2_temp": 8.8
+  },
+  {
+    "Transfer Entropy": 0.6274171150220166,
+    "c1_temp": 7.55,
+    "Combined Temperature": 16.2,
+    "c2": "LUX",
+    "c1": "CZE",
+    "c2_temp": 8.65
+  },
+  {
+    "Transfer Entropy": 0.5510235329682689,
+    "c1_temp": 7.55,
+    "Combined Temperature": 15.95,
+    "c2": "DEU",
+    "c1": "CZE",
+    "c2_temp": 8.4
+  },
+  {
+    "Transfer Entropy": 0.14715794812528157,
+    "c1_temp": 7.55,
+    "Combined Temperature": 15.399999999999999,
+    "c2": "POL",
+    "c1": "CZE",
+    "c2_temp": 7.85
+  },
+  {
+    "c1_temp": 7.55,
+    "Transfer Entropy": null,
+    "c1": "CZE",
+    "c2_temp": 7.55,
+    "c2": "CZE"
+  },
+  {
+    "Transfer Entropy": 0.29622456242858936,
+    "c1_temp": 7.55,
+    "Combined Temperature": 15.05,
+    "c2": "DNK",
+    "c1": "CZE",
+    "c2_temp": 7.5
+  },
+  {
+    "Transfer Entropy": 0.3082318147343356,
+    "c1_temp": 7.55,
+    "Combined Temperature": 14.35,
+    "c2": "SVK",
+    "c1": "CZE",
+    "c2_temp": 6.8
+  },
+  {
+    "Transfer Entropy": 0.5073070813453986,
+    "c1_temp": 7.55,
+    "Combined Temperature": 13.899999999999999,
+    "c2": "AUT",
+    "c1": "CZE",
+    "c2_temp": 6.35
+  },
+  {
+    "Transfer Entropy": 0.49954653568887647,
+    "c1_temp": 7.55,
+    "Combined Temperature": 13.75,
+    "c2": "LTU",
+    "c1": "CZE",
+    "c2_temp": 6.2
+  },
+  {
+    "Transfer Entropy": 0.4771053334309811,
+    "c1_temp": 7.55,
+    "Combined Temperature": 13.2,
+    "c2": "LIE",
+    "c1": "CZE",
+    "c2_temp": 5.65
+  },
+  {
+    "Transfer Entropy": 0.640320094239362,
+    "c1_temp": 7.55,
+    "Combined Temperature": 13.149999999999999,
+    "c2": "LVA",
+    "c1": "CZE",
+    "c2_temp": 5.6
+  },
+  {
+    "Transfer Entropy": 0.5231335876084985,
+    "c1_temp": 7.55,
+    "Combined Temperature": 12.649999999999999,
+    "c2": "EST",
+    "c1": "CZE",
+    "c2_temp": 5.1
+  },
+  {
+    "Transfer Entropy": 0.4897044688392638,
+    "c1_temp": 7.55,
+    "Combined Temperature": 9.65,
+    "c2": "SWE",
+    "c1": "CZE",
+    "c2_temp": 2.1
+  },
+  {
+    "Transfer Entropy": 0.3457242044869774,
+    "c1_temp": 7.55,
+    "Combined Temperature": 9.3,
+    "c2": "ISL",
+    "c1": "CZE",
+    "c2_temp": 1.75
+  },
+  {
+    "Transfer Entropy": 0.6347876090217797,
+    "c1_temp": 7.55,
+    "Combined Temperature": 9.25,
+    "c2": "FIN",
+    "c1": "CZE",
+    "c2_temp": 1.7
+  },
+  {
+    "Transfer Entropy": 0.35226707294620846,
+    "c1_temp": 7.55,
+    "Combined Temperature": 9.05,
+    "c2": "NOR",
+    "c1": "CZE",
+    "c2_temp": 1.5
+  },
+  {
+    "Transfer Entropy": 0.4461875309606781,
+    "c1_temp": 7.5,
+    "Combined Temperature": 26.7,
+    "c2": "MLT",
+    "c1": "DNK",
+    "c2_temp": 19.2
+  },
+  {
+    "Transfer Entropy": 0.4291527727377677,
+    "c1_temp": 7.5,
+    "Combined Temperature": 25.95,
+    "c2": "CYP",
+    "c1": "DNK",
+    "c2_temp": 18.45
+  },
+  {
+    "Transfer Entropy": 0.3133610546790367,
+    "c1_temp": 7.5,
+    "Combined Temperature": 22.9,
+    "c2": "GRC",
+    "c1": "DNK",
+    "c2_temp": 15.4
+  },
+  {
+    "Transfer Entropy": 0.3234957811847854,
+    "c1_temp": 7.5,
+    "Combined Temperature": 22.65,
+    "c2": "PRT",
+    "c1": "DNK",
+    "c2_temp": 15.15
+  },
+  {
+    "Transfer Entropy": 0.33245349838969523,
+    "c1_temp": 7.5,
+    "Combined Temperature": 20.95,
+    "c2": "ITA",
+    "c1": "DNK",
+    "c2_temp": 13.45
+  },
+  {
+    "Transfer Entropy": 0.37237502447245946,
+    "c1_temp": 7.5,
+    "Combined Temperature": 20.8,
+    "c2": "ESP",
+    "c1": "DNK",
+    "c2_temp": 13.3
+  },
+  {
+    "Transfer Entropy": 0.19033054265881597,
+    "c1_temp": 7.5,
+    "Combined Temperature": 18.4,
+    "c2": "HRV",
+    "c1": "DNK",
+    "c2_temp": 10.9
+  },
+  {
+    "Transfer Entropy": 0.41106938069450916,
+    "c1_temp": 7.5,
+    "Combined Temperature": 18.2,
+    "c2": "FRA",
+    "c1": "DNK",
+    "c2_temp": 10.7
+  },
+  {
+    "Transfer Entropy": 0.2795989447738159,
+    "c1_temp": 7.5,
+    "Combined Temperature": 18.05,
+    "c2": "BGR",
+    "c1": "DNK",
+    "c2_temp": 10.55
+  },
+  {
+    "Transfer Entropy": 0.4269509263228552,
+    "c1_temp": 7.5,
+    "Combined Temperature": 17.25,
+    "c2": "HUN",
+    "c1": "DNK",
+    "c2_temp": 9.75
+  },
+  {
+    "Transfer Entropy": 0.3337300321036163,
+    "c1_temp": 7.5,
+    "Combined Temperature": 17.05,
+    "c2": "BEL",
+    "c1": "DNK",
+    "c2_temp": 9.55
+  },
+  {
+    "Transfer Entropy": 0.24810533439701501,
+    "c1_temp": 7.5,
+    "Combined Temperature": 16.8,
+    "c2": "IRL",
+    "c1": "DNK",
+    "c2_temp": 9.3
+  },
+  {
+    "Transfer Entropy": 0.14926548976984988,
+    "c1_temp": 7.5,
+    "Combined Temperature": 16.75,
+    "c2": "NLD",
+    "c1": "DNK",
+    "c2_temp": 9.25
+  },
+  {
+    "Transfer Entropy": 0.4246821773922547,
+    "c1_temp": 7.5,
+    "Combined Temperature": 16.4,
+    "c2": "SVN",
+    "c1": "DNK",
+    "c2_temp": 8.9
+  },
+  {
+    "Transfer Entropy": 0.3061683005632806,
+    "c1_temp": 7.5,
+    "Combined Temperature": 16.3,
+    "c2": "ROU",
+    "c1": "DNK",
+    "c2_temp": 8.8
+  },
+  {
+    "Transfer Entropy": 0.38985889942239627,
+    "c1_temp": 7.5,
+    "Combined Temperature": 16.15,
+    "c2": "LUX",
+    "c1": "DNK",
+    "c2_temp": 8.65
+  },
+  {
+    "Transfer Entropy": 0.3013991781371821,
+    "c1_temp": 7.5,
+    "Combined Temperature": 15.9,
+    "c2": "DEU",
+    "c1": "DNK",
+    "c2_temp": 8.4
+  },
+  {
+    "Transfer Entropy": 0.12124285900023099,
+    "c1_temp": 7.5,
+    "Combined Temperature": 15.35,
+    "c2": "POL",
+    "c1": "DNK",
+    "c2_temp": 7.85
+  },
+  {
+    "Transfer Entropy": 0.2003311846137943,
+    "c1_temp": 7.5,
+    "Combined Temperature": 15.05,
+    "c2": "CZE",
+    "c1": "DNK",
+    "c2_temp": 7.55
+  },
+  {
+    "c1_temp": 7.5,
+    "Transfer Entropy": null,
+    "c1": "DNK",
+    "c2_temp": 7.5,
+    "c2": "DNK"
+  },
+  {
+    "Transfer Entropy": 0.17422182340076653,
+    "c1_temp": 7.5,
+    "Combined Temperature": 14.3,
+    "c2": "SVK",
+    "c1": "DNK",
+    "c2_temp": 6.8
+  },
+  {
+    "Transfer Entropy": 0.2778888088857895,
+    "c1_temp": 7.5,
+    "Combined Temperature": 13.85,
+    "c2": "AUT",
+    "c1": "DNK",
+    "c2_temp": 6.35
+  },
+  {
+    "Transfer Entropy": 0.27654954490664746,
+    "c1_temp": 7.5,
+    "Combined Temperature": 13.7,
+    "c2": "LTU",
+    "c1": "DNK",
+    "c2_temp": 6.2
+  },
+  {
+    "Transfer Entropy": 0.2088831197245593,
+    "c1_temp": 7.5,
+    "Combined Temperature": 13.15,
+    "c2": "LIE",
+    "c1": "DNK",
+    "c2_temp": 5.65
+  },
+  {
+    "Transfer Entropy": 0.4275167586736167,
+    "c1_temp": 7.5,
+    "Combined Temperature": 13.1,
+    "c2": "LVA",
+    "c1": "DNK",
+    "c2_temp": 5.6
+  },
+  {
+    "Transfer Entropy": 0.3804430278764207,
+    "c1_temp": 7.5,
+    "Combined Temperature": 12.6,
+    "c2": "EST",
+    "c1": "DNK",
+    "c2_temp": 5.1
+  },
+  {
+    "Transfer Entropy": 0.3888483639634713,
+    "c1_temp": 7.5,
+    "Combined Temperature": 9.6,
+    "c2": "SWE",
+    "c1": "DNK",
+    "c2_temp": 2.1
+  },
+  {
+    "Transfer Entropy": 0.2733568025838179,
+    "c1_temp": 7.5,
+    "Combined Temperature": 9.25,
+    "c2": "ISL",
+    "c1": "DNK",
+    "c2_temp": 1.75
+  },
+  {
+    "Transfer Entropy": 0.36424970918913185,
+    "c1_temp": 7.5,
+    "Combined Temperature": 9.2,
+    "c2": "FIN",
+    "c1": "DNK",
+    "c2_temp": 1.7
+  },
+  {
+    "Transfer Entropy": 0.16722647100560076,
+    "c1_temp": 7.5,
+    "Combined Temperature": 9.0,
+    "c2": "NOR",
+    "c1": "DNK",
+    "c2_temp": 1.5
+  },
+  {
+    "Transfer Entropy": 0.656367726505707,
+    "c1_temp": 6.8,
+    "Combined Temperature": 26.0,
+    "c2": "MLT",
+    "c1": "SVK",
+    "c2_temp": 19.2
+  },
+  {
+    "Transfer Entropy": 0.6892796988038113,
+    "c1_temp": 6.8,
+    "Combined Temperature": 25.25,
+    "c2": "CYP",
+    "c1": "SVK",
+    "c2_temp": 18.45
+  },
+  {
+    "Transfer Entropy": 0.7326653402884067,
+    "c1_temp": 6.8,
+    "Combined Temperature": 22.2,
+    "c2": "GRC",
+    "c1": "SVK",
+    "c2_temp": 15.4
+  },
+  {
+    "Transfer Entropy": 0.4869611771587392,
+    "c1_temp": 6.8,
+    "Combined Temperature": 21.95,
+    "c2": "PRT",
+    "c1": "SVK",
+    "c2_temp": 15.15
+  },
+  {
+    "Transfer Entropy": 0.5363953980256522,
+    "c1_temp": 6.8,
+    "Combined Temperature": 20.25,
+    "c2": "ITA",
+    "c1": "SVK",
+    "c2_temp": 13.45
+  },
+  {
+    "Transfer Entropy": 0.6690752653515625,
+    "c1_temp": 6.8,
+    "Combined Temperature": 20.1,
+    "c2": "ESP",
+    "c1": "SVK",
+    "c2_temp": 13.3
+  },
+  {
+    "Transfer Entropy": 0.2854727129872716,
+    "c1_temp": 6.8,
+    "Combined Temperature": 17.7,
+    "c2": "HRV",
+    "c1": "SVK",
+    "c2_temp": 10.9
+  },
+  {
+    "Transfer Entropy": 0.694409741461362,
+    "c1_temp": 6.8,
+    "Combined Temperature": 17.5,
+    "c2": "FRA",
+    "c1": "SVK",
+    "c2_temp": 10.7
+  },
+  {
+    "Transfer Entropy": 0.32774779815308464,
+    "c1_temp": 6.8,
+    "Combined Temperature": 17.35,
+    "c2": "BGR",
+    "c1": "SVK",
+    "c2_temp": 10.55
+  },
+  {
+    "Transfer Entropy": 0.6735159685540546,
+    "c1_temp": 6.8,
+    "Combined Temperature": 16.55,
+    "c2": "HUN",
+    "c1": "SVK",
+    "c2_temp": 9.75
+  },
+  {
+    "Transfer Entropy": 0.626878047303425,
+    "c1_temp": 6.8,
+    "Combined Temperature": 16.35,
+    "c2": "BEL",
+    "c1": "SVK",
+    "c2_temp": 9.55
+  },
+  {
+    "Transfer Entropy": 0.5249220973346163,
+    "c1_temp": 6.8,
+    "Combined Temperature": 16.1,
+    "c2": "IRL",
+    "c1": "SVK",
+    "c2_temp": 9.3
+  },
+  {
+    "Transfer Entropy": 0.2948774061504992,
+    "c1_temp": 6.8,
+    "Combined Temperature": 16.05,
+    "c2": "NLD",
+    "c1": "SVK",
+    "c2_temp": 9.25
+  },
+  {
+    "Transfer Entropy": 0.7280789213242052,
+    "c1_temp": 6.8,
+    "Combined Temperature": 15.7,
+    "c2": "SVN",
+    "c1": "SVK",
+    "c2_temp": 8.9
+  },
+  {
+    "Transfer Entropy": 0.48152407198684294,
+    "c1_temp": 6.8,
+    "Combined Temperature": 15.600000000000001,
+    "c2": "ROU",
+    "c1": "SVK",
+    "c2_temp": 8.8
+  },
+  {
+    "Transfer Entropy": 0.6894751505558351,
+    "c1_temp": 6.8,
+    "Combined Temperature": 15.45,
+    "c2": "LUX",
+    "c1": "SVK",
+    "c2_temp": 8.65
+  },
+  {
+    "Transfer Entropy": 0.6104644746602945,
+    "c1_temp": 6.8,
+    "Combined Temperature": 15.2,
+    "c2": "DEU",
+    "c1": "SVK",
+    "c2_temp": 8.4
+  },
+  {
+    "Transfer Entropy": 0.21110291950992316,
+    "c1_temp": 6.8,
+    "Combined Temperature": 14.649999999999999,
+    "c2": "POL",
+    "c1": "SVK",
+    "c2_temp": 7.85
+  },
+  {
+    "Transfer Entropy": 0.32609797616371167,
+    "c1_temp": 6.8,
+    "Combined Temperature": 14.35,
+    "c2": "CZE",
+    "c1": "SVK",
+    "c2_temp": 7.55
+  },
+  {
+    "Transfer Entropy": 0.31832464279509465,
+    "c1_temp": 6.8,
+    "Combined Temperature": 14.3,
+    "c2": "DNK",
+    "c1": "SVK",
+    "c2_temp": 7.5
+  },
+  {
+    "c1_temp": 6.8,
+    "Transfer Entropy": null,
+    "c1": "SVK",
+    "c2_temp": 6.8,
+    "c2": "SVK"
+  },
+  {
+    "Transfer Entropy": 0.5587816362684714,
+    "c1_temp": 6.8,
+    "Combined Temperature": 13.149999999999999,
+    "c2": "AUT",
+    "c1": "SVK",
+    "c2_temp": 6.35
+  },
+  {
+    "Transfer Entropy": 0.5274896197887489,
+    "c1_temp": 6.8,
+    "Combined Temperature": 13.0,
+    "c2": "LTU",
+    "c1": "SVK",
+    "c2_temp": 6.2
+  },
+  {
+    "Transfer Entropy": 0.5487253510683042,
+    "c1_temp": 6.8,
+    "Combined Temperature": 12.45,
+    "c2": "LIE",
+    "c1": "SVK",
+    "c2_temp": 5.65
+  },
+  {
+    "Transfer Entropy": 0.6542513904233248,
+    "c1_temp": 6.8,
+    "Combined Temperature": 12.399999999999999,
+    "c2": "LVA",
+    "c1": "SVK",
+    "c2_temp": 5.6
+  },
+  {
+    "Transfer Entropy": 0.5405646159829353,
+    "c1_temp": 6.8,
+    "Combined Temperature": 11.899999999999999,
+    "c2": "EST",
+    "c1": "SVK",
+    "c2_temp": 5.1
+  },
+  {
+    "Transfer Entropy": 0.5638128978093974,
+    "c1_temp": 6.8,
+    "Combined Temperature": 8.9,
+    "c2": "SWE",
+    "c1": "SVK",
+    "c2_temp": 2.1
+  },
+  {
+    "Transfer Entropy": 0.3680553778896481,
+    "c1_temp": 6.8,
+    "Combined Temperature": 8.55,
+    "c2": "ISL",
+    "c1": "SVK",
+    "c2_temp": 1.75
+  },
+  {
+    "Transfer Entropy": 0.7001126095125019,
+    "c1_temp": 6.8,
+    "Combined Temperature": 8.5,
+    "c2": "FIN",
+    "c1": "SVK",
+    "c2_temp": 1.7
+  },
+  {
+    "Transfer Entropy": 0.43282658361144716,
+    "c1_temp": 6.8,
+    "Combined Temperature": 8.3,
+    "c2": "NOR",
+    "c1": "SVK",
+    "c2_temp": 1.5
+  },
+  {
+    "Transfer Entropy": 0.6696658114609051,
+    "c1_temp": 6.35,
+    "Combined Temperature": 25.549999999999997,
+    "c2": "MLT",
+    "c1": "AUT",
+    "c2_temp": 19.2
+  },
+  {
+    "Transfer Entropy": 0.5748299494997801,
+    "c1_temp": 6.35,
+    "Combined Temperature": 24.799999999999997,
+    "c2": "CYP",
+    "c1": "AUT",
+    "c2_temp": 18.45
+  },
+  {
+    "Transfer Entropy": 0.5638428557164934,
+    "c1_temp": 6.35,
+    "Combined Temperature": 21.75,
+    "c2": "GRC",
+    "c1": "AUT",
+    "c2_temp": 15.4
+  },
+  {
+    "Transfer Entropy": 0.4479156795815475,
+    "c1_temp": 6.35,
+    "Combined Temperature": 21.5,
+    "c2": "PRT",
+    "c1": "AUT",
+    "c2_temp": 15.15
+  },
+  {
+    "Transfer Entropy": 0.44514383750875275,
+    "c1_temp": 6.35,
+    "Combined Temperature": 19.799999999999997,
+    "c2": "ITA",
+    "c1": "AUT",
+    "c2_temp": 13.45
+  },
+  {
+    "Transfer Entropy": 0.679211911249732,
+    "c1_temp": 6.35,
+    "Combined Temperature": 19.65,
+    "c2": "ESP",
+    "c1": "AUT",
+    "c2_temp": 13.3
+  },
+  {
+    "Transfer Entropy": 0.2591136595366904,
+    "c1_temp": 6.35,
+    "Combined Temperature": 17.25,
+    "c2": "HRV",
+    "c1": "AUT",
+    "c2_temp": 10.9
+  },
+  {
+    "Transfer Entropy": 0.6154310161635852,
+    "c1_temp": 6.35,
+    "Combined Temperature": 17.049999999999997,
+    "c2": "FRA",
+    "c1": "AUT",
+    "c2_temp": 10.7
+  },
+  {
+    "Transfer Entropy": 0.2710353828147256,
+    "c1_temp": 6.35,
+    "Combined Temperature": 16.9,
+    "c2": "BGR",
+    "c1": "AUT",
+    "c2_temp": 10.55
+  },
+  {
+    "Transfer Entropy": 0.5352089448986297,
+    "c1_temp": 6.35,
+    "Combined Temperature": 16.1,
+    "c2": "HUN",
+    "c1": "AUT",
+    "c2_temp": 9.75
+  },
+  {
+    "Transfer Entropy": 0.4776225051825622,
+    "c1_temp": 6.35,
+    "Combined Temperature": 15.9,
+    "c2": "BEL",
+    "c1": "AUT",
+    "c2_temp": 9.55
+  },
+  {
+    "Transfer Entropy": 0.4202953026121922,
+    "c1_temp": 6.35,
+    "Combined Temperature": 15.65,
+    "c2": "IRL",
+    "c1": "AUT",
+    "c2_temp": 9.3
+  },
+  {
+    "Transfer Entropy": 0.19656875083938646,
+    "c1_temp": 6.35,
+    "Combined Temperature": 15.6,
+    "c2": "NLD",
+    "c1": "AUT",
+    "c2_temp": 9.25
+  },
+  {
+    "Transfer Entropy": 0.572156797901162,
+    "c1_temp": 6.35,
+    "Combined Temperature": 15.25,
+    "c2": "SVN",
+    "c1": "AUT",
+    "c2_temp": 8.9
+  },
+  {
+    "Transfer Entropy": 0.42059734625869943,
+    "c1_temp": 6.35,
+    "Combined Temperature": 15.15,
+    "c2": "ROU",
+    "c1": "AUT",
+    "c2_temp": 8.8
+  },
+  {
+    "Transfer Entropy": 0.6332455398345257,
+    "c1_temp": 6.35,
+    "Combined Temperature": 15.0,
+    "c2": "LUX",
+    "c1": "AUT",
+    "c2_temp": 8.65
+  },
+  {
+    "Transfer Entropy": 0.4968358939761981,
+    "c1_temp": 6.35,
+    "Combined Temperature": 14.75,
+    "c2": "DEU",
+    "c1": "AUT",
+    "c2_temp": 8.4
+  },
+  {
+    "Transfer Entropy": 0.1449038367889091,
+    "c1_temp": 6.35,
+    "Combined Temperature": 14.2,
+    "c2": "POL",
+    "c1": "AUT",
+    "c2_temp": 7.85
+  },
+  {
+    "Transfer Entropy": 0.29861894364541464,
+    "c1_temp": 6.35,
+    "Combined Temperature": 13.899999999999999,
+    "c2": "CZE",
+    "c1": "AUT",
+    "c2_temp": 7.55
+  },
+  {
+    "Transfer Entropy": 0.2694852262061715,
+    "c1_temp": 6.35,
+    "Combined Temperature": 13.85,
+    "c2": "DNK",
+    "c1": "AUT",
+    "c2_temp": 7.5
+  },
+  {
+    "Transfer Entropy": 0.2844902253241886,
+    "c1_temp": 6.35,
+    "Combined Temperature": 13.149999999999999,
+    "c2": "SVK",
+    "c1": "AUT",
+    "c2_temp": 6.8
+  },
+  {
+    "c1_temp": 6.35,
+    "Transfer Entropy": null,
+    "c1": "AUT",
+    "c2_temp": 6.35,
+    "c2": "AUT"
+  },
+  {
+    "Transfer Entropy": 0.45507127420288296,
+    "c1_temp": 6.35,
+    "Combined Temperature": 12.55,
+    "c2": "LTU",
+    "c1": "AUT",
+    "c2_temp": 6.2
+  },
+  {
+    "Transfer Entropy": 0.394409096589237,
+    "c1_temp": 6.35,
+    "Combined Temperature": 12.0,
+    "c2": "LIE",
+    "c1": "AUT",
+    "c2_temp": 5.65
+  },
+  {
+    "Transfer Entropy": 0.5896554875740021,
+    "c1_temp": 6.35,
+    "Combined Temperature": 11.95,
+    "c2": "LVA",
+    "c1": "AUT",
+    "c2_temp": 5.6
+  },
+  {
+    "Transfer Entropy": 0.49097758969734984,
+    "c1_temp": 6.35,
+    "Combined Temperature": 11.45,
+    "c2": "EST",
+    "c1": "AUT",
+    "c2_temp": 5.1
+  },
+  {
+    "Transfer Entropy": 0.5573431515735556,
+    "c1_temp": 6.35,
+    "Combined Temperature": 8.45,
+    "c2": "SWE",
+    "c1": "AUT",
+    "c2_temp": 2.1
+  },
+  {
+    "Transfer Entropy": 0.369023041470106,
+    "c1_temp": 6.35,
+    "Combined Temperature": 8.1,
+    "c2": "ISL",
+    "c1": "AUT",
+    "c2_temp": 1.75
+  },
+  {
+    "Transfer Entropy": 0.605465035035708,
+    "c1_temp": 6.35,
+    "Combined Temperature": 8.049999999999999,
+    "c2": "FIN",
+    "c1": "AUT",
+    "c2_temp": 1.7
+  },
+  {
+    "Transfer Entropy": 0.3631738275184369,
+    "c1_temp": 6.35,
+    "Combined Temperature": 7.85,
+    "c2": "NOR",
+    "c1": "AUT",
+    "c2_temp": 1.5
+  },
+  {
+    "Transfer Entropy": 0.6996087407971412,
+    "c1_temp": 6.2,
+    "Combined Temperature": 25.4,
+    "c2": "MLT",
+    "c1": "LTU",
+    "c2_temp": 19.2
+  },
+  {
+    "Transfer Entropy": 0.6645890825906825,
+    "c1_temp": 6.2,
+    "Combined Temperature": 24.65,
+    "c2": "CYP",
+    "c1": "LTU",
+    "c2_temp": 18.45
+  },
+  {
+    "Transfer Entropy": 0.6977694305988961,
+    "c1_temp": 6.2,
+    "Combined Temperature": 21.6,
+    "c2": "GRC",
+    "c1": "LTU",
+    "c2_temp": 15.4
+  },
+  {
+    "Transfer Entropy": 0.5228952380614372,
+    "c1_temp": 6.2,
+    "Combined Temperature": 21.35,
+    "c2": "PRT",
+    "c1": "LTU",
+    "c2_temp": 15.15
+  },
+  {
+    "Transfer Entropy": 0.6198411301183434,
+    "c1_temp": 6.2,
+    "Combined Temperature": 19.65,
+    "c2": "ITA",
+    "c1": "LTU",
+    "c2_temp": 13.45
+  },
+  {
+    "Transfer Entropy": 0.6199822501286513,
+    "c1_temp": 6.2,
+    "Combined Temperature": 19.5,
+    "c2": "ESP",
+    "c1": "LTU",
+    "c2_temp": 13.3
+  },
+  {
+    "Transfer Entropy": 0.2937785096358332,
+    "c1_temp": 6.2,
+    "Combined Temperature": 17.1,
+    "c2": "HRV",
+    "c1": "LTU",
+    "c2_temp": 10.9
+  },
+  {
+    "Transfer Entropy": 0.6877592661638683,
+    "c1_temp": 6.2,
+    "Combined Temperature": 16.9,
+    "c2": "FRA",
+    "c1": "LTU",
+    "c2_temp": 10.7
+  },
+  {
+    "Transfer Entropy": 0.35325108797034116,
+    "c1_temp": 6.2,
+    "Combined Temperature": 16.75,
+    "c2": "BGR",
+    "c1": "LTU",
+    "c2_temp": 10.55
+  },
+  {
+    "Transfer Entropy": 0.5968241409764731,
+    "c1_temp": 6.2,
+    "Combined Temperature": 15.95,
+    "c2": "HUN",
+    "c1": "LTU",
+    "c2_temp": 9.75
+  },
+  {
+    "Transfer Entropy": 0.6240164919604867,
+    "c1_temp": 6.2,
+    "Combined Temperature": 15.75,
+    "c2": "BEL",
+    "c1": "LTU",
+    "c2_temp": 9.55
+  },
+  {
+    "Transfer Entropy": 0.5031669291212653,
+    "c1_temp": 6.2,
+    "Combined Temperature": 15.5,
+    "c2": "IRL",
+    "c1": "LTU",
+    "c2_temp": 9.3
+  },
+  {
+    "Transfer Entropy": 0.2652429774804429,
+    "c1_temp": 6.2,
+    "Combined Temperature": 15.45,
+    "c2": "NLD",
+    "c1": "LTU",
+    "c2_temp": 9.25
+  },
+  {
+    "Transfer Entropy": 0.6372140744184083,
+    "c1_temp": 6.2,
+    "Combined Temperature": 15.100000000000001,
+    "c2": "SVN",
+    "c1": "LTU",
+    "c2_temp": 8.9
+  },
+  {
+    "Transfer Entropy": 0.44547992446321105,
+    "c1_temp": 6.2,
+    "Combined Temperature": 15.0,
+    "c2": "ROU",
+    "c1": "LTU",
+    "c2_temp": 8.8
+  },
+  {
+    "Transfer Entropy": 0.7683336284036814,
+    "c1_temp": 6.2,
+    "Combined Temperature": 14.850000000000001,
+    "c2": "LUX",
+    "c1": "LTU",
+    "c2_temp": 8.65
+  },
+  {
+    "Transfer Entropy": 0.6179302917667089,
+    "c1_temp": 6.2,
+    "Combined Temperature": 14.600000000000001,
+    "c2": "DEU",
+    "c1": "LTU",
+    "c2_temp": 8.4
+  },
+  {
+    "Transfer Entropy": 0.24191728222558442,
+    "c1_temp": 6.2,
+    "Combined Temperature": 14.05,
+    "c2": "POL",
+    "c1": "LTU",
+    "c2_temp": 7.85
+  },
+  {
+    "Transfer Entropy": 0.34020075692484525,
+    "c1_temp": 6.2,
+    "Combined Temperature": 13.75,
+    "c2": "CZE",
+    "c1": "LTU",
+    "c2_temp": 7.55
+  },
+  {
+    "Transfer Entropy": 0.3088901383761622,
+    "c1_temp": 6.2,
+    "Combined Temperature": 13.7,
+    "c2": "DNK",
+    "c1": "LTU",
+    "c2_temp": 7.5
+  },
+  {
+    "Transfer Entropy": 0.30680823095065435,
+    "c1_temp": 6.2,
+    "Combined Temperature": 13.0,
+    "c2": "SVK",
+    "c1": "LTU",
+    "c2_temp": 6.8
+  },
+  {
+    "Transfer Entropy": 0.5478349642245167,
+    "c1_temp": 6.2,
+    "Combined Temperature": 12.55,
+    "c2": "AUT",
+    "c1": "LTU",
+    "c2_temp": 6.35
+  },
+  {
+    "c1_temp": 6.2,
+    "Transfer Entropy": null,
+    "c1": "LTU",
+    "c2_temp": 6.2,
+    "c2": "LTU"
+  },
+  {
+    "Transfer Entropy": 0.48255780219236155,
+    "c1_temp": 6.2,
+    "Combined Temperature": 11.850000000000001,
+    "c2": "LIE",
+    "c1": "LTU",
+    "c2_temp": 5.65
+  },
+  {
+    "Transfer Entropy": 0.6425396123907233,
+    "c1_temp": 6.2,
+    "Combined Temperature": 11.8,
+    "c2": "LVA",
+    "c1": "LTU",
+    "c2_temp": 5.6
+  },
+  {
+    "Transfer Entropy": 0.565040016971831,
+    "c1_temp": 6.2,
+    "Combined Temperature": 11.3,
+    "c2": "EST",
+    "c1": "LTU",
+    "c2_temp": 5.1
+  },
+  {
+    "Transfer Entropy": 0.6091581771455153,
+    "c1_temp": 6.2,
+    "Combined Temperature": 8.3,
+    "c2": "SWE",
+    "c1": "LTU",
+    "c2_temp": 2.1
+  },
+  {
+    "Transfer Entropy": 0.4098203791249592,
+    "c1_temp": 6.2,
+    "Combined Temperature": 7.95,
+    "c2": "ISL",
+    "c1": "LTU",
+    "c2_temp": 1.75
+  },
+  {
+    "Transfer Entropy": 0.684772110864255,
+    "c1_temp": 6.2,
+    "Combined Temperature": 7.9,
+    "c2": "FIN",
+    "c1": "LTU",
+    "c2_temp": 1.7
+  },
+  {
+    "Transfer Entropy": 0.4270454969381471,
+    "c1_temp": 6.2,
+    "Combined Temperature": 7.7,
+    "c2": "NOR",
+    "c1": "LTU",
+    "c2_temp": 1.5
+  },
+  {
+    "Transfer Entropy": 0.4750043784301076,
+    "c1_temp": 5.65,
+    "Combined Temperature": 24.85,
+    "c2": "MLT",
+    "c1": "LIE",
+    "c2_temp": 19.2
+  },
+  {
+    "Transfer Entropy": 0.47000578634866347,
+    "c1_temp": 5.65,
+    "Combined Temperature": 24.1,
+    "c2": "CYP",
+    "c1": "LIE",
+    "c2_temp": 18.45
+  },
+  {
+    "Transfer Entropy": 0.47013461784801197,
+    "c1_temp": 5.65,
+    "Combined Temperature": 21.05,
+    "c2": "GRC",
+    "c1": "LIE",
+    "c2_temp": 15.4
+  },
+  {
+    "Transfer Entropy": 0.3303867169990005,
+    "c1_temp": 5.65,
+    "Combined Temperature": 20.8,
+    "c2": "PRT",
+    "c1": "LIE",
+    "c2_temp": 15.15
+  },
+  {
+    "Transfer Entropy": 0.35735119513092173,
+    "c1_temp": 5.65,
+    "Combined Temperature": 19.1,
+    "c2": "ITA",
+    "c1": "LIE",
+    "c2_temp": 13.45
+  },
+  {
+    "Transfer Entropy": 0.44281258699423365,
+    "c1_temp": 5.65,
+    "Combined Temperature": 18.950000000000003,
+    "c2": "ESP",
+    "c1": "LIE",
+    "c2_temp": 13.3
+  },
+  {
+    "Transfer Entropy": 0.20909565215278206,
+    "c1_temp": 5.65,
+    "Combined Temperature": 16.55,
+    "c2": "HRV",
+    "c1": "LIE",
+    "c2_temp": 10.9
+  },
+  {
+    "Transfer Entropy": 0.44931259342371993,
+    "c1_temp": 5.65,
+    "Combined Temperature": 16.35,
+    "c2": "FRA",
+    "c1": "LIE",
+    "c2_temp": 10.7
+  },
+  {
+    "Transfer Entropy": 0.22868906674286807,
+    "c1_temp": 5.65,
+    "Combined Temperature": 16.200000000000003,
+    "c2": "BGR",
+    "c1": "LIE",
+    "c2_temp": 10.55
+  },
+  {
+    "Transfer Entropy": 0.4465202815459858,
+    "c1_temp": 5.65,
+    "Combined Temperature": 15.4,
+    "c2": "HUN",
+    "c1": "LIE",
+    "c2_temp": 9.75
+  },
+  {
+    "Transfer Entropy": 0.34733985648536236,
+    "c1_temp": 5.65,
+    "Combined Temperature": 15.200000000000001,
+    "c2": "BEL",
+    "c1": "LIE",
+    "c2_temp": 9.55
+  },
+  {
+    "Transfer Entropy": 0.2907606140710797,
+    "c1_temp": 5.65,
+    "Combined Temperature": 14.950000000000001,
+    "c2": "IRL",
+    "c1": "LIE",
+    "c2_temp": 9.3
+  },
+  {
+    "Transfer Entropy": 0.19841356490065556,
+    "c1_temp": 5.65,
+    "Combined Temperature": 14.9,
+    "c2": "NLD",
+    "c1": "LIE",
+    "c2_temp": 9.25
+  },
+  {
+    "Transfer Entropy": 0.4717529731094899,
+    "c1_temp": 5.65,
+    "Combined Temperature": 14.55,
+    "c2": "SVN",
+    "c1": "LIE",
+    "c2_temp": 8.9
+  },
+  {
+    "Transfer Entropy": 0.3836004552685363,
+    "c1_temp": 5.65,
+    "Combined Temperature": 14.450000000000001,
+    "c2": "ROU",
+    "c1": "LIE",
+    "c2_temp": 8.8
+  },
+  {
+    "Transfer Entropy": 0.46257331357739906,
+    "c1_temp": 5.65,
+    "Combined Temperature": 14.3,
+    "c2": "LUX",
+    "c1": "LIE",
+    "c2_temp": 8.65
+  },
+  {
+    "Transfer Entropy": 0.42369225619380546,
+    "c1_temp": 5.65,
+    "Combined Temperature": 14.05,
+    "c2": "DEU",
+    "c1": "LIE",
+    "c2_temp": 8.4
+  },
+  {
+    "Transfer Entropy": 0.12700067884801766,
+    "c1_temp": 5.65,
+    "Combined Temperature": 13.5,
+    "c2": "POL",
+    "c1": "LIE",
+    "c2_temp": 7.85
+  },
+  {
+    "Transfer Entropy": 0.20447591066040371,
+    "c1_temp": 5.65,
+    "Combined Temperature": 13.2,
+    "c2": "CZE",
+    "c1": "LIE",
+    "c2_temp": 7.55
+  },
+  {
+    "Transfer Entropy": 0.1666718643987311,
+    "c1_temp": 5.65,
+    "Combined Temperature": 13.15,
+    "c2": "DNK",
+    "c1": "LIE",
+    "c2_temp": 7.5
+  },
+  {
+    "Transfer Entropy": 0.22027585451827944,
+    "c1_temp": 5.65,
+    "Combined Temperature": 12.45,
+    "c2": "SVK",
+    "c1": "LIE",
+    "c2_temp": 6.8
+  },
+  {
+    "Transfer Entropy": 0.34712860107548676,
+    "c1_temp": 5.65,
+    "Combined Temperature": 12.0,
+    "c2": "AUT",
+    "c1": "LIE",
+    "c2_temp": 6.35
+  },
+  {
+    "Transfer Entropy": 0.3958496634180899,
+    "c1_temp": 5.65,
+    "Combined Temperature": 11.850000000000001,
+    "c2": "LTU",
+    "c1": "LIE",
+    "c2_temp": 6.2
+  },
+  {
+    "c1_temp": 5.65,
+    "Transfer Entropy": null,
+    "c1": "LIE",
+    "c2_temp": 5.65,
+    "c2": "LIE"
+  },
+  {
+    "Transfer Entropy": 0.4783419488791002,
+    "c1_temp": 5.65,
+    "Combined Temperature": 11.25,
+    "c2": "LVA",
+    "c1": "LIE",
+    "c2_temp": 5.6
+  },
+  {
+    "Transfer Entropy": 0.43366166002767875,
+    "c1_temp": 5.65,
+    "Combined Temperature": 10.75,
+    "c2": "EST",
+    "c1": "LIE",
+    "c2_temp": 5.1
+  },
+  {
+    "Transfer Entropy": 0.4344686614301805,
+    "c1_temp": 5.65,
+    "Combined Temperature": 7.75,
+    "c2": "SWE",
+    "c1": "LIE",
+    "c2_temp": 2.1
+  },
+  {
+    "Transfer Entropy": 0.3641513427888599,
+    "c1_temp": 5.65,
+    "Combined Temperature": 7.4,
+    "c2": "ISL",
+    "c1": "LIE",
+    "c2_temp": 1.75
+  },
+  {
+    "Transfer Entropy": 0.43960558768699304,
+    "c1_temp": 5.65,
+    "Combined Temperature": 7.3500000000000005,
+    "c2": "FIN",
+    "c1": "LIE",
+    "c2_temp": 1.7
+  },
+  {
+    "Transfer Entropy": 0.24802132197473703,
+    "c1_temp": 5.65,
+    "Combined Temperature": 7.15,
+    "c2": "NOR",
+    "c1": "LIE",
+    "c2_temp": 1.5
+  },
+  {
+    "Transfer Entropy": 0.663369860542532,
+    "c1_temp": 5.6,
+    "Combined Temperature": 24.799999999999997,
+    "c2": "MLT",
+    "c1": "LVA",
+    "c2_temp": 19.2
+  },
+  {
+    "Transfer Entropy": 0.6197355475504931,
+    "c1_temp": 5.6,
+    "Combined Temperature": 24.049999999999997,
+    "c2": "CYP",
+    "c1": "LVA",
+    "c2_temp": 18.45
+  },
+  {
+    "Transfer Entropy": 0.5996513378320761,
+    "c1_temp": 5.6,
+    "Combined Temperature": 21.0,
+    "c2": "GRC",
+    "c1": "LVA",
+    "c2_temp": 15.4
+  },
+  {
+    "Transfer Entropy": 0.43110555491126257,
+    "c1_temp": 5.6,
+    "Combined Temperature": 20.75,
+    "c2": "PRT",
+    "c1": "LVA",
+    "c2_temp": 15.15
+  },
+  {
+    "Transfer Entropy": 0.47559929276722046,
+    "c1_temp": 5.6,
+    "Combined Temperature": 19.049999999999997,
+    "c2": "ITA",
+    "c1": "LVA",
+    "c2_temp": 13.45
+  },
+  {
+    "Transfer Entropy": 0.5558951669799058,
+    "c1_temp": 5.6,
+    "Combined Temperature": 18.9,
+    "c2": "ESP",
+    "c1": "LVA",
+    "c2_temp": 13.3
+  },
+  {
+    "Transfer Entropy": 0.27535298436368516,
+    "c1_temp": 5.6,
+    "Combined Temperature": 16.5,
+    "c2": "HRV",
+    "c1": "LVA",
+    "c2_temp": 10.9
+  },
+  {
+    "Transfer Entropy": 0.6385859171776906,
+    "c1_temp": 5.6,
+    "Combined Temperature": 16.299999999999997,
+    "c2": "FRA",
+    "c1": "LVA",
+    "c2_temp": 10.7
+  },
+  {
+    "Transfer Entropy": 0.29807474134673756,
+    "c1_temp": 5.6,
+    "Combined Temperature": 16.15,
+    "c2": "BGR",
+    "c1": "LVA",
+    "c2_temp": 10.55
+  },
+  {
+    "Transfer Entropy": 0.5831680507048965,
+    "c1_temp": 5.6,
+    "Combined Temperature": 15.35,
+    "c2": "HUN",
+    "c1": "LVA",
+    "c2_temp": 9.75
+  },
+  {
+    "Transfer Entropy": 0.5432990474758441,
+    "c1_temp": 5.6,
+    "Combined Temperature": 15.15,
+    "c2": "BEL",
+    "c1": "LVA",
+    "c2_temp": 9.55
+  },
+  {
+    "Transfer Entropy": 0.37632013654706403,
+    "c1_temp": 5.6,
+    "Combined Temperature": 14.9,
+    "c2": "IRL",
+    "c1": "LVA",
+    "c2_temp": 9.3
+  },
+  {
+    "Transfer Entropy": 0.25117693897586685,
+    "c1_temp": 5.6,
+    "Combined Temperature": 14.85,
+    "c2": "NLD",
+    "c1": "LVA",
+    "c2_temp": 9.25
+  },
+  {
+    "Transfer Entropy": 0.6057560979524683,
+    "c1_temp": 5.6,
+    "Combined Temperature": 14.5,
+    "c2": "SVN",
+    "c1": "LVA",
+    "c2_temp": 8.9
+  },
+  {
+    "Transfer Entropy": 0.4119233715965912,
+    "c1_temp": 5.6,
+    "Combined Temperature": 14.4,
+    "c2": "ROU",
+    "c1": "LVA",
+    "c2_temp": 8.8
+  },
+  {
+    "Transfer Entropy": 0.7055806588658791,
+    "c1_temp": 5.6,
+    "Combined Temperature": 14.25,
+    "c2": "LUX",
+    "c1": "LVA",
+    "c2_temp": 8.65
+  },
+  {
+    "Transfer Entropy": 0.5216924464698894,
+    "c1_temp": 5.6,
+    "Combined Temperature": 14.0,
+    "c2": "DEU",
+    "c1": "LVA",
+    "c2_temp": 8.4
+  },
+  {
+    "Transfer Entropy": 0.1725112013454788,
+    "c1_temp": 5.6,
+    "Combined Temperature": 13.45,
+    "c2": "POL",
+    "c1": "LVA",
+    "c2_temp": 7.85
+  },
+  {
+    "Transfer Entropy": 0.32726933927573354,
+    "c1_temp": 5.6,
+    "Combined Temperature": 13.149999999999999,
+    "c2": "CZE",
+    "c1": "LVA",
+    "c2_temp": 7.55
+  },
+  {
+    "Transfer Entropy": 0.243673971693448,
+    "c1_temp": 5.6,
+    "Combined Temperature": 13.1,
+    "c2": "DNK",
+    "c1": "LVA",
+    "c2_temp": 7.5
+  },
+  {
+    "Transfer Entropy": 0.28979435671268244,
+    "c1_temp": 5.6,
+    "Combined Temperature": 12.399999999999999,
+    "c2": "SVK",
+    "c1": "LVA",
+    "c2_temp": 6.8
+  },
+  {
+    "Transfer Entropy": 0.4292620781056499,
+    "c1_temp": 5.6,
+    "Combined Temperature": 11.95,
+    "c2": "AUT",
+    "c1": "LVA",
+    "c2_temp": 6.35
+  },
+  {
+    "Transfer Entropy": 0.44552907041195466,
+    "c1_temp": 5.6,
+    "Combined Temperature": 11.8,
+    "c2": "LTU",
+    "c1": "LVA",
+    "c2_temp": 6.2
+  },
+  {
+    "Transfer Entropy": 0.45115005584595885,
+    "c1_temp": 5.6,
+    "Combined Temperature": 11.25,
+    "c2": "LIE",
+    "c1": "LVA",
+    "c2_temp": 5.65
+  },
+  {
+    "c1_temp": 5.6,
+    "Transfer Entropy": null,
+    "c1": "LVA",
+    "c2_temp": 5.6,
+    "c2": "LVA"
+  },
+  {
+    "Transfer Entropy": 0.49402018610509335,
+    "c1_temp": 5.6,
+    "Combined Temperature": 10.7,
+    "c2": "EST",
+    "c1": "LVA",
+    "c2_temp": 5.1
+  },
+  {
+    "Transfer Entropy": 0.5029609616464196,
+    "c1_temp": 5.6,
+    "Combined Temperature": 7.699999999999999,
+    "c2": "SWE",
+    "c1": "LVA",
+    "c2_temp": 2.1
+  },
+  {
+    "Transfer Entropy": 0.33729614690927606,
+    "c1_temp": 5.6,
+    "Combined Temperature": 7.35,
+    "c2": "ISL",
+    "c1": "LVA",
+    "c2_temp": 1.75
+  },
+  {
+    "Transfer Entropy": 0.6222379997164488,
+    "c1_temp": 5.6,
+    "Combined Temperature": 7.3,
+    "c2": "FIN",
+    "c1": "LVA",
+    "c2_temp": 1.7
+  },
+  {
+    "Transfer Entropy": 0.3842937160864275,
+    "c1_temp": 5.6,
+    "Combined Temperature": 7.1,
+    "c2": "NOR",
+    "c1": "LVA",
+    "c2_temp": 1.5
+  },
+  {
+    "Transfer Entropy": 0.6549773526521092,
+    "c1_temp": 5.1,
+    "Combined Temperature": 24.299999999999997,
+    "c2": "MLT",
+    "c1": "EST",
+    "c2_temp": 19.2
+  },
+  {
+    "Transfer Entropy": 0.6196710566781044,
+    "c1_temp": 5.1,
+    "Combined Temperature": 23.549999999999997,
+    "c2": "CYP",
+    "c1": "EST",
+    "c2_temp": 18.45
+  },
+  {
+    "Transfer Entropy": 0.6772787298400569,
+    "c1_temp": 5.1,
+    "Combined Temperature": 20.5,
+    "c2": "GRC",
+    "c1": "EST",
+    "c2_temp": 15.4
+  },
+  {
+    "Transfer Entropy": 0.46024653144570793,
+    "c1_temp": 5.1,
+    "Combined Temperature": 20.25,
+    "c2": "PRT",
+    "c1": "EST",
+    "c2_temp": 15.15
+  },
+  {
+    "Transfer Entropy": 0.5092500707212977,
+    "c1_temp": 5.1,
+    "Combined Temperature": 18.549999999999997,
+    "c2": "ITA",
+    "c1": "EST",
+    "c2_temp": 13.45
+  },
+  {
+    "Transfer Entropy": 0.6404549958569132,
+    "c1_temp": 5.1,
+    "Combined Temperature": 18.4,
+    "c2": "ESP",
+    "c1": "EST",
+    "c2_temp": 13.3
+  },
+  {
+    "Transfer Entropy": 0.33268176030783264,
+    "c1_temp": 5.1,
+    "Combined Temperature": 16.0,
+    "c2": "HRV",
+    "c1": "EST",
+    "c2_temp": 10.9
+  },
+  {
+    "Transfer Entropy": 0.6604394672210352,
+    "c1_temp": 5.1,
+    "Combined Temperature": 15.799999999999999,
+    "c2": "FRA",
+    "c1": "EST",
+    "c2_temp": 10.7
+  },
+  {
+    "Transfer Entropy": 0.32125408923741106,
+    "c1_temp": 5.1,
+    "Combined Temperature": 15.65,
+    "c2": "BGR",
+    "c1": "EST",
+    "c2_temp": 10.55
+  },
+  {
+    "Transfer Entropy": 0.5749143505455213,
+    "c1_temp": 5.1,
+    "Combined Temperature": 14.85,
+    "c2": "HUN",
+    "c1": "EST",
+    "c2_temp": 9.75
+  },
+  {
+    "Transfer Entropy": 0.5868048729079023,
+    "c1_temp": 5.1,
+    "Combined Temperature": 14.65,
+    "c2": "BEL",
+    "c1": "EST",
+    "c2_temp": 9.55
+  },
+  {
+    "Transfer Entropy": 0.4801397986134624,
+    "c1_temp": 5.1,
+    "Combined Temperature": 14.4,
+    "c2": "IRL",
+    "c1": "EST",
+    "c2_temp": 9.3
+  },
+  {
+    "Transfer Entropy": 0.24379819005345346,
+    "c1_temp": 5.1,
+    "Combined Temperature": 14.35,
+    "c2": "NLD",
+    "c1": "EST",
+    "c2_temp": 9.25
+  },
+  {
+    "Transfer Entropy": 0.663177144471761,
+    "c1_temp": 5.1,
+    "Combined Temperature": 14.0,
+    "c2": "SVN",
+    "c1": "EST",
+    "c2_temp": 8.9
+  },
+  {
+    "Transfer Entropy": 0.46435882652513727,
+    "c1_temp": 5.1,
+    "Combined Temperature": 13.9,
+    "c2": "ROU",
+    "c1": "EST",
+    "c2_temp": 8.8
+  },
+  {
+    "Transfer Entropy": 0.7384131942647102,
+    "c1_temp": 5.1,
+    "Combined Temperature": 13.75,
+    "c2": "LUX",
+    "c1": "EST",
+    "c2_temp": 8.65
+  },
+  {
+    "Transfer Entropy": 0.6322148564767196,
+    "c1_temp": 5.1,
+    "Combined Temperature": 13.5,
+    "c2": "DEU",
+    "c1": "EST",
+    "c2_temp": 8.4
+  },
+  {
+    "Transfer Entropy": 0.2039888146365181,
+    "c1_temp": 5.1,
+    "Combined Temperature": 12.95,
+    "c2": "POL",
+    "c1": "EST",
+    "c2_temp": 7.85
+  },
+  {
+    "Transfer Entropy": 0.3016845305848689,
+    "c1_temp": 5.1,
+    "Combined Temperature": 12.649999999999999,
+    "c2": "CZE",
+    "c1": "EST",
+    "c2_temp": 7.55
+  },
+  {
+    "Transfer Entropy": 0.28549713203747096,
+    "c1_temp": 5.1,
+    "Combined Temperature": 12.6,
+    "c2": "DNK",
+    "c1": "EST",
+    "c2_temp": 7.5
+  },
+  {
+    "Transfer Entropy": 0.2702351319846941,
+    "c1_temp": 5.1,
+    "Combined Temperature": 11.899999999999999,
+    "c2": "SVK",
+    "c1": "EST",
+    "c2_temp": 6.8
+  },
+  {
+    "Transfer Entropy": 0.48952858807504285,
+    "c1_temp": 5.1,
+    "Combined Temperature": 11.45,
+    "c2": "AUT",
+    "c1": "EST",
+    "c2_temp": 6.35
+  },
+  {
+    "Transfer Entropy": 0.4745689972504172,
+    "c1_temp": 5.1,
+    "Combined Temperature": 11.3,
+    "c2": "LTU",
+    "c1": "EST",
+    "c2_temp": 6.2
+  },
+  {
+    "Transfer Entropy": 0.5111737675048567,
+    "c1_temp": 5.1,
+    "Combined Temperature": 10.75,
+    "c2": "LIE",
+    "c1": "EST",
+    "c2_temp": 5.65
+  },
+  {
+    "Transfer Entropy": 0.5892513792779951,
+    "c1_temp": 5.1,
+    "Combined Temperature": 10.7,
+    "c2": "LVA",
+    "c1": "EST",
+    "c2_temp": 5.6
+  },
+  {
+    "c1_temp": 5.1,
+    "Transfer Entropy": null,
+    "c1": "EST",
+    "c2_temp": 5.1,
+    "c2": "EST"
+  },
+  {
+    "Transfer Entropy": 0.5683928233754331,
+    "c1_temp": 5.1,
+    "Combined Temperature": 7.199999999999999,
+    "c2": "SWE",
+    "c1": "EST",
+    "c2_temp": 2.1
+  },
+  {
+    "Transfer Entropy": 0.36308165339512016,
+    "c1_temp": 5.1,
+    "Combined Temperature": 6.85,
+    "c2": "ISL",
+    "c1": "EST",
+    "c2_temp": 1.75
+  },
+  {
+    "Transfer Entropy": 0.6429573487361279,
+    "c1_temp": 5.1,
+    "Combined Temperature": 6.8,
+    "c2": "FIN",
+    "c1": "EST",
+    "c2_temp": 1.7
+  },
+  {
+    "Transfer Entropy": 0.39200087595352073,
+    "c1_temp": 5.1,
+    "Combined Temperature": 6.6,
+    "c2": "NOR",
+    "c1": "EST",
+    "c2_temp": 1.5
+  },
+  {
+    "Transfer Entropy": 0.5671432547590709,
+    "c1_temp": 2.1,
+    "Combined Temperature": 21.3,
+    "c2": "MLT",
+    "c1": "SWE",
+    "c2_temp": 19.2
+  },
+  {
+    "Transfer Entropy": 0.5611139034052229,
+    "c1_temp": 2.1,
+    "Combined Temperature": 20.55,
+    "c2": "CYP",
+    "c1": "SWE",
+    "c2_temp": 18.45
+  },
+  {
+    "Transfer Entropy": 0.6118940123362484,
+    "c1_temp": 2.1,
+    "Combined Temperature": 17.5,
+    "c2": "GRC",
+    "c1": "SWE",
+    "c2_temp": 15.4
+  },
+  {
+    "Transfer Entropy": 0.39672483124283753,
+    "c1_temp": 2.1,
+    "Combined Temperature": 17.25,
+    "c2": "PRT",
+    "c1": "SWE",
+    "c2_temp": 15.15
+  },
+  {
+    "Transfer Entropy": 0.4314506970071876,
+    "c1_temp": 2.1,
+    "Combined Temperature": 15.549999999999999,
+    "c2": "ITA",
+    "c1": "SWE",
+    "c2_temp": 13.45
+  },
+  {
+    "Transfer Entropy": 0.5410006458384449,
+    "c1_temp": 2.1,
+    "Combined Temperature": 15.4,
+    "c2": "ESP",
+    "c1": "SWE",
+    "c2_temp": 13.3
+  },
+  {
+    "Transfer Entropy": 0.3424154160518015,
+    "c1_temp": 2.1,
+    "Combined Temperature": 13.0,
+    "c2": "HRV",
+    "c1": "SWE",
+    "c2_temp": 10.9
+  },
+  {
+    "Transfer Entropy": 0.5410331427274961,
+    "c1_temp": 2.1,
+    "Combined Temperature": 12.799999999999999,
+    "c2": "FRA",
+    "c1": "SWE",
+    "c2_temp": 10.7
+  },
+  {
+    "Transfer Entropy": 0.36729514282099623,
+    "c1_temp": 2.1,
+    "Combined Temperature": 12.65,
+    "c2": "BGR",
+    "c1": "SWE",
+    "c2_temp": 10.55
+  },
+  {
+    "Transfer Entropy": 0.48382979642158547,
+    "c1_temp": 2.1,
+    "Combined Temperature": 11.85,
+    "c2": "HUN",
+    "c1": "SWE",
+    "c2_temp": 9.75
+  },
+  {
+    "Transfer Entropy": 0.5483121144230924,
+    "c1_temp": 2.1,
+    "Combined Temperature": 11.65,
+    "c2": "BEL",
+    "c1": "SWE",
+    "c2_temp": 9.55
+  },
+  {
+    "Transfer Entropy": 0.4337315949876658,
+    "c1_temp": 2.1,
+    "Combined Temperature": 11.4,
+    "c2": "IRL",
+    "c1": "SWE",
+    "c2_temp": 9.3
+  },
+  {
+    "Transfer Entropy": 0.22857588494839914,
+    "c1_temp": 2.1,
+    "Combined Temperature": 11.35,
+    "c2": "NLD",
+    "c1": "SWE",
+    "c2_temp": 9.25
+  },
+  {
+    "Transfer Entropy": 0.6598971922822202,
+    "c1_temp": 2.1,
+    "Combined Temperature": 11.0,
+    "c2": "SVN",
+    "c1": "SWE",
+    "c2_temp": 8.9
+  },
+  {
+    "Transfer Entropy": 0.4222039760449359,
+    "c1_temp": 2.1,
+    "Combined Temperature": 10.9,
+    "c2": "ROU",
+    "c1": "SWE",
+    "c2_temp": 8.8
+  },
+  {
+    "Transfer Entropy": 0.634272415978729,
+    "c1_temp": 2.1,
+    "Combined Temperature": 10.75,
+    "c2": "LUX",
+    "c1": "SWE",
+    "c2_temp": 8.65
+  },
+  {
+    "Transfer Entropy": 0.5171548615141119,
+    "c1_temp": 2.1,
+    "Combined Temperature": 10.5,
+    "c2": "DEU",
+    "c1": "SWE",
+    "c2_temp": 8.4
+  },
+  {
+    "Transfer Entropy": 0.2169609075926351,
+    "c1_temp": 2.1,
+    "Combined Temperature": 9.95,
+    "c2": "POL",
+    "c1": "SWE",
+    "c2_temp": 7.85
+  },
+  {
+    "Transfer Entropy": 0.2798339106656815,
+    "c1_temp": 2.1,
+    "Combined Temperature": 9.65,
+    "c2": "CZE",
+    "c1": "SWE",
+    "c2_temp": 7.55
+  },
+  {
+    "Transfer Entropy": 0.2887074684616193,
+    "c1_temp": 2.1,
+    "Combined Temperature": 9.6,
+    "c2": "DNK",
+    "c1": "SWE",
+    "c2_temp": 7.5
+  },
+  {
+    "Transfer Entropy": 0.2818786983091087,
+    "c1_temp": 2.1,
+    "Combined Temperature": 8.9,
+    "c2": "SVK",
+    "c1": "SWE",
+    "c2_temp": 6.8
+  },
+  {
+    "Transfer Entropy": 0.5171870109848793,
+    "c1_temp": 2.1,
+    "Combined Temperature": 8.45,
+    "c2": "AUT",
+    "c1": "SWE",
+    "c2_temp": 6.35
+  },
+  {
+    "Transfer Entropy": 0.4729760000700991,
+    "c1_temp": 2.1,
+    "Combined Temperature": 8.3,
+    "c2": "LTU",
+    "c1": "SWE",
+    "c2_temp": 6.2
+  },
+  {
+    "Transfer Entropy": 0.4499605751487362,
+    "c1_temp": 2.1,
+    "Combined Temperature": 7.75,
+    "c2": "LIE",
+    "c1": "SWE",
+    "c2_temp": 5.65
+  },
+  {
+    "Transfer Entropy": 0.5786319936083286,
+    "c1_temp": 2.1,
+    "Combined Temperature": 7.699999999999999,
+    "c2": "LVA",
+    "c1": "SWE",
+    "c2_temp": 5.6
+  },
+  {
+    "Transfer Entropy": 0.5375001109386637,
+    "c1_temp": 2.1,
+    "Combined Temperature": 7.199999999999999,
+    "c2": "EST",
+    "c1": "SWE",
+    "c2_temp": 5.1
+  },
+  {
+    "c1_temp": 2.1,
+    "Transfer Entropy": null,
+    "c1": "SWE",
+    "c2_temp": 2.1,
+    "c2": "SWE"
+  },
+  {
+    "Transfer Entropy": 0.3069607978526308,
+    "c1_temp": 2.1,
+    "Combined Temperature": 3.85,
+    "c2": "ISL",
+    "c1": "SWE",
+    "c2_temp": 1.75
+  },
+  {
+    "Transfer Entropy": 0.5561265305084878,
+    "c1_temp": 2.1,
+    "Combined Temperature": 3.8,
+    "c2": "FIN",
+    "c1": "SWE",
+    "c2_temp": 1.7
+  },
+  {
+    "Transfer Entropy": 0.3865412882351024,
+    "c1_temp": 2.1,
+    "Combined Temperature": 3.6,
+    "c2": "NOR",
+    "c1": "SWE",
+    "c2_temp": 1.5
+  },
+  {
+    "Transfer Entropy": 0.2962999101745011,
+    "c1_temp": 1.75,
+    "Combined Temperature": 20.95,
+    "c2": "MLT",
+    "c1": "ISL",
+    "c2_temp": 19.2
+  },
+  {
+    "Transfer Entropy": 0.2803407401536245,
+    "c1_temp": 1.75,
+    "Combined Temperature": 20.2,
+    "c2": "CYP",
+    "c1": "ISL",
+    "c2_temp": 18.45
+  },
+  {
+    "Transfer Entropy": 0.2275853646372319,
+    "c1_temp": 1.75,
+    "Combined Temperature": 17.15,
+    "c2": "GRC",
+    "c1": "ISL",
+    "c2_temp": 15.4
+  },
+  {
+    "Transfer Entropy": 0.2536096784967309,
+    "c1_temp": 1.75,
+    "Combined Temperature": 16.9,
+    "c2": "PRT",
+    "c1": "ISL",
+    "c2_temp": 15.15
+  },
+  {
+    "Transfer Entropy": 0.23947997455614342,
+    "c1_temp": 1.75,
+    "Combined Temperature": 15.2,
+    "c2": "ITA",
+    "c1": "ISL",
+    "c2_temp": 13.45
+  },
+  {
+    "Transfer Entropy": 0.2648982130659756,
+    "c1_temp": 1.75,
+    "Combined Temperature": 15.05,
+    "c2": "ESP",
+    "c1": "ISL",
+    "c2_temp": 13.3
+  },
+  {
+    "Transfer Entropy": 0.138632987617934,
+    "c1_temp": 1.75,
+    "Combined Temperature": 12.65,
+    "c2": "HRV",
+    "c1": "ISL",
+    "c2_temp": 10.9
+  },
+  {
+    "Transfer Entropy": 0.31062366135760205,
+    "c1_temp": 1.75,
+    "Combined Temperature": 12.45,
+    "c2": "FRA",
+    "c1": "ISL",
+    "c2_temp": 10.7
+  },
+  {
+    "Transfer Entropy": 0.13419561021115678,
+    "c1_temp": 1.75,
+    "Combined Temperature": 12.3,
+    "c2": "BGR",
+    "c1": "ISL",
+    "c2_temp": 10.55
+  },
+  {
+    "Transfer Entropy": 0.15481971187971044,
+    "c1_temp": 1.75,
+    "Combined Temperature": 11.5,
+    "c2": "HUN",
+    "c1": "ISL",
+    "c2_temp": 9.75
+  },
+  {
+    "Transfer Entropy": 0.17479610812434163,
+    "c1_temp": 1.75,
+    "Combined Temperature": 11.3,
+    "c2": "BEL",
+    "c1": "ISL",
+    "c2_temp": 9.55
+  },
+  {
+    "Transfer Entropy": 0.20416224036293443,
+    "c1_temp": 1.75,
+    "Combined Temperature": 11.05,
+    "c2": "IRL",
+    "c1": "ISL",
+    "c2_temp": 9.3
+  },
+  {
+    "Transfer Entropy": 0.12320678431507144,
+    "c1_temp": 1.75,
+    "Combined Temperature": 11.0,
+    "c2": "NLD",
+    "c1": "ISL",
+    "c2_temp": 9.25
+  },
+  {
+    "Transfer Entropy": 0.2194104843652858,
+    "c1_temp": 1.75,
+    "Combined Temperature": 10.65,
+    "c2": "SVN",
+    "c1": "ISL",
+    "c2_temp": 8.9
+  },
+  {
+    "Transfer Entropy": 0.22127041066250813,
+    "c1_temp": 1.75,
+    "Combined Temperature": 10.55,
+    "c2": "ROU",
+    "c1": "ISL",
+    "c2_temp": 8.8
+  },
+  {
+    "Transfer Entropy": 0.3123774715473895,
+    "c1_temp": 1.75,
+    "Combined Temperature": 10.4,
+    "c2": "LUX",
+    "c1": "ISL",
+    "c2_temp": 8.65
+  },
+  {
+    "Transfer Entropy": 0.2368530497579395,
+    "c1_temp": 1.75,
+    "Combined Temperature": 10.15,
+    "c2": "DEU",
+    "c1": "ISL",
+    "c2_temp": 8.4
+  },
+  {
+    "Transfer Entropy": 0.06489226627672619,
+    "c1_temp": 1.75,
+    "Combined Temperature": 9.6,
+    "c2": "POL",
+    "c1": "ISL",
+    "c2_temp": 7.85
+  },
+  {
+    "Transfer Entropy": 0.08594393363929674,
+    "c1_temp": 1.75,
+    "Combined Temperature": 9.3,
+    "c2": "CZE",
+    "c1": "ISL",
+    "c2_temp": 7.55
+  },
+  {
+    "Transfer Entropy": 0.10401748119983587,
+    "c1_temp": 1.75,
+    "Combined Temperature": 9.25,
+    "c2": "DNK",
+    "c1": "ISL",
+    "c2_temp": 7.5
+  },
+  {
+    "Transfer Entropy": 0.05619505175641396,
+    "c1_temp": 1.75,
+    "Combined Temperature": 8.55,
+    "c2": "SVK",
+    "c1": "ISL",
+    "c2_temp": 6.8
+  },
+  {
+    "Transfer Entropy": 0.22237857831018423,
+    "c1_temp": 1.75,
+    "Combined Temperature": 8.1,
+    "c2": "AUT",
+    "c1": "ISL",
+    "c2_temp": 6.35
+  },
+  {
+    "Transfer Entropy": 0.17343838914622342,
+    "c1_temp": 1.75,
+    "Combined Temperature": 7.95,
+    "c2": "LTU",
+    "c1": "ISL",
+    "c2_temp": 6.2
+  },
+  {
+    "Transfer Entropy": 0.19255592432430457,
+    "c1_temp": 1.75,
+    "Combined Temperature": 7.4,
+    "c2": "LIE",
+    "c1": "ISL",
+    "c2_temp": 5.65
+  },
+  {
+    "Transfer Entropy": 0.20062287524424013,
+    "c1_temp": 1.75,
+    "Combined Temperature": 7.35,
+    "c2": "LVA",
+    "c1": "ISL",
+    "c2_temp": 5.6
+  },
+  {
+    "Transfer Entropy": 0.22830106840522818,
+    "c1_temp": 1.75,
+    "Combined Temperature": 6.85,
+    "c2": "EST",
+    "c1": "ISL",
+    "c2_temp": 5.1
+  },
+  {
+    "Transfer Entropy": 0.22619205011979607,
+    "c1_temp": 1.75,
+    "Combined Temperature": 3.85,
+    "c2": "SWE",
+    "c1": "ISL",
+    "c2_temp": 2.1
+  },
+  {
+    "c1_temp": 1.75,
+    "Transfer Entropy": null,
+    "c1": "ISL",
+    "c2_temp": 1.75,
+    "c2": "ISL"
+  },
+  {
+    "Transfer Entropy": 0.20243844569622177,
+    "c1_temp": 1.75,
+    "Combined Temperature": 3.45,
+    "c2": "FIN",
+    "c1": "ISL",
+    "c2_temp": 1.7
+  },
+  {
+    "Transfer Entropy": 0.11795550774640444,
+    "c1_temp": 1.75,
+    "Combined Temperature": 3.25,
+    "c2": "NOR",
+    "c1": "ISL",
+    "c2_temp": 1.5
+  },
+  {
+    "Transfer Entropy": 0.6125862636199336,
+    "c1_temp": 1.7,
+    "Combined Temperature": 20.9,
+    "c2": "MLT",
+    "c1": "FIN",
+    "c2_temp": 19.2
+  },
+  {
+    "Transfer Entropy": 0.47488528121753637,
+    "c1_temp": 1.7,
+    "Combined Temperature": 20.15,
+    "c2": "CYP",
+    "c1": "FIN",
+    "c2_temp": 18.45
+  },
+  {
+    "Transfer Entropy": 0.5059185430691326,
+    "c1_temp": 1.7,
+    "Combined Temperature": 17.1,
+    "c2": "GRC",
+    "c1": "FIN",
+    "c2_temp": 15.4
+  },
+  {
+    "Transfer Entropy": 0.41385372358822214,
+    "c1_temp": 1.7,
+    "Combined Temperature": 16.85,
+    "c2": "PRT",
+    "c1": "FIN",
+    "c2_temp": 15.15
+  },
+  {
+    "Transfer Entropy": 0.46960290767485235,
+    "c1_temp": 1.7,
+    "Combined Temperature": 15.149999999999999,
+    "c2": "ITA",
+    "c1": "FIN",
+    "c2_temp": 13.45
+  },
+  {
+    "Transfer Entropy": 0.5332647402507557,
+    "c1_temp": 1.7,
+    "Combined Temperature": 15.0,
+    "c2": "ESP",
+    "c1": "FIN",
+    "c2_temp": 13.3
+  },
+  {
+    "Transfer Entropy": 0.33207031758833333,
+    "c1_temp": 1.7,
+    "Combined Temperature": 12.6,
+    "c2": "HRV",
+    "c1": "FIN",
+    "c2_temp": 10.9
+  },
+  {
+    "Transfer Entropy": 0.4918819381353858,
+    "c1_temp": 1.7,
+    "Combined Temperature": 12.399999999999999,
+    "c2": "FRA",
+    "c1": "FIN",
+    "c2_temp": 10.7
+  },
+  {
+    "Transfer Entropy": 0.27716710648212867,
+    "c1_temp": 1.7,
+    "Combined Temperature": 12.25,
+    "c2": "BGR",
+    "c1": "FIN",
+    "c2_temp": 10.55
+  },
+  {
+    "Transfer Entropy": 0.4379747479897801,
+    "c1_temp": 1.7,
+    "Combined Temperature": 11.45,
+    "c2": "HUN",
+    "c1": "FIN",
+    "c2_temp": 9.75
+  },
+  {
+    "Transfer Entropy": 0.40503970191951577,
+    "c1_temp": 1.7,
+    "Combined Temperature": 11.25,
+    "c2": "BEL",
+    "c1": "FIN",
+    "c2_temp": 9.55
+  },
+  {
+    "Transfer Entropy": 0.40651868725591134,
+    "c1_temp": 1.7,
+    "Combined Temperature": 11.0,
+    "c2": "IRL",
+    "c1": "FIN",
+    "c2_temp": 9.3
+  },
+  {
+    "Transfer Entropy": 0.20507556540326027,
+    "c1_temp": 1.7,
+    "Combined Temperature": 10.95,
+    "c2": "NLD",
+    "c1": "FIN",
+    "c2_temp": 9.25
+  },
+  {
+    "Transfer Entropy": 0.5579086094914258,
+    "c1_temp": 1.7,
+    "Combined Temperature": 10.6,
+    "c2": "SVN",
+    "c1": "FIN",
+    "c2_temp": 8.9
+  },
+  {
+    "Transfer Entropy": 0.4116817989963603,
+    "c1_temp": 1.7,
+    "Combined Temperature": 10.5,
+    "c2": "ROU",
+    "c1": "FIN",
+    "c2_temp": 8.8
+  },
+  {
+    "Transfer Entropy": 0.702745235774121,
+    "c1_temp": 1.7,
+    "Combined Temperature": 10.35,
+    "c2": "LUX",
+    "c1": "FIN",
+    "c2_temp": 8.65
+  },
+  {
+    "Transfer Entropy": 0.5161206765725525,
+    "c1_temp": 1.7,
+    "Combined Temperature": 10.1,
+    "c2": "DEU",
+    "c1": "FIN",
+    "c2_temp": 8.4
+  },
+  {
+    "Transfer Entropy": 0.16176176563465888,
+    "c1_temp": 1.7,
+    "Combined Temperature": 9.549999999999999,
+    "c2": "POL",
+    "c1": "FIN",
+    "c2_temp": 7.85
+  },
+  {
+    "Transfer Entropy": 0.2794400136802046,
+    "c1_temp": 1.7,
+    "Combined Temperature": 9.25,
+    "c2": "CZE",
+    "c1": "FIN",
+    "c2_temp": 7.55
+  },
+  {
+    "Transfer Entropy": 0.19163263410072306,
+    "c1_temp": 1.7,
+    "Combined Temperature": 9.2,
+    "c2": "DNK",
+    "c1": "FIN",
+    "c2_temp": 7.5
+  },
+  {
+    "Transfer Entropy": 0.238631592493774,
+    "c1_temp": 1.7,
+    "Combined Temperature": 8.5,
+    "c2": "SVK",
+    "c1": "FIN",
+    "c2_temp": 6.8
+  },
+  {
+    "Transfer Entropy": 0.43214643492126786,
+    "c1_temp": 1.7,
+    "Combined Temperature": 8.049999999999999,
+    "c2": "AUT",
+    "c1": "FIN",
+    "c2_temp": 6.35
+  },
+  {
+    "Transfer Entropy": 0.42828374646181994,
+    "c1_temp": 1.7,
+    "Combined Temperature": 7.9,
+    "c2": "LTU",
+    "c1": "FIN",
+    "c2_temp": 6.2
+  },
+  {
+    "Transfer Entropy": 0.3587871252622467,
+    "c1_temp": 1.7,
+    "Combined Temperature": 7.3500000000000005,
+    "c2": "LIE",
+    "c1": "FIN",
+    "c2_temp": 5.65
+  },
+  {
+    "Transfer Entropy": 0.5370840949110667,
+    "c1_temp": 1.7,
+    "Combined Temperature": 7.3,
+    "c2": "LVA",
+    "c1": "FIN",
+    "c2_temp": 5.6
+  },
+  {
+    "Transfer Entropy": 0.44654839833435034,
+    "c1_temp": 1.7,
+    "Combined Temperature": 6.8,
+    "c2": "EST",
+    "c1": "FIN",
+    "c2_temp": 5.1
+  },
+  {
+    "Transfer Entropy": 0.4954739427358788,
+    "c1_temp": 1.7,
+    "Combined Temperature": 3.8,
+    "c2": "SWE",
+    "c1": "FIN",
+    "c2_temp": 2.1
+  },
+  {
+    "Transfer Entropy": 0.38368400539971115,
+    "c1_temp": 1.7,
+    "Combined Temperature": 3.45,
+    "c2": "ISL",
+    "c1": "FIN",
+    "c2_temp": 1.75
+  },
+  {
+    "c1_temp": 1.7,
+    "Transfer Entropy": null,
+    "c1": "FIN",
+    "c2_temp": 1.7,
+    "c2": "FIN"
+  },
+  {
+    "Transfer Entropy": 0.20205505306147864,
+    "c1_temp": 1.7,
+    "Combined Temperature": 3.2,
+    "c2": "NOR",
+    "c1": "FIN",
+    "c2_temp": 1.5
+  },
+  {
+    "Transfer Entropy": 0.5161236538091141,
+    "c1_temp": 1.5,
+    "Combined Temperature": 20.7,
+    "c2": "MLT",
+    "c1": "NOR",
+    "c2_temp": 19.2
+  },
+  {
+    "Transfer Entropy": 0.40457988478576223,
+    "c1_temp": 1.5,
+    "Combined Temperature": 19.95,
+    "c2": "CYP",
+    "c1": "NOR",
+    "c2_temp": 18.45
+  },
+  {
+    "Transfer Entropy": 0.3610970630204845,
+    "c1_temp": 1.5,
+    "Combined Temperature": 16.9,
+    "c2": "GRC",
+    "c1": "NOR",
+    "c2_temp": 15.4
+  },
+  {
+    "Transfer Entropy": 0.33075441311753456,
+    "c1_temp": 1.5,
+    "Combined Temperature": 16.65,
+    "c2": "PRT",
+    "c1": "NOR",
+    "c2_temp": 15.15
+  },
+  {
+    "Transfer Entropy": 0.34019977844787197,
+    "c1_temp": 1.5,
+    "Combined Temperature": 14.95,
+    "c2": "ITA",
+    "c1": "NOR",
+    "c2_temp": 13.45
+  },
+  {
+    "Transfer Entropy": 0.4122462549606045,
+    "c1_temp": 1.5,
+    "Combined Temperature": 14.8,
+    "c2": "ESP",
+    "c1": "NOR",
+    "c2_temp": 13.3
+  },
+  {
+    "Transfer Entropy": 0.22148545001953976,
+    "c1_temp": 1.5,
+    "Combined Temperature": 12.4,
+    "c2": "HRV",
+    "c1": "NOR",
+    "c2_temp": 10.9
+  },
+  {
+    "Transfer Entropy": 0.3929211400747122,
+    "c1_temp": 1.5,
+    "Combined Temperature": 12.2,
+    "c2": "FRA",
+    "c1": "NOR",
+    "c2_temp": 10.7
+  },
+  {
+    "Transfer Entropy": 0.20931521366740405,
+    "c1_temp": 1.5,
+    "Combined Temperature": 12.05,
+    "c2": "BGR",
+    "c1": "NOR",
+    "c2_temp": 10.55
+  },
+  {
+    "Transfer Entropy": 0.41538248364935654,
+    "c1_temp": 1.5,
+    "Combined Temperature": 11.25,
+    "c2": "HUN",
+    "c1": "NOR",
+    "c2_temp": 9.75
+  },
+  {
+    "Transfer Entropy": 0.2870699665341491,
+    "c1_temp": 1.5,
+    "Combined Temperature": 11.05,
+    "c2": "BEL",
+    "c1": "NOR",
+    "c2_temp": 9.55
+  },
+  {
+    "Transfer Entropy": 0.2659474158980117,
+    "c1_temp": 1.5,
+    "Combined Temperature": 10.8,
+    "c2": "IRL",
+    "c1": "NOR",
+    "c2_temp": 9.3
+  },
+  {
+    "Transfer Entropy": 0.15558295251063606,
+    "c1_temp": 1.5,
+    "Combined Temperature": 10.75,
+    "c2": "NLD",
+    "c1": "NOR",
+    "c2_temp": 9.25
+  },
+  {
+    "Transfer Entropy": 0.4388057494841619,
+    "c1_temp": 1.5,
+    "Combined Temperature": 10.4,
+    "c2": "SVN",
+    "c1": "NOR",
+    "c2_temp": 8.9
+  },
+  {
+    "Transfer Entropy": 0.34726892839196194,
+    "c1_temp": 1.5,
+    "Combined Temperature": 10.3,
+    "c2": "ROU",
+    "c1": "NOR",
+    "c2_temp": 8.8
+  },
+  {
+    "Transfer Entropy": 0.47588288084485086,
+    "c1_temp": 1.5,
+    "Combined Temperature": 10.15,
+    "c2": "LUX",
+    "c1": "NOR",
+    "c2_temp": 8.65
+  },
+  {
+    "Transfer Entropy": 0.3753345589901664,
+    "c1_temp": 1.5,
+    "Combined Temperature": 9.9,
+    "c2": "DEU",
+    "c1": "NOR",
+    "c2_temp": 8.4
+  },
+  {
+    "Transfer Entropy": 0.15544818023288734,
+    "c1_temp": 1.5,
+    "Combined Temperature": 9.35,
+    "c2": "POL",
+    "c1": "NOR",
+    "c2_temp": 7.85
+  },
+  {
+    "Transfer Entropy": 0.22522475248864512,
+    "c1_temp": 1.5,
+    "Combined Temperature": 9.05,
+    "c2": "CZE",
+    "c1": "NOR",
+    "c2_temp": 7.55
+  },
+  {
+    "Transfer Entropy": 0.17502176265358296,
+    "c1_temp": 1.5,
+    "Combined Temperature": 9.0,
+    "c2": "DNK",
+    "c1": "NOR",
+    "c2_temp": 7.5
+  },
+  {
+    "Transfer Entropy": 0.2493633268863431,
+    "c1_temp": 1.5,
+    "Combined Temperature": 8.3,
+    "c2": "SVK",
+    "c1": "NOR",
+    "c2_temp": 6.8
+  },
+  {
+    "Transfer Entropy": 0.32693451496493003,
+    "c1_temp": 1.5,
+    "Combined Temperature": 7.85,
+    "c2": "AUT",
+    "c1": "NOR",
+    "c2_temp": 6.35
+  },
+  {
+    "Transfer Entropy": 0.3382642152090477,
+    "c1_temp": 1.5,
+    "Combined Temperature": 7.7,
+    "c2": "LTU",
+    "c1": "NOR",
+    "c2_temp": 6.2
+  },
+  {
+    "Transfer Entropy": 0.2724754000439146,
+    "c1_temp": 1.5,
+    "Combined Temperature": 7.15,
+    "c2": "LIE",
+    "c1": "NOR",
+    "c2_temp": 5.65
+  },
+  {
+    "Transfer Entropy": 0.441323456632476,
+    "c1_temp": 1.5,
+    "Combined Temperature": 7.1,
+    "c2": "LVA",
+    "c1": "NOR",
+    "c2_temp": 5.6
+  },
+  {
+    "Transfer Entropy": 0.38110801648046333,
+    "c1_temp": 1.5,
+    "Combined Temperature": 6.6,
+    "c2": "EST",
+    "c1": "NOR",
+    "c2_temp": 5.1
+  },
+  {
+    "Transfer Entropy": 0.46105767604117487,
+    "c1_temp": 1.5,
+    "Combined Temperature": 3.6,
+    "c2": "SWE",
+    "c1": "NOR",
+    "c2_temp": 2.1
+  },
+  {
+    "Transfer Entropy": 0.31400916351844116,
+    "c1_temp": 1.5,
+    "Combined Temperature": 3.25,
+    "c2": "ISL",
+    "c1": "NOR",
+    "c2_temp": 1.75
+  },
+  {
+    "Transfer Entropy": 0.2652780043949548,
+    "c1_temp": 1.5,
+    "Combined Temperature": 3.2,
+    "c2": "FIN",
+    "c1": "NOR",
+    "c2_temp": 1.7
+  },
+  {
+    "c1_temp": 1.5,
+    "Transfer Entropy": null,
+    "c1": "NOR",
+    "c2_temp": 1.5,
+    "c2": "NOR"
+  }
+]
