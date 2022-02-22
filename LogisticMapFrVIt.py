@@ -8,6 +8,8 @@ import math
 import numpy as np
 import jpype
 import sys
+import pyinform.transferentropy as TE
+import pyinform.mutualinfo as MI
 
 def readFloatsFile(filename):
 	"Read a 2D array of floats from a given file"
@@ -78,6 +80,7 @@ def logisticMapPlots(vals1, vals2, vals3, vals4):
 
 logisticMapPlots(vals1, vals2, vals3, vals4)
 
+#The code below comes from https://github.com/judeter/CS523-TopDownCausation
 #making the vendiagrams.
 X = np.array([vals1,vals2,vals3,vals4])
 X = X*100
@@ -96,7 +99,7 @@ firstNtimesteps_pdfs = generatePDFs(X[:,:N],numberOfBins,binRange)
 lastNtimesteps_pdfs  = generatePDFs(X[:,-N:],numberOfBins,binRange)
 print(fullTimeSeries_pdfs)
 print("Shannon entropyies:")
-file1 = open("bin_data/FR - IT 7 day average - for_jidit.txt")
+file1 = open("bin_data/FR - IT for_jidit.txt")
 line = file1.readline()
 print(line)
 france = []
@@ -106,6 +109,10 @@ while not len(line) == 0:
     italy.append(int(line.split()[1]))
     line = file1.readline()
 frit = np.array([france,italy])
+print(TE.transfer_entropy(france,italy,k=2))
+print(TE.transfer_entropy(italy,france,k=2))
+#print(TE.transfer_entropy(vals2,vals1,k=5))
+#print(TE.transfer_entropy(vals4,vals3,k=5))
 frit_pdf = generatePDFs(frit,numberOfBins,binRange)
 print(entropy(fullTimeSeries_pdfs))
 #HofFirstN  = entropy(firstNtimesteps_pdfs)
