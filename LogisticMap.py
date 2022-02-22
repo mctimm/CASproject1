@@ -77,7 +77,7 @@ def logisticMapPlots(vals1, vals2, vals3, vals4):
     #plt.show()
 
 logisticMapPlots(vals1, vals2, vals3, vals4)
-
+#The code below comes from https://github.com/judeter/CS523-TopDownCausation
 #making the vendiagrams.
 X = np.array([vals1,vals2,vals3,vals4])
 X = X*100
